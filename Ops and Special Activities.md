@@ -19,7 +19,7 @@ When a politician is removed by a Rat attack, the Rats instantly get 3 points, a
 **Location:** Any destination spaces.
 **Cost:** 2 resources per destination space.
 **Procedure:** Move police along a path adjacent spaces, stopping at sabotage. Then, at final destination spaces:
-* If at support, reveal one cell for every two cubes there.
+* If at resist, reveal one cell for every two cubes there.
 * Otherwise, reveal one cell for every cube there.
 *Note: Movement is considered to be simultaneous.*
 
@@ -56,12 +56,15 @@ The number of spaces the Rats can target for ops and some special activities is 
 **Special Activities:** ?
 **Purpose:** Kill police, stop armored cars, and assassinate politicians.
 **Location:** Any spaces with underground cells, up to the number on the moss track.
-**Procedure:** At each space, reveal an underground cell and place a terror, and then either:
+**Procedure:** At each space, reveal an underground cell and then either:
 * A: Remove (kill) a politician if there are no police in the space (see **Assassination**).
 * B: Bomb the space. Remove one or more arms caches in the space or adjacent to it. Determine attack power by rolling a die and adding the number of arms caches removed.
 	* First, remove police cubes (each cube costs 2 power, removed to out of play).
 	* Then, once no police, if there is an armored car, remove it for 2 power. If an armored car is removed, may place an arms cache in an adjacent space.
 	* Then, if power remains, remove (kill) the following pieces in alternating order (at a cost of 1 power each): politician, civilian cube, gang cube. (See **Assassination**). If any civilian cubes were removed, set the space to support.
+Then:
+* If space is an LOC, place a sabotage.
+* Otherwise, place a terror.
 
 ## Sabotage
 **Special Activities:** ?
@@ -95,31 +98,26 @@ The number of spaces the Rats can target for ops and some special activities is 
 
 ## Lockdown
 **Accompanying Ops:**
-**Purpose:**
-**Location:**
-**Procedure:**
+**Purpose:** Place emergency zones.
+**Location:** Up to two spaces with terror and police cubes.
+**Procedure:** Place an emergency zone in each of the target spaces.
 
 # Rat Special Activities
 ---
 ## Traffic
-
 **Accompanying Ops:**
-**Purpose:**
-**Location:**
-**Procedure:** Rats may place arms caches equal to the number of moss growers on the map plus one.
+**Purpose:** Place arms caches.
+**Location:** Spaces with underground Rat cells, up to the number of moss growers on the map plus one.
+**Procedure:** Rats may place one arms caches in each selected space.
 
 ## Sneak
 **Accompanying Ops:**
-**Purpose:**
-**Location:**
-**Procedure:**
-
-Move 1 or 2 cells from any space to an adjacent space, and flip them underground.
+**Purpose:** Move cells and flip them underground.
+**Location:** One origin space with Rat cells and one destination space.
+**Procedure:** Move 1 or 2 cells from the origin space to an adjacent destination space, and flip them underground.
 
 # Scare
 **Accompanying Ops:**
-**Purpose:**
-**Location:**
-**Procedure:**
-
-In a space with an underground cell, may move police cubes from that space to an adjacent space, equal to the number of underground cells in that space.
+**Purpose:** Move police cubes.
+**Location:** One space with underground Rat cells.
+**Procedure:** Move police cubes, up to the number of underground cells in that space, from the target space to any adjacent spaces.
