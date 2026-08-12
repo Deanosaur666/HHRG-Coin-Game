@@ -25,9 +25,9 @@ Each turn (except for a turn that automatically triggers propaganda), events are
 
 | Roll | Result                                                                           |
 | ---- | -------------------------------------------------------------------------------- |
-| 1    | Nothing.                                                                         |
-| 2    | Nothing.                                                                         |
-| 3    | Nothing.                                                                         |
+| 1    | Government player moves one armored car.                                         |
+| 2    | Government player moves two armored cars.                                        |
+| 3    | Government player moves three armored cars.                                      |
 | 4    | Government player places 2 civilians among 1 or 2 non-LOC spaces without terror. |
 | 5    | Rat player places 2 gang members among 1 or 2 non-LOC spaces without support.    |
 | 6    | Trigger a shootout. Government player selects the space among valid spaces.      |
