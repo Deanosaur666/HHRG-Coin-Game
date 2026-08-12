@@ -1,4 +1,8 @@
+# Setup
+
 Better setup.
+
+Politicians, moss grower, arms caches, and more guerrillas starting on map.
 
 # Simplify
 
