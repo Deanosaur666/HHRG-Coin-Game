@@ -18,13 +18,14 @@ For rats, "Econ" lets them increase the moss track and place arms caches. Passin
 ### Train.
 In non-sabotaged spaces, either:
 - Place 2 police officers from supply.
-- Place a politician and convert a gangster to a civilian.
+- Place a politician, remove a gangster, add a civilian.
 - In a space with a politician, convert a number of gangsters to civilians based on support.
 
 ### Sweep
 Move police along a path adjacent spaces, stopping at sabotage. Then, at final destination spaces:
-- If sabotaged, reveal 1 rat for every 2 police,
-- Otherwise, reveal 1 rat per police.
+- If emergency zone, reveal 1 rat per police
+- Otherwise, reveal 1 rat per 2 police.
+Then, if terror or sabotage in destination, police may place an emergency zone.
 
 ### Assault
 In each space, determine attack power by rolling a dice and adding the number of police in the space.
@@ -99,27 +100,41 @@ Place arms caches at rats, based on moss track.
 
 
 
+# Shootouts (v2)
 
+In propaganda, check for a shootout in every space with gangsters or terror. In an event, only pick spaces with terror.
 
-# Shootouts
+Only gangsters initiate shootouts.
+Shootout "power" is gangsters + terror markers.
 
-Roll to see the number of shots taken in each shootout. The maximum number of shots is the population (gangsters + civilians).
+Roll a dice, if equal to or under power, the shootout will occur.
 
-In shootouts:
-- It takes two hits to kill underground rats or politicians, and active pieces will always be hit first.
-- Probes are always hit before police.
-- Police require two hits, and are moved to gov spaces instead of being removed from the map.
-- Politicians that survive are always flipped underground.
-
-The support track determines which side will take hits first.
-
-At high support, ALL rat pieces will be attacked first. 
-At positive and neutral support, shots are alternated, but rats are hit first.
-At negative support, shots are alternated, but police are hit first.
-At lowest support, ALL police pieces are attacked first.
-
-Alternating order of hits (default):
-Rats/Police (based on support), civilians, gangsters, rats/police (whichever not picked first)
-
+Remove pieces equal to power, in alternating order:
+- Active politician (if power roll is greater than number of police)
+- Civilian (or gangster if no civilians left)
+- Active rat (or reveal underground rat if none active)
 
 After a shootout takes place, rats may take an attack action in that space, then police may assault in that space.
+
+# ~~Shootouts (v1)~~
+
+~~Roll to see the number of shots taken in each shootout. The maximum number of shots is the population (gangsters + civilians).~~
+
+~~In shootouts:~~
+- ~~It takes two hits to kill underground rats or politicians, and active pieces will always be hit first.~~
+- ~~Probes are always hit before police.~~
+- ~~Police require two hits, and are moved to gov spaces instead of being removed from the map.~~
+- ~~Politicians that survive are always flipped underground.~~
+
+~~The support track determines which side will take hits first.~~
+
+~~At high support, ALL rat pieces will be attacked first.~~ 
+~~At positive and neutral support, shots are alternated, but rats are hit first.~~
+~~At negative support, shots are alternated, but police are hit first.~~
+~~At lowest support, ALL police pieces are attacked first.~~
+
+~~Alternating order of hits (default):~~
+~~Rats/Police (based on support), civilians, gangsters, rats/police (whichever not picked first)~~
+
+
+~~After a shootout takes place, rats may take an attack action in that space, then police may assault in that space.~~
