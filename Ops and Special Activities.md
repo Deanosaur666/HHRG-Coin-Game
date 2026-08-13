@@ -38,18 +38,18 @@ If an arms cache is removed, the Government player gets 1 point.
 
 # Rat Ops
 ---
-The number of spaces the Rats can target for ops and some special activities is determined by their moss track.
+~~The number of spaces the Rats can target for ops and some special activities is determined by their moss track.~~
 
 ## Rally
 **Special Activities:** ?
 **Purpose:** Add Rat cells and arms caches to the map.
-**Location:** Any districts, up to the ops value on the moss track.
+**Location:** Any districts
 **Procedure:** In each space place one cell, or, if there is an arms cache in the space, two cells. If the support track allows it, may then replace one gang cube with a Rats cell. Then, may place arms caches in selected space, up to the arms cache value on the moss track.
 
 ## Travel
 **Special Activities:** ?
 **Purpose:** Move Rat cells and flip them underground.
-**Location:** Any origin spaces without emergency zones, up to the ops value on the moss track.
+**Location:** Any origin spaces without emergency zones
 **Procedure:** Move Rat cells from origin spaces to adjacent spaces. Then:
 * If destination is an emergency zone, strategic center, or LOC, and moving cells plus cubes there exceed 3, flip moving cells to active.
 * Otherwise, flip moving cells underground.
@@ -58,7 +58,7 @@ The number of spaces the Rats can target for ops and some special activities is 
 ## Attack
 **Special Activities:** ?
 **Purpose:** Kill police, stop armored cars, and assassinate politicians.
-**Location:** Any spaces with underground cells, up to the number on the moss track.
+**Location:** Any spaces with underground cells
 **Procedure:** At each space, reveal an underground cell and then either:
 * A: Remove (kill) a politician if there are no police in the space (see **Assassination**).
 * B: Bomb the space. Remove one or more arms caches in the space or adjacent to it. Determine attack power by rolling a die and adding double the number of arms caches removed.
@@ -72,7 +72,7 @@ Then:
 ## Sabotage
 **Special Activities:** ?
 **Purpose:** Sabotage spaces to limit police movement, income, and shift to resist.
-**Location:** Any spaces with underground cells, up to the number on the moss track.
+**Location:** Any spaces with underground cells
 **Procedure:** In each space reveal one underground cell, and then place a sabotage. May replace a civilian with a gang member in each target space.
 
 
@@ -98,11 +98,11 @@ Then:
 
 # Rat Special Activities
 ---
-## Traffic
-**Accompanying Ops:**
-**Purpose:** Increase moss track.
-**Location:** Moss track, or a district with an underground rat.
-**Procedure:** If the moss grower is on the map, increase the moss track by one. Otherwise, place the moss grower in a district with an underground rat.
+## ~~Traffic~~
+~~**Accompanying Ops:**~~
+~~**Purpose:** Increase moss track.~~
+~~**Location:** Moss track, or a district with an underground rat.~~
+~~**Procedure:** If the moss grower is on the map, increase the moss track by one. Otherwise, place the moss grower in a district with an underground rat.~~
 
 ## Raid
 **Accompanying Ops:**
@@ -117,3 +117,11 @@ Then:
 **Purpose:** Move police cubes.
 **Location:** One space with underground Rat cells.
 **Procedure:** Move police cubes, up to the number of underground cells in that space, from the target space or an adjacent LOC to any adjacent spaces.
+
+# Smuggle
+**Purpose**: Facilitate recruiting in hard to reach spaces.
+**Location**: An LOC adjacent to an external space, or an LOC with an arms cache.
+**Procedure**: 
+Choose one option
+A: In an LOC bordering an external space, place an arms cache. This cache moves similarly to an armored car.
+B: Remove an arms cache from an LOC, and place an arms cache and up to 3 guerrillas in an adjacent space.

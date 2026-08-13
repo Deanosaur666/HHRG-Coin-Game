@@ -16,3 +16,8 @@ The Rats used these methods:
 The U Party and police responded to the Rats using these methods:
 * Propaganda, to support the U Party's legitimacy and to condemn the Rats.
 * Attacks against suspected Rat dens, and against drug dealers, especially those suspected of aiding the Rats.
+
+
+The setting of the map is a central city for vertex and police operations.
+
+Rats have invaded this city to attempt to severely damage U Party infrastructure.
