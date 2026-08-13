@@ -18,8 +18,7 @@ For rats, "Econ" lets them increase the moss track and place arms caches. Passin
 ### Train.
 In non-sabotaged spaces, either:
 - Place 2 police officers from supply.
-- Place a politician, remove a gangster, add a civilian.
-- In a space with a politician, convert a number of gangsters to civilians based on support.
+- Place a politician, remove a gangster or terror, then add a civilian
 
 ### Sweep
 Move police along a path adjacent spaces, stopping at sabotage. Then, at final destination spaces:
@@ -39,7 +38,7 @@ In each space, determine attack power by rolling a dice and adding the number of
 ### Rally.
 In spaces without politicians:
 - Place 1 rat
-- Then, may convert 1 gangster to a rat.
+- Then, may convert 1 gangster to a rat (if no terror).
 - At arms cache, place an extra rat.
 (Place up to 3 rats total in a space if gangsters and arms cache)
 
@@ -88,14 +87,11 @@ Move two guys out of a space into another space and make them underground.
 At spaces with underground cells, reveal a cell, then place a sabotage.
 
 
-### Intimate
-At spaces with underground cells, roll a dice, and move that many police to adjacent spaces.
-
-
 ### Traffic
 Place arms caches at rats, based on moss track.
 
-
+## Intimidate
+At spaces with underground cells, roll a dice, and move that many police to adjacent spaces.
 
 
 # Shootouts (v2)
