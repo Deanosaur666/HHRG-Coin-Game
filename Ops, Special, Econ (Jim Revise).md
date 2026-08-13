@@ -60,7 +60,7 @@ Then, if the space is an LOC, add a sabotage, otherwise add a terror.
 # Special Activities
 
 ## Police
-If ther
+
 ### Repair
 Select a space with police.
 Remove any sabotage markers there.
@@ -82,8 +82,6 @@ Support track -1.
 
 ### Sneak
 Move two guys out of a space into another space and make them underground.
-
-it has recently occurred to me that a good chunk of 3D animated movies too involve generational or immigration-based trauma as a main theme and i don't know what to make of it
 
 ### Sabotage
 (Im making it SPECIAL, so you can move and do it, also it is not as primary as in som e games.)
