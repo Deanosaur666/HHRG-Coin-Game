@@ -8,49 +8,52 @@ When a politician is removed by a Rat attack, the Rats instantly get 3 points, a
 ---
 ## Train
 **Special Activities:** ?
-**Purpose:** Place police, and place or move probes in emergency zones.
-**Location:** Any spaces without resist, and any emergency zones.
-**Cost:** 2 resources per space where cubes are placed.
-**Procedure:** Place up to 2 police in each space, and additionally up to 4 probes in each emergency zone. Then, may move up to 6 probes among all emergency zones on the map.
+**Purpose:** Place police.
+**Location:** Any police stations.
+**Procedure:** Place up to 2 police in each un-sabotaged space and 1 police in each sabotaged space.
 
 ## Sweep
 **Special Activities:** ?
 **Purpose:** Move police and reveal Rat cells.
 **Location:** Any destination spaces.
-**Cost:** 2 resources per destination space.
-**Procedure:** Move police along a path adjacent spaces, stopping at sabotage. Then, at final destination spaces:
-* If at resist, reveal one cell for every two cubes there.
-* Otherwise, reveal one cell for every cube there.
+**Procedure:** May move police to an adjacent, un-sabotaged LOC, then may move to an adjacent space. Then, at final destination spaces:
+* If at an emergency zone, LOC, or strategic center, reveal one cell for every cubes there.
+* Otherwise, reveal one cell for every two cubes there.
+Then, if destination space has sabotage or terror, and is not an LOC or strategic center, place an emergency zone.
 *Note: Movement is considered to be simultaneous.*
 
 ## Assault
 **Special Activities:** ?
 **Purpose:** Remove Rat cells, arm caches, moss growers, and gangs.
 **Location:** Any spaces with police.
-**Cost:** 2 resources per selected space.
 **Procedure:** In each space, determine attack power by rolling a dice and adding the number of police in the space. Then, must remove that many pieces, if possible.
-* If the space has a moss grower: First remove active rats, then rat arms caches, then gang members, then underground rats, (civilians are not removed). Then, if no rats remain, remove all moss growers from the space, and shift the space to support.
-* Otherwise: First, remove active rats, then rat arms caches, then gang members, then civilians, and finally underground rats. If any civilians are removed, add a terror to the space and set the space to resist.
+* Otherwise: First, remove active rats, then gang members, then civilians. If the space is an emergency zone, may spend one power to flip an underground rat to active. Remove arms caches only once no rats remain. If any civilians are removed, add a terror to the space, and shift the support track to the left.
 If an arms cache is removed, the Government player gets 1 point.
 
+## Pacify
+**Special Activities:** ?
+**Purpose:** Place politicians, increase civilian population, and remove terror.
+**Location:** Up to two districts with police.
+**Procedure:** Place a politician in each selected space, or move politicians if none are available. Then, may remove a terror or gangster from each space, and add a civilian to each space.
 
 # Rat Ops
 ---
-The number of spaces the Rats can target for ops and some special activities is determined by their moss track. The more moss growers are on the map, the more spaces the Rats can target.
+The number of spaces the Rats can target for ops and some special activities is determined by their moss track.
 
 ## Rally
 **Special Activities:** ?
-**Purpose:** Add Rat cells to the map.
-**Location:** Spaces without support, up to the number on the moss track.
-**Procedure:** In each space place one cell, or, if there is an arms cache in the space, two cells. Then, in each targeted space at resist, may replace one gang cube or one civilian cube with a cell. Then, may place one moss grower in one targeted space.
+**Purpose:** Add Rat cells and arms caches to the map.
+**Location:** Any districts, up to the ops value on the moss track.
+**Procedure:** In each space place one cell, or, if there is an arms cache in the space, two cells. If the support track allows it, may then replace one gang cube with a Rats cell. Then, may place arms caches in selected space, up to the arms cache value on the moss track.
 
 ## Travel
 **Special Activities:** ?
 **Purpose:** Move Rat cells and flip them underground.
-**Location:** Any origin spaces with cells and without emergency zones, up to the number on the moss track.
+**Location:** Any origin spaces without emergency zones, up to the ops value on the moss track.
 **Procedure:** Move Rat cells from origin spaces to adjacent spaces. Then:
-* If destination has support, or is an LOC, or is an emergency zone, and moving cells plus cubes there exceed 3, flip moving cells to active.
+* If destination is an emergency zone, strategic center, or LOC, and moving cells plus cubes there exceed 3, flip moving cells to active.
 * Otherwise, flip moving cells underground.
+*Note: Movement may be chained.*
 
 ## Attack
 **Special Activities:** ?
@@ -58,10 +61,10 @@ The number of spaces the Rats can target for ops and some special activities is 
 **Location:** Any spaces with underground cells, up to the number on the moss track.
 **Procedure:** At each space, reveal an underground cell and then either:
 * A: Remove (kill) a politician if there are no police in the space (see **Assassination**).
-* B: Bomb the space. Remove one or more arms caches in the space or adjacent to it. Determine attack power by rolling a die and adding the number of arms caches removed.
+* B: Bomb the space. Remove one or more arms caches in the space or adjacent to it. Determine attack power by rolling a die and adding double the number of arms caches removed.
 	* First, remove police cubes (each cube costs 2 power, removed to out of play).
-	* Then, once no police, if there is an armored car, remove it for 2 power. If an armored car is removed, may place an arms cache in an adjacent space.
-	* Then, if power remains, remove (kill) the following pieces in alternating order (at a cost of 1 power each): politician, civilian cube, gang cube. (See **Assassination**). If any civilian cubes were removed, set the space to support.
+	* Then, once no police, if there is an armored car, remove it for 2 power. If an armored car is removed, may place an arms cache in a district adjacent to the car.
+	* Then, if power remains, remove (kill) the following pieces in alternating order (at a cost of 1 power each): politician, civilian cube, gang cube. (See **Assassination**). If any civilian cubes were removed, shift the support track to the right.
 Then:
 * If space is an LOC, place a sabotage.
 * Otherwise, place a terror.
@@ -70,54 +73,47 @@ Then:
 **Special Activities:** ?
 **Purpose:** Sabotage spaces to limit police movement, income, and shift to resist.
 **Location:** Any spaces with underground cells, up to the number on the moss track.
-**Procedure:** In each space reveal one underground cell, and then place a sabotage and shift the space towards resist.
+**Procedure:** In each space reveal one underground cell, and then place a sabotage. May replace a civilian with a gang member in each target space.
 
 
 # Government Special Activities
 ---
-
-## Pacify
-**Accompanying Ops:**
-**Purpose:** Place politicians and shift spaces towards support.
-**Location:** One non-LOC space with police cubes.
-**Procedure:** Place a politician in the target space, or move a politician from anywhere on the map to the target space. Remove one terror and shift the space towards support.
-
-## Incite
-**Accompanying Ops:**
-**Purpose:** Add terror and place or move gangs.
-**Location:** Any non-LOC space with or adjacent to police cubes.
-**Procedure:** Place a terror in the target space, either:
-* Place two gang cubes in the target space, or
-* Move two gang members from an adjacent space to the target space.
-
 ## Supply
 **Accompanying Ops:**
 **Purpose:** Place armored cars to increase police supply.
-**Location:** Ask Jim
-**Procedure:** Ask Jim
+**Location:** Any un-sabotaged factories.
+**Procedure:** Place an armored car at each selected space.
 
-## Lockdown
+## Repair
 **Accompanying Ops:**
-**Purpose:** Place emergency zones.
-**Location:** Up to two spaces with terror and police cubes.
-**Procedure:** Place an emergency zone in each of the target spaces.
+**Purpose:** Remove sabotage.
+**Location:** Any space with police and sabotage.
+**Procedure:** Remove all sabotage from the space.
+
+## Artillery
+**Accompanying Ops:**
+**Purpose:** Remove all pieces from a space.
+**Location:** Any district.
+**Procedure:** As a cost, remove 4 police from the map and available to out of play. Then remove all pieces, except sabotage, from the space (police to out of play).
 
 # Rat Special Activities
 ---
 ## Traffic
 **Accompanying Ops:**
-**Purpose:** Place arms caches.
-**Location:** Spaces with underground Rat cells, up to the number of moss growers on the map plus one.
-**Procedure:** Rats may place one arms caches in each selected space.
+**Purpose:** Increase moss track.
+**Location:** Moss track, or a district with an underground rat.
+**Procedure:** If the moss grower is on the map, increase the moss track by one. Otherwise, place the moss grower in a district with an underground rat.
 
-## Sneak
+## Raid
 **Accompanying Ops:**
 **Purpose:** Move cells and flip them underground.
-**Location:** One origin space with Rat cells and one destination space.
-**Procedure:** Move 1 or 2 cells from the origin space to an adjacent destination space, and flip them underground.
+**Location:** One space adjacent to an arms cache.
+**Procedure:** Pick either:
+* Move 1 or 2 cells from an adjacent space with an arms cache to the selected space, and then perform a single attack or sabotage in the destination space.
+* Move 1 or 2 cells from the selected space to an adjacent space with an arms cache, and flip them underground.
 
 # Scare
 **Accompanying Ops:**
 **Purpose:** Move police cubes.
 **Location:** One space with underground Rat cells.
-**Procedure:** Move police cubes, up to the number of underground cells in that space, from the target space to any adjacent spaces.
+**Procedure:** Move police cubes, up to the number of underground cells in that space, from the target space or an adjacent LOC to any adjacent spaces.

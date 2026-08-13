@@ -104,7 +104,7 @@ Shootout "power" is gangsters + terror markers.
 Roll a dice, if equal to or under power, the shootout will occur.
 
 Remove pieces equal to power, in alternating order:
-- Active politician (if power roll is greater than number of police)
+- ~~Active politician (if power roll is greater than number of police)~~
 - Civilian (or gangster if no civilians left)
 - Active rat (or reveal underground rat if none active)
 
