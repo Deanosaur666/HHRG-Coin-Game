@@ -101,7 +101,13 @@ Then:
 ## Supply
 **Accompanying Ops:**
 **Purpose:** Place armored cars to increase police supply.
-**Location:** Any un-sabotaged factories.
+**Location:** Any un-sabotaged factories.Artillery
+
+Only available if artillery strategic center is not sabotaged.
+Purpose: Remove all pieces from a space.
+Location: Any district or foreign space.
+Procedure: As a cost, remove 4 police from the map and available to out of play. Then remove all pieces, except sabotage, from the space (police to out of play).
+If the target space is a foreign space, shift the moss track once to the left, shift the support track once to the left, and lose one political will.
 **Procedure:** Place an armored car at each selected space.
 
 ## Repair
