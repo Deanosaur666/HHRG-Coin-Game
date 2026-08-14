@@ -11,9 +11,10 @@ Districts have two base values population:
 * Gangster base pop
 These determine how many of each type of cube starts on each district in setup, and also if cubes need to be "refilled" during propaganda. Civilian base pop also determines shifts in political will.
 
-Strategic centers come in two types:
+Strategic centers come in these types:
 * Factories, where armored cars start
 * Police stations, where armored cars reach their destination, and where police are trained.
+* Ray artillery cannons, which are required for the Government artillery special activity.
 
 LOCs and strategic centers have economic values, which determine the loss of political will if they are sabotaged.
 

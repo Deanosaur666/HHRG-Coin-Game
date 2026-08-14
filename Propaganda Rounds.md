@@ -1,3 +1,7 @@
+# Move all armored cars
+
+All armored cars move.
+
 # Shootouts
 
 In every space with gangsters or terror, roll for a shootout ([[Shootouts]]).
@@ -8,7 +12,7 @@ Rats may perform one free bombing (attack option B).
 
 # Politicians
 
-Political will increases by one for every surviving politician on the map. Then, in each space with an active politician, may replace one gang member with a civilian, or place a civilian.
+Political will increases by one for every surviving active politician on the map. Then, in each space with an active politician, may replace one gang member with a civilian, or place a civilian.
 
 Then, flip all politicians active.
 
@@ -19,7 +23,7 @@ Political will changes by the sum of the following:
 
 # Score sabotage
 
-Decrease political will by the economic value of each sabotaged strategic center (factories and police stations) and each sabotaged LOC.
+Decrease political will by the economic value of each sabotaged strategic center (factories, police stations, and artillery) and each sabotaged LOC.
 
 # Emergency Zones
 
