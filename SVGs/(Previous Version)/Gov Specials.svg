@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   sodipodi:docname="Rats Specials.svg"
-   inkscape:export-filename="Rats Special.png"
+   sodipodi:docname="Gov Specials.svg"
+   inkscape:export-filename="Gov Special.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,17 +27,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="508.40978"
-     inkscape:cy="922.06724"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="244.65895"
+     inkscape:cy="975.80736"
      inkscape:window-width="1920"
      inkscape:window-height="978"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:export-bgcolor="#b5b5b5ff"
-     showguides="true">
+     inkscape:export-bgcolor="#b5b5b5ff">
     <inkscape:grid
        id="grid11"
        units="mm"
@@ -97,24 +96,6 @@
      id="defs1">
     <rect
        x="99.985708"
-       y="872"
-       width="880.02855"
-       height="348"
-       id="rect16" />
-    <rect
-       x="99.985708"
-       y="480"
-       width="880.02857"
-       height="353.01219"
-       id="rect10" />
-    <rect
-       x="99.985708"
-       y="1706"
-       width="880.02855"
-       height="366"
-       id="rect3" />
-    <rect
-       x="99.985708"
        y="1626"
        width="880.02855"
        height="358"
@@ -165,7 +146,7 @@
        x="101.01646"
        y="136.06299"
        width="878.99781"
-       height="314.5123"
+       height="232.48791"
        id="rect23" />
     <rect
        x="32.984968"
@@ -191,39 +172,48 @@
        width="970.99499"
        height="96.893343"
        id="rect40" />
-    <rect
-       x="99.985708"
-       y="480"
-       width="880.02857"
-       height="353.01219"
-       id="rect14" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="vector-effect:non-scaling-stroke;fill:#f8dfde;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
-       id="rect20"
-       width="929.5918"
-       height="354.92575"
-       x="75.204071"
-       y="99.985657"
-       rx="79.847824"
-       ry="72.525284" />
-    <rect
-       style="display:inline;vector-effect:non-scaling-stroke;fill:#f8dfde;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
-       id="rect21"
-       width="929.5918"
-       height="400.92575"
-       x="75.204071"
-       y="492.91141"
-       rx="79.847824"
-       ry="72.525284" />
+    <g
+       id="g20"
+       style="display:inline;fill:#aaeded;fill-opacity:1">
+      <rect
+         style="display:inline;fill:#aaeded;fill-opacity:1;vector-effect:non-scaling-stroke;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+         id="rect42"
+         width="929.5918"
+         height="261.79581"
+         x="75.204071"
+         y="99.985657"
+         rx="79.847824"
+         ry="72.525284"
+         transform="translate(0,270.28107)" />
+      <rect
+         style="display:inline;fill:#aaeded;fill-opacity:1;vector-effect:non-scaling-stroke;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+         id="rect21"
+         width="929.5918"
+         height="451.30045"
+         x="75.204071"
+         y="385.6568"
+         rx="79.847824"
+         ry="72.525284"
+         transform="translate(0,270.28107)" />
+      <rect
+         style="vector-effect:non-scaling-stroke;fill:#aaeded;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+         id="rect20"
+         width="929.5918"
+         height="234.92575"
+         x="75.204071"
+         y="99.985657"
+         rx="79.847824"
+         ry="72.525284" />
+    </g>
     <g
        id="g39"
        style="display:inline;fill:#ffffff;fill-opacity:1"
-       transform="translate(0,239.70563)">
+       transform="translate(0,69.999999)">
       <rect
          style="display:inline;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
          id="rect37"
@@ -242,6 +232,15 @@
          y="1377.2384"
          rx="79.847824"
          ry="72.525284" />
+      <rect
+         style="display:inline;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+         id="rect39"
+         width="929.5918"
+         height="303.79578"
+         x="75.204071"
+         y="1573.2384"
+         rx="79.847824"
+         ry="72.525284" />
       <text
          xml:space="preserve"
          id="text27"
@@ -250,86 +249,82 @@
          y="0"><tspan
            x="99.986328"
            y="1259.9531"
-           id="tspan6"><tspan
-             style="font-weight:bold;fill:#000000;stroke:none"
-             id="tspan1">PASS</tspan><tspan
+           id="tspan21"><tspan
+             style="font-weight:bold"
+             id="tspan6">PASS</tspan><tspan
              style="fill:#000000;stroke:none"
-             id="tspan4">
+             id="tspan7">
 </tspan></tspan><tspan
            x="99.986328"
            y="1296.6197"
-           id="tspan10"><tspan
-             style="font-weight:bold;fill:#000000;stroke:none"
-             id="tspan8">Procedure</tspan><tspan
+           id="tspan24"><tspan
+             style="font-weight:bold"
+             id="tspan22">Procedure</tspan><tspan
              style="fill:#000000;stroke:none"
-             id="tspan9">: Flip one actuve rat underground. </tspan></tspan></text>
+             id="tspan23">: Flip one underground politician to active.</tspan></tspan></text>
       <text
          xml:space="preserve"
          id="text30"
          style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect30);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
          x="-440.01428"
          y="0"
-         transform="translate(0,-12)"><tspan
+         transform="translate(0,-20)"><tspan
            x="99.986328"
            y="1457.9531"
-           id="tspan12"><tspan
+           id="tspan26"><tspan
    style="font-weight:bold"
-   id="tspan11">ECON</tspan>
+   id="tspan25">ECON</tspan>
 </tspan><tspan
            x="99.986328"
            y="1494.6197"
-           id="tspan16"><tspan
+           id="tspan28"><tspan
    style="font-weight:bold"
-   id="tspan13">Procedure</tspan>: Perform the <tspan
-   style="font-style:italic"
-   id="tspan15">traffic</tspan> special activity.</tspan></text>
-      <rect
-         style="display:inline;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
-         id="rect5"
-         width="929.5918"
-         height="297.79578"
-         x="75.204071"
-         y="1597.2384"
-         rx="79.847824"
-         ry="72.525284" />
+   id="tspan27">Procedure</tspan>: Place an armored car at an un-sabotaged </tspan><tspan
+           x="99.986328"
+           y="1531.2863"
+           id="tspan29">factory.</tspan></text>
       <text
          xml:space="preserve"
-         id="text3"
-         style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+         id="text33"
+         style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect33);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
          x="-440.01428"
          y="0"
-         transform="translate(0,-69.999999)"><tspan
+         transform="translate(0,-20)"><tspan
            x="99.986328"
-           y="1731.9531"
-           id="tspan18"><tspan
+           y="1651.9531"
+           id="tspan31"><tspan
    style="font-weight:bold"
-   id="tspan17">Assassination</tspan>
+   id="tspan30">Armored Car Movement</tspan>
 </tspan><tspan
            x="99.986328"
-           y="1768.6197"
-           id="tspan19">When a politician is removed by a Rat attack, decrease </tspan><tspan
+           y="1688.6197"
+           id="tspan33"><tspan
+   style="font-weight:bold"
+   id="tspan32">Procedure</tspan>: At the start of each event phase, the </tspan><tspan
            x="99.986328"
-           y="1805.2863"
-           id="tspan20">political will by 3, the support track shifts to the left, and an </tspan><tspan
+           y="1725.2863"
+           id="tspan37">government may move a number of armored cars based on </tspan><tspan
            x="99.986328"
-           y="1841.953"
-           id="tspan21">emergency zone is placed in the space. Politicians are </tspan><tspan
+           y="1761.953"
+           id="tspan38">the event roll.
+</tspan><tspan
            x="99.986328"
-           y="1878.6196"
-           id="tspan22">removed to out of play and cannot be returned to available </tspan><tspan
+           y="1798.6196"
+           id="tspan39">Armored cars on sabotaged LOCs cannot move. Each </tspan><tspan
            x="99.986328"
-           y="1915.2862"
-           id="tspan23">from there.</tspan></text>
+           y="1835.2862"
+           id="tspan41">selected car moves towards a police station along its LOC.
+</tspan></text>
     </g>
     <text
        xml:space="preserve"
        id="text22"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"><tspan
-         x="173.27148"
+         x="52.392578"
          y="61.023438"
-         id="tspan25"><tspan
+         id="tspan43"><tspan
            style="font-weight:bold"
-           id="tspan24">RATS SPECIAL ACTIVITIES</tspan></tspan></text>
+           id="tspan42">GOVERNMENT SPECIAL ACTIVITIES</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text23"
@@ -338,39 +333,27 @@
        y="0"><tspan
          x="101.01562"
          y="162.0156"
-         id="tspan27"><tspan
+         id="tspan45"><tspan
    style="font-weight:bold"
-   id="tspan26">Traffic</tspan>
+   id="tspan44">Supply</tspan>
 </tspan><tspan
          x="101.01562"
          y="198.68222"
-         id="tspan29"><tspan
+         id="tspan47"><tspan
    style="font-weight:bold"
-   id="tspan28">Purpose</tspan>: Increase moss track and move an arms cache.
+   id="tspan46">Purpose</tspan>: Place armored cars to increase police supply.
 </tspan><tspan
          x="101.01562"
          y="235.34885"
-         id="tspan31"><tspan
+         id="tspan49"><tspan
    style="font-weight:bold"
-   id="tspan30">Location</tspan>: Moss track, or a district with an underground </tspan><tspan
-         x="101.01562"
-         y="272.01547"
-         id="tspan32">rat.
+   id="tspan48">Location</tspan>: Any un-sabotaged factories.
 </tspan><tspan
          x="101.01562"
-         y="308.6821"
-         id="tspan34"><tspan
+         y="272.01547"
+         id="tspan51"><tspan
    style="font-weight:bold"
-   id="tspan33">Procedure</tspan>: If the moss grower is on the map, increase the </tspan><tspan
-         x="101.01562"
-         y="345.34873"
-         id="tspan35">moss track by one. Otherwise, place the moss grower in a </tspan><tspan
-         x="101.01562"
-         y="382.01535"
-         id="tspan36">district with an underground rat. Then, may move one </tspan><tspan
-         x="101.01562"
-         y="418.68198"
-         id="tspan37">arms cache from any space to an adjacent district.</tspan></text>
+   id="tspan50">Procedure</tspan>: Place an armored car at each selected space.</tspan></text>
     <g
        id="g42"
        style="display:none"
@@ -395,99 +378,99 @@
     </g>
     <text
        xml:space="preserve"
-       id="text40"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect40);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
-       transform="translate(0,1309.5618)"><tspan
-         x="299.13086"
-         y="61.023438"
-         id="tspan39"><tspan
-           style="font-weight:bold"
-           id="tspan38">OTHER ACTIONS</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text10"
-       style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       id="text8"
+       style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
-       y="0"
-       transform="translate(0,42.426408)"><tspan
+       y="0"><tspan
          x="99.986328"
-         y="505.9531"
-         id="tspan41"><tspan
+         y="436.07419"
+         id="tspan53"><tspan
    style="font-weight:bold"
-   id="tspan40">Raid</tspan>
+   id="tspan52">Repair</tspan>
 </tspan><tspan
          x="99.986328"
-         y="542.61972"
-         id="tspan43"><tspan
+         y="472.74081"
+         id="tspan55"><tspan
    style="font-weight:bold"
-   id="tspan42">Purpose</tspan>: Move cells and flip them underground.
+   id="tspan54">Purpose</tspan>: Remove sabotage.
 </tspan><tspan
          x="99.986328"
-         y="579.28635"
-         id="tspan45"><tspan
+         y="509.40744"
+         id="tspan57"><tspan
    style="font-weight:bold"
-   id="tspan44">Location</tspan>: One space adjacent to an arms cache.
+   id="tspan56">Location</tspan>: Any space with police and sabotage.
 </tspan><tspan
          x="99.986328"
-         y="615.95297"
-         id="tspan47"><tspan
+         y="546.07407"
+         id="tspan59"><tspan
    style="font-weight:bold"
-   id="tspan46">Procedure</tspan>: Pick either:
-</tspan><tspan
+   id="tspan58">Procedure</tspan>: Remove all sabotage from the space. Shift the </tspan><tspan
          x="99.986328"
-         y="652.6196"
-         id="tspan48">* Move 1 or 2 cells from an adjacent space with an arms </tspan><tspan
-         x="99.986328"
-         y="689.28623"
-         id="tspan49">cache to the selected space, and then may perform a </tspan><tspan
-         x="99.986328"
-         y="725.95285"
-         id="tspan50">single sabotage in the destination space.
-</tspan><tspan
-         x="99.986328"
-         y="762.61948"
-         id="tspan51">* Move 1 or 2 cells from the selected space to an adjacent </tspan><tspan
-         x="99.986328"
-         y="799.2861"
-         id="tspan52">space with an arms cache, and flip them underground.</tspan></text>
-    <rect
-       style="display:inline;vector-effect:non-scaling-stroke;fill:#f8dfde;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
-       id="rect1"
-       width="929.5918"
-       height="230.92572"
-       x="75.204071"
-       y="916.91144"
-       rx="79.847824"
-       ry="72.525284" />
+         y="582.74069"
+         id="tspan60">support track once to the right.</tspan></text>
     <text
        xml:space="preserve"
        id="text13"
-       style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(0,466.42642)"><tspan
+       transform="translate(0,62.000001)"><tspan
          x="99.986328"
-         y="505.9531"
-         id="tspan54"><tspan
+         y="665.1777"
+         id="tspan62"><tspan
    style="font-weight:bold"
-   id="tspan53">Propagandize</tspan>
+   id="tspan61">Artillery</tspan>
 </tspan><tspan
          x="99.986328"
-         y="542.61972"
-         id="tspan56"><tspan
-   style="font-weight:bold"
-   id="tspan55">Purpose</tspan>: Shift the support track
+         y="701.84433"
+         id="tspan64"><tspan
+   style="font-style:italic"
+   id="tspan63">Only available if artillery strategic center is not sabotaged.</tspan>
 </tspan><tspan
          x="99.986328"
-         y="579.28635"
-         id="tspan58"><tspan
+         y="738.51096"
+         id="tspan66"><tspan
    style="font-weight:bold"
-   id="tspan57">Location</tspan>: One space with a rat cell and emergency zone.
+   id="tspan65">Purpose</tspan>: Remove all pieces from a space.
 </tspan><tspan
          x="99.986328"
-         y="615.95297"
-         id="tspan60"><tspan
+         y="775.17758"
+         id="tspan68"><tspan
    style="font-weight:bold"
-   id="tspan59">Procedure</tspan>: Shift the support track one step to the left.</tspan></text>
+   id="tspan67">Location</tspan>: Any district or foreign space.
+</tspan><tspan
+         x="99.986328"
+         y="811.84421"
+         id="tspan70"><tspan
+   style="font-weight:bold"
+   id="tspan69">Procedure</tspan>: As a cost, remove 4 police from the map and </tspan><tspan
+         x="99.986328"
+         y="848.51083"
+         id="tspan71">available to out of play. Then remove all pieces, except </tspan><tspan
+         x="99.986328"
+         y="885.17746"
+         id="tspan72">sabotage, from the space (police to out of play).
+</tspan><tspan
+         x="99.986328"
+         y="921.84409"
+         id="tspan74"><tspan
+   style="font-style:italic"
+   id="tspan73">If the target space is a foreign space</tspan>, shift the moss track </tspan><tspan
+         x="99.986328"
+         y="958.51071"
+         id="tspan75">once to the left, shift the support track once to the left, and </tspan><tspan
+         x="99.986328"
+         y="995.17734"
+         id="tspan76">lose one political will.</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text40"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect40);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       transform="translate(0,1139.8562)"><tspan
+         x="299.13086"
+         y="61.023438"
+         id="tspan78"><tspan
+           style="font-weight:bold"
+           id="tspan77">OTHER ACTIONS</tspan></tspan></text>
   </g>
 </svg>

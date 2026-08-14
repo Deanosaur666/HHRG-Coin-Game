@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="Rats Ops.svg"
-   inkscape:export-filename="PNGs/Rat Ops.png"
+   inkscape:export-filename="Rat Ops.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.5"
-     inkscape:cx="415"
-     inkscape:cy="868"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="321.02648"
+     inkscape:cy="905.09668"
      inkscape:window-width="1920"
      inkscape:window-height="978"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g45"
      inkscape:export-bgcolor="#b5b5b5ff">
     <inkscape:grid
        id="grid11"
@@ -244,39 +244,39 @@
        transform="translate(0,26.000001)"><tspan
          x="99.986328"
          y="125.93942"
-         id="tspan8"><tspan
+         id="tspan13"><tspan
    style="font-weight:bold"
-   id="tspan4">Rally</tspan>
+   id="tspan8">Rally</tspan>
 </tspan><tspan
          x="99.986328"
          y="162.60605"
-         id="tspan18"><tspan
+         id="tspan23"><tspan
    style="font-weight:bold"
-   id="tspan13">Purpose</tspan>: Add Rat cells and arms caches to the map.
+   id="tspan18">Purpose</tspan>: Add Rat cells and arms caches to the map.
 </tspan><tspan
          x="99.986328"
          y="199.27268"
-         id="tspan33"><tspan
+         id="tspan25"><tspan
    style="font-weight:bold"
-   id="tspan32">Location</tspan>: Any districts without emergency zones.
+   id="tspan24">Location</tspan>: Any districts
 </tspan><tspan
          x="99.986328"
          y="235.9393"
-         id="tspan35"><tspan
+         id="tspan27"><tspan
    style="font-weight:bold"
-   id="tspan34">Procedure</tspan>: In each space place one cell, or, if there is an </tspan><tspan
+   id="tspan26">Procedure</tspan>: In each space place one cell, or, if there is an </tspan><tspan
          x="99.986328"
          y="272.60593"
-         id="tspan36">arms cache in the space, two cells. If the support track </tspan><tspan
+         id="tspan28">arms cache in the space, two cells. If the support track </tspan><tspan
          x="99.986328"
          y="309.27255"
-         id="tspan37">allows it, may then replace one gang cube with a Rats cell. </tspan><tspan
+         id="tspan29">allows it, may then replace one gang cube with a Rats cell. </tspan><tspan
          x="99.986328"
          y="345.93918"
-         id="tspan38">Then, may place arms caches in selected space, up to the </tspan><tspan
+         id="tspan30">Then, may place arms caches in selected space, up to the </tspan><tspan
          x="99.986328"
          y="382.60581"
-         id="tspan39">arms cache value on the moss track.
+         id="tspan31">arms cache value on the moss track.
 </tspan></text>
     <text
        xml:space="preserve"
@@ -287,48 +287,48 @@
        transform="translate(0,38.183767)"><tspan
          x="99.986328"
          y="501.9531"
-         id="tspan41"><tspan
+         id="tspan33"><tspan
    style="font-weight:bold"
-   id="tspan40">Travel</tspan>
+   id="tspan32">Travel</tspan>
 </tspan><tspan
          x="99.986328"
          y="538.61972"
-         id="tspan43"><tspan
+         id="tspan35"><tspan
    style="font-weight:bold"
-   id="tspan42">Purpose</tspan>: Move Rat cells and flip them underground.
+   id="tspan34">Purpose</tspan>: Move Rat cells and flip them underground.
 </tspan><tspan
          x="99.986328"
          y="575.28635"
-         id="tspan45"><tspan
+         id="tspan37"><tspan
    style="font-weight:bold"
-   id="tspan44">Location</tspan>: Any origin spaces without emergency zones
+   id="tspan36">Location</tspan>: Any origin spaces without emergency zones
 </tspan><tspan
          x="99.986328"
          y="611.95297"
-         id="tspan47"><tspan
+         id="tspan39"><tspan
    style="font-weight:bold"
-   id="tspan46">Procedure</tspan>: Move Rat cells from origin spaces to adjacent </tspan><tspan
+   id="tspan38">Procedure</tspan>: Move Rat cells from origin spaces to adjacent </tspan><tspan
          x="99.986328"
          y="648.6196"
-         id="tspan48">spaces. Then:
+         id="tspan40">spaces. Then:
 </tspan><tspan
          x="99.986328"
          y="685.28623"
-         id="tspan49">* If destination is an emergency zone, strategic center, or </tspan><tspan
+         id="tspan41">* If destination is an emergency zone, strategic center, or </tspan><tspan
          x="99.986328"
          y="721.95285"
-         id="tspan50">LOC, and moving cells plus cubes there exceed 3, flip </tspan><tspan
+         id="tspan42">LOC, and moving cells plus cubes there exceed 3, flip </tspan><tspan
          x="99.986328"
          y="758.61948"
-         id="tspan51">moving cells to active.
+         id="tspan43">moving cells to active.
 </tspan><tspan
          x="99.986328"
          y="795.2861"
-         id="tspan52">* Otherwise, flip moving cells underground.
+         id="tspan44">* Otherwise, flip moving cells underground.
 </tspan><tspan
          x="99.986328"
          y="831.95273"
-         id="tspan53">*Note: Movement may be chained.*
+         id="tspan45">*Note: Movement may be chained.*
 </tspan></text>
     <text
        xml:space="preserve"
@@ -339,90 +339,90 @@
        transform="translate(0,28.000001)"><tspan
          x="99.986328"
          y="979.9531"
-         id="tspan55"><tspan
+         id="tspan47"><tspan
    style="font-weight:bold"
-   id="tspan54">Attack</tspan>
+   id="tspan46">Attack</tspan>
 </tspan><tspan
          x="99.986328"
          y="1016.6197"
-         id="tspan57"><tspan
+         id="tspan49"><tspan
    style="font-weight:bold"
-   id="tspan56">Purpose</tspan>: Kill police, stop armored cars, and assassinate </tspan><tspan
+   id="tspan48">Purpose</tspan>: Kill police, stop armored cars, and assassinate </tspan><tspan
          x="99.986328"
          y="1053.2863"
-         id="tspan58">politicians.
+         id="tspan50">politicians.
 </tspan><tspan
          x="99.986328"
          y="1089.953"
-         id="tspan60"><tspan
+         id="tspan52"><tspan
    style="font-weight:bold"
-   id="tspan59">Location</tspan>: Any spaces with underground cells
+   id="tspan51">Location</tspan>: Any spaces with underground cells
 </tspan><tspan
          x="99.986328"
          y="1126.6196"
-         id="tspan62"><tspan
+         id="tspan54"><tspan
    style="font-weight:bold"
-   id="tspan61">Procedure</tspan>: At each space, reveal an underground cell and </tspan><tspan
+   id="tspan53">Procedure</tspan>: At each space, reveal an underground cell and </tspan><tspan
          x="99.986328"
          y="1163.2862"
-         id="tspan63">then either:
+         id="tspan55">then either:
 </tspan><tspan
          x="99.986328"
          y="1199.9529"
-         id="tspan64">A: Remove (kill) a politician if there are no police in the </tspan><tspan
+         id="tspan56">A: Remove (kill) a politician if there are no police in the </tspan><tspan
          x="99.986328"
          y="1236.6195"
-         id="tspan65">space (see Assassination).
+         id="tspan57">space (see Assassination).
 </tspan><tspan
          x="99.986328"
          y="1273.2861"
-         id="tspan66">B: Bombing. Remove one or more arms caches in or </tspan><tspan
+         id="tspan58">B: Bombing. Remove one or more arms caches in or </tspan><tspan
          x="99.986328"
          y="1309.9527"
-         id="tspan67">adjacent to the space. Determine attack power by rolling a </tspan><tspan
+         id="tspan59">adjacent to the space. Determine attack power by rolling a </tspan><tspan
          x="99.986328"
          y="1346.6194"
-         id="tspan68">die and adding double the number of arms caches </tspan><tspan
+         id="tspan60">die and adding double the number of arms caches </tspan><tspan
          x="99.986328"
          y="1383.286"
-         id="tspan69">removed. First, remove police cubes (each cube costs 2 </tspan><tspan
+         id="tspan61">removed. First, remove police cubes (each cube costs 2 </tspan><tspan
          x="99.986328"
          y="1419.9526"
-         id="tspan70">power, removed to out of play). Then, once no police, if </tspan><tspan
+         id="tspan62">power, removed to out of play). Then, once no police, if </tspan><tspan
          x="99.986328"
          y="1456.6192"
-         id="tspan71">there is an armored car, may remove it for 2 power, and </tspan><tspan
+         id="tspan63">there is an armored car, may remove it for 2 power, and </tspan><tspan
          x="99.986328"
          y="1493.2859"
-         id="tspan72">may place an arms cache in a district adjacent to the car. If </tspan><tspan
+         id="tspan64">may place an arms cache in a district adjacent to the car. If </tspan><tspan
          x="99.986328"
          y="1529.9525"
-         id="tspan73">power remains, remove the following pieces in alternating </tspan><tspan
+         id="tspan65">power remains, remove the following pieces in alternating </tspan><tspan
          x="99.986328"
          y="1566.6191"
-         id="tspan74">order: politician, civilian cube, gang cube. For each civilian </tspan><tspan
+         id="tspan66">order: politician, civilian cube, gang cube. If any civilian </tspan><tspan
          x="99.986328"
          y="1603.2857"
-         id="tspan75">cube removed, shift the support track to the right.
+         id="tspan67">cubes were removed, shift the support track to the right.
 </tspan><tspan
          x="99.986328"
          y="1639.9524"
-         id="tspan76">Then:
+         id="tspan68">Then:
 </tspan><tspan
          x="99.986328"
          y="1676.619"
-         id="tspan77">* If space is an LOC, place a sabotage.
+         id="tspan69">* If space is an LOC, place a sabotage.
 </tspan><tspan
          x="99.986328"
          y="1713.2856"
-         id="tspan78">* Otherwise, place a terror.
+         id="tspan70">* Otherwise, place a terror.
 </tspan><tspan
          x="99.986328"
          y="1749.9522"
-         id="tspan79">* If there are any surviving active politicians in the space, </tspan><tspan
+         id="tspan71">* If there are any surviving active politicians in the space, </tspan><tspan
          x="99.986328"
          y="1786.6189"
-         id="tspan80">flip them underground.</tspan></text>
+         id="tspan72">flip them underground.</tspan></text>
     <text
        xml:space="preserve"
        id="text17"
@@ -432,38 +432,38 @@
        transform="translate(0,-30.99495)"><tspan
          x="99.986328"
          y="2005.8515"
-         id="tspan82"><tspan
+         id="tspan74"><tspan
    style="font-weight:bold"
-   id="tspan81">Sabotage</tspan>
+   id="tspan73">Sabotage</tspan>
 </tspan><tspan
          x="99.986328"
          y="2042.5182"
-         id="tspan84"><tspan
+         id="tspan76"><tspan
    style="font-weight:bold"
-   id="tspan83">Purpose</tspan>: Sabotage spaces to limit police movement, </tspan><tspan
+   id="tspan75">Purpose</tspan>: Sabotage spaces to limit police movement, </tspan><tspan
          x="99.986328"
          y="2079.1848"
-         id="tspan85">income, and shift to resist.
+         id="tspan77">income, and shift to resist.
 </tspan><tspan
          x="99.986328"
          y="2115.8515"
-         id="tspan87"><tspan
+         id="tspan79"><tspan
    style="font-weight:bold"
-   id="tspan86">Location</tspan>: Any spaces with underground cells
+   id="tspan78">Location</tspan>: Any spaces with underground cells
 </tspan><tspan
          x="99.986328"
          y="2152.518"
-         id="tspan89"><tspan
+         id="tspan81"><tspan
    style="font-weight:bold"
-   id="tspan88">Procedure</tspan>: In each space reveal one underground cell, </tspan><tspan
+   id="tspan80">Procedure</tspan>: In each space reveal one underground cell, </tspan><tspan
          x="99.986328"
          y="2189.1845"
-         id="tspan90">and then place a sabotage. May remove a civilian, and </tspan><tspan
+         id="tspan82">and then place a sabotage. May replace a civilian with a </tspan><tspan
          x="99.986328"
          y="2225.851"
-         id="tspan91">place a gang member in each target district. If the space is </tspan><tspan
+         id="tspan83">gang member in each target district. If the space is a </tspan><tspan
          x="99.986328"
          y="2262.5175"
-         id="tspan92">a strategic center, shift the support track to the left.</tspan></text>
+         id="tspan84">strategic center, shift the support track to the left.</tspan></text>
   </g>
 </svg>

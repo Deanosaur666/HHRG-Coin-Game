@@ -18,8 +18,7 @@ Then, flip all politicians active.
 
 # Score population
 
-Political will changes by the sum of the following:
-* In each space, determine the difference between the number of civilian cubes and the space's base population value.
+For each district, compare the number of civilians to gangsters. If there are more civilians than gangsters, gain 1 political will.  If there are more gangsters than civilians, lose 1 political will.
 
 # Score sabotage
 
@@ -35,18 +34,9 @@ Likewise, if gangsters are lower than gangster population, add one.
 
 # Reset
 Flip all guerrillas underground.
-Remove all sabotage and terror from the map.
+Remove all sabotage, terror and emergency zones from the map.
+Return half (rounded down) of politicians from out of play to available.
 
 # Last round game end
 
 If this is the last propaganda round, the game ends here.
-
-
-
-
-
-*Jim thoughts*
-
-Support track should give gov actions in propaganda round. 
-
-Rats "traffic" could require civilians in space to increase moss track.

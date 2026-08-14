@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   sodipodi:docname="Propaganda Round.svg"
+   sodipodi:docname="Events.svg"
    inkscape:export-filename="PNGs/Propaganda Round.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.5"
-     inkscape:cx="305"
-     inkscape:cy="1144"
+     inkscape:cx="501"
+     inkscape:cy="604"
      inkscape:window-width="1920"
      inkscape:window-height="978"
      inkscape:window-x="0"
@@ -202,15 +202,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#cccccc;stroke:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       id="rect11"
+       width="936.59717"
+       height="551.67102"
+       x="70.287224"
+       y="1732.3431"
+       rx="79.847824"
+       ry="72.525284" />
     <text
        xml:space="preserve"
        id="text22"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"><tspan
-         x="244.38086"
+         x="254.49414"
          y="61.023438"
-         id="tspan3"><tspan
+         id="tspan11"><tspan
            style="font-weight:bold"
-           id="tspan2">PROPAGANA ROUND</tspan></tspan></text>
+           id="tspan10">EVENTS and TURNS</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text23"
@@ -220,208 +229,141 @@
        transform="translate(0,-39.743506)"><tspan
          x="101.01562"
          y="162.0156"
-         id="tspan4">All armored cars move.
+         id="tspan12">At the start of each turn, roll a dice.
 </tspan><tspan
          x="101.01562"
          y="198.68222"
-         id="tspan5">
+         id="tspan13">
 </tspan><tspan
          x="101.01562"
          y="235.34885"
-         id="tspan7"><tspan
-   style="font-weight:bold"
-   id="tspan6">Shootouts</tspan>
-</tspan><tspan
+         id="tspan14">If a propaganda round is triggered, ignore the event effect, </tspan><tspan
          x="101.01562"
          y="272.01547"
-         id="tspan8">In every space with gangsters or terror, roll a dice. If equal </tspan><tspan
+         id="tspan15">otherwise, the initiative player triggers the following event:
+</tspan><tspan
          x="101.01562"
          y="308.6821"
-         id="tspan9">or under power, trigger a shootout.
+         id="tspan16">
 </tspan><tspan
          x="101.01562"
-         y="345.34873"
-         id="tspan10">
-</tspan><tspan
-         x="101.01562"
-         y="382.01535"
-         id="tspan12"><tspan
-   style="font-weight:bold"
-   id="tspan11">Bombing</tspan>
-</tspan><tspan
-         x="101.01562"
-         y="418.68198"
-         id="tspan13">Rats may perform one free bombing (attack option B).
-</tspan><tspan
-         x="101.01562"
-         y="455.3486"
-         id="tspan15">
-</tspan><tspan
-         x="101.01562"
-         y="492.01523"
+         y="352.42685"
          id="tspan18"><tspan
+   style="font-weight:bold;font-size:37.3333px"
+   id="tspan17">1</tspan>: No effect
+</tspan><tspan
+         x="101.01562"
+         y="392.01535"
+         id="tspan19">
+</tspan><tspan
+         x="101.01562"
+         y="435.7601"
+         id="tspan21"><tspan
+   style="font-weight:bold;font-size:37.3333px"
+   id="tspan20">2</tspan>: Government player moves an additional armored car
+</tspan><tspan
+         x="101.01562"
+         y="475.3486"
+         id="tspan22">
+</tspan><tspan
+         x="101.01562"
+         y="519.09336"
+         id="tspan24"><tspan
+   style="font-weight:bold;font-size:37.3333px"
+   id="tspan23">3</tspan>: Government player moves two additional armored cars.
+</tspan><tspan
+         x="101.01562"
+         y="558.68185"
+         id="tspan25">
+</tspan><tspan
+         x="101.01562"
+         y="602.42661"
+         id="tspan27"><tspan
+   style="font-weight:bold;font-size:37.3333px"
+   id="tspan26">4</tspan>: Initiative player places 2 civilians among 1 or 2 district </tspan><tspan
+         x="101.01562"
+         y="642.01511"
+         id="tspan28">spaces without terror or an emergency zone.
+</tspan><tspan
+         x="101.01562"
+         y="678.68173"
+         id="tspan29">
+</tspan><tspan
+         x="101.01562"
+         y="722.42649"
+         id="tspan31"><tspan
+   style="font-weight:bold;font-size:37.3333px"
+   id="tspan30">5</tspan>: Initiative player places 2 gang members among 1 or 2 </tspan><tspan
+         x="101.01562"
+         y="762.01498"
+         id="tspan32">district spaces without an emergency zone.
+</tspan><tspan
+         x="101.01562"
+         y="798.68161"
+         id="tspan33">
+</tspan><tspan
+         x="101.01562"
+         y="842.42636"
+         id="tspan35"><tspan
+   style="font-weight:bold;font-size:37.3333px"
+   id="tspan34">6</tspan>: Initiative player triggers a shootout in a space with </tspan><tspan
+         x="101.01562"
+         y="882.01486"
+         id="tspan36">terror.
+</tspan><tspan
+         x="101.01562"
+         y="918.68149"
+         id="tspan37">
+</tspan><tspan
+         x="101.01562"
+         y="955.34811"
+         id="tspan38">
+</tspan><tspan
+         x="101.01562"
+         y="992.01474"
+         id="tspan39">
+</tspan><tspan
+         x="101.01562"
+         y="1028.6814"
+         id="tspan41"><tspan
    style="font-weight:bold"
-   id="tspan17">Politicians</tspan>
+   id="tspan40">Armored Car Movement</tspan>
 </tspan><tspan
          x="101.01562"
-         y="528.68185"
-         id="tspan19">Political will increases by one for every surviving active </tspan><tspan
-         x="101.01562"
-         y="565.34848"
-         id="tspan20">politician on the map. Then, in each space with an active </tspan><tspan
-         x="101.01562"
-         y="602.01511"
-         id="tspan22">politician, government may replace one gang member with </tspan><tspan
-         x="101.01562"
-         y="638.68173"
-         id="tspan23">a civilian, or place a civilian.
+         y="1065.348"
+         id="tspan42">
 </tspan><tspan
          x="101.01562"
-         y="675.34836"
-         id="tspan24">Then, flip all politicians active.
+         y="1102.0146"
+         id="tspan43">After resolving an event, the government player may move </tspan><tspan
+         x="101.01562"
+         y="1138.6812"
+         id="tspan44">an armored car (or more if a 2 or 3 are rolled) down an un-</tspan><tspan
+         x="101.01562"
+         y="1175.3479"
+         id="tspan45">sabotaged LOC. If an armored car reaches a police station, </tspan><tspan
+         x="101.01562"
+         y="1212.0145"
+         id="tspan46">it is removed to available, and the government moves 2 </tspan><tspan
+         x="101.01562"
+         y="1248.6811"
+         id="tspan47">police from out of play to available.
 </tspan><tspan
          x="101.01562"
-         y="712.01498"
-         id="tspan26">
+         y="1285.3477"
+         id="tspan48">
 </tspan><tspan
          x="101.01562"
-         y="748.68161"
-         id="tspan28"><tspan
-           style="font-weight:bold"
-           id="tspan27">Score Support
-</tspan></tspan><tspan
-         x="101.01562"
-         y="785.34824"
-         id="tspan29">Shift political will by the support track value, then shift it </tspan><tspan
-         x="101.01562"
-         y="822.01486"
-         id="tspan30">towards 0.
+         y="1322.0144"
+         id="tspan49">
 </tspan><tspan
          x="101.01562"
-         y="858.68149"
-         id="tspan31">
+         y="1358.681"
+         id="tspan50">
 </tspan><tspan
          x="101.01562"
-         y="895.34811"
-         id="tspan34"><tspan
-   style="font-weight:bold"
-   id="tspan32">Score population</tspan>
-</tspan><tspan
-         x="101.01562"
-         y="932.01474"
-         id="tspan35">For each district, compare the number of civilians to </tspan><tspan
-         x="101.01562"
-         y="968.68137"
-         id="tspan36">gangsters. If there are more civilians than gangsters, gain </tspan><tspan
-         x="101.01562"
-         y="1005.348"
-         id="tspan37">1 political will.  If there are more gangsters than civilians, </tspan><tspan
-         x="101.01562"
-         y="1042.0146"
-         id="tspan38">lose 1 political will. 
-</tspan><tspan
-         x="101.01562"
-         y="1078.6812"
-         id="tspan40">
-</tspan><tspan
-         x="101.01562"
-         y="1115.3479"
-         id="tspan42"><tspan
-   style="font-weight:bold"
-   id="tspan41">Score sabotage</tspan>
-</tspan><tspan
-         x="101.01562"
-         y="1152.0145"
-         id="tspan43">Decrease political will by the economic value of each </tspan><tspan
-         x="101.01562"
-         y="1188.6811"
-         id="tspan44">sabotaged strategic center (factories, police stations, and </tspan><tspan
-         x="101.01562"
-         y="1225.3477"
-         id="tspan46">artillery) and each sabotaged LOC.
-</tspan><tspan
-         x="101.01562"
-         y="1262.0144"
-         id="tspan47">
-</tspan><tspan
-         x="101.01562"
-         y="1298.681"
-         id="tspan49"><tspan
-   style="font-weight:bold"
-   id="tspan48">Emergency Zones</tspan>
-</tspan><tspan
-         x="101.01562"
-         y="1335.3476"
-         id="tspan50">In each emergency zone, if no Rat pieces remain, remove </tspan><tspan
-         x="101.01562"
-         y="1372.0143"
-         id="tspan52">the emergency zone. Then, political will decreases by one </tspan><tspan
-         x="101.01562"
-         y="1408.6809"
-         id="tspan53">point for each emergency zone still on the map.
-</tspan><tspan
-         x="101.01562"
-         y="1445.3475"
-         id="tspan54">
-</tspan><tspan
-         x="101.01562"
-         y="1482.0141"
-         id="tspan56"><tspan
-   style="font-weight:bold"
-   id="tspan55">Population</tspan>
-</tspan><tspan
-         x="101.01562"
-         y="1518.6808"
-         id="tspan58">In each space, if civilians are lower than the population, </tspan><tspan
-         x="101.01562"
-         y="1555.3474"
-         id="tspan59">add one. Likewise, if gangsters are lower than gangster </tspan><tspan
-         x="101.01562"
-         y="1592.014"
-         id="tspan60">population, add one.
-</tspan><tspan
-         x="101.01562"
-         y="1628.6806"
-         id="tspan61">
-</tspan><tspan
-         x="101.01562"
-         y="1665.3473"
-         id="tspan64"><tspan
-   style="font-weight:bold"
-   id="tspan63">Reset</tspan>
-</tspan><tspan
-         x="101.01562"
-         y="1702.0139"
-         id="tspan65">Flip all guerrillas underground. Remove all sabotage, terror, </tspan><tspan
-         x="101.01562"
-         y="1738.6805"
-         id="tspan66">and emergency zones. from the map.
-</tspan><tspan
-         x="101.01562"
-         y="1775.3471"
-         id="tspan67">Shift the moss track down 1 space.
-</tspan><tspan
-         x="101.01562"
-         y="1812.0138"
-         id="tspan68">
-</tspan><tspan
-         x="101.01562"
-         y="1848.6804"
-         id="tspan70"><tspan
-   style="font-weight:bold"
-   id="tspan69">Last round, game end</tspan>
-</tspan><tspan
-         x="101.01562"
-         y="1885.347"
-         id="tspan71">If this is the last propaganda round, the game ends here.
-</tspan><tspan
-         x="101.01562"
-         y="1922.0136"
-         id="tspan72">If political will is reduced to 0, the rats win.
-</tspan><tspan
-         x="101.01562"
-         y="1958.6803"
-         id="tspan73">
+         y="1395.3476"
+         id="tspan51">
 </tspan></text>
     <g
        id="g42"
@@ -445,5 +387,60 @@
          y="99.985657"
          inkscape:label="Border" />
     </g>
+    <text
+       xml:space="preserve"
+       id="text9"
+       style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       x="-440.01428"
+       y="0"
+       transform="translate(0,-101.62881)"><tspan
+         x="99.986328"
+         y="1895.5429"
+         id="tspan53"><tspan
+   style="font-weight:bold"
+   id="tspan52">Shootouts</tspan>
+</tspan><tspan
+         x="99.986328"
+         y="1932.2096"
+         id="tspan54">In shootout spaces:
+</tspan><tspan
+         x="99.986328"
+         y="1968.8762"
+         id="tspan55">Shootout &quot;power&quot; is gangsters + terror markers.
+</tspan><tspan
+         x="99.986328"
+         y="2005.5428"
+         id="tspan56">
+</tspan><tspan
+         x="99.986328"
+         y="2042.2094"
+         id="tspan57">Remove pieces equal to power, in alternating order:
+</tspan><tspan
+         x="99.986328"
+         y="2078.8759"
+         id="tspan58">- Civilian (or gangster if no civilians left)
+</tspan><tspan
+         x="99.986328"
+         y="2115.5425"
+         id="tspan59">- Active rat (or reveal underground rat if none active)
+</tspan><tspan
+         x="99.986328"
+         y="2152.209"
+         id="tspan60">
+</tspan><tspan
+         x="99.986328"
+         y="2188.8755"
+         id="tspan61">Any active politicians in the space are flipped underground.
+</tspan><tspan
+         x="99.986328"
+         y="2225.542"
+         id="tspan62">
+</tspan><tspan
+         x="99.986328"
+         y="2262.2085"
+         id="tspan63">After a shootout takes place, rats may take an attack action </tspan><tspan
+         x="99.986328"
+         y="2298.875"
+         id="tspan64">in that space, then police may assault in that space.</tspan></text>
   </g>
 </svg>

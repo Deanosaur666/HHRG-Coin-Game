@@ -19,14 +19,14 @@ After the third propaganda round occurs, the game ends.
 
 Each turn (except for a turn that automatically triggers propaganda), events are checked before players choose actions. A dice is rolled to determine what event occurs. If this even triggers a propaganda round, events do not occur. Otherwise, consult the table:
 
-| Roll | Result                                                                           |
-| ---- | -------------------------------------------------------------------------------- |
-| 1    | No effect                                                                        |
-| 2    | Government player moves an additional armored car                                |
-| 3    | Government player moves two additional armored cars.                             |
-| 4    | Government player places 2 civilians among 1 or 2 non-LOC spaces without terror. |
-| 5    | Rat player places 2 gang members among 1 or 2 non-LOC spaces without support.    |
-| 6    | Trigger a shootout. Government player selects the space among valid spaces.      |
+| Roll | Result                                                                                                 |
+| ---- | ------------------------------------------------------------------------------------------------------ |
+| 1    | No effect                                                                                              |
+| 2    | Government player moves an additional armored car                                                      |
+| 3    | Government player moves two additional armored cars.                                                   |
+| 4    | Initiative player places 2 civilians among 1 or 2 district spaces without terror or an emergency zone. |
+| 5    | Initiative player places 2 gang members among 1 or 2 district spaces without an emergency zone.        |
+| 6    | Trigger a shootout. Initiative player selects the space among valid spaces.                            |
 
 # Armored car movement
 

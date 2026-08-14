@@ -93,7 +93,7 @@ Then:
 **Special Activities:** ?
 **Purpose:** Sabotage spaces to limit police movement, income, and shift to resist.
 **Location:** Any spaces with underground cells
-**Procedure:** In each space reveal one underground cell, and then place a sabotage. May replace a civilian with a gang member in each target district. If the space is a strategic center, shift the support track to the left.
+**Procedure:** In each space reveal one underground cell, and then place a sabotage. May remove a civilian then place a gang member in each target district. If the space is a strategic center, shift the support track to the left.
 
 
 # Government Special Activities
@@ -102,22 +102,21 @@ Then:
 **Accompanying Ops:**
 **Purpose:** Place armored cars to increase police supply.
 **Location:** Any un-sabotaged factories.Artillery
-
-Only available if artillery strategic center is not sabotaged.
-Purpose: Remove all pieces from a space.
-Location: Any district or foreign space.
-Procedure: As a cost, remove 4 police from the map and available to out of play. Then remove all pieces, except sabotage, from the space (police to out of play).
-If the target space is a foreign space, shift the moss track once to the left, shift the support track once to the left, and lose one political will.
 **Procedure:** Place an armored car at each selected space.
 
 ## Repair
 **Accompanying Ops:**
 **Purpose:** Remove sabotage.
 **Location:** Any space with police and sabotage.
-**Procedure:** Remove all sabotage from the space. Shift the support track once to the right.
+**Procedure:** Remove all sabotage from the space. If the space is a district, shift the support track once to the right.
+
+## Clean-up
+**Purpose:** Move rats.
+**Location:** Any space with an active politician and a rat
+**Procedure:** Move one rat to an adjacent space.
 
 ## Artillery
-**Accompanying Ops:**
+*Cannot accompany any ops*
 **Only available if artillery strategic center is not sabotaged.**
 **Purpose:** Remove all pieces from a space.
 **Location:** Any district or foreign space.
@@ -137,14 +136,20 @@ If the target space is a foreign space, shift the moss track once to the left, s
 **Purpose:** Move cells and flip them underground.
 **Location:** One space adjacent to an arms cache.
 **Procedure:** Pick either:
-* Move 1 or 2 cells from an adjacent space with an arms cache to the selected space, and then perform a single attack or sabotage in the destination space.
+* Move 1 or 2 cells from an adjacent space with an arms cache to the selected space, and then may perform a single sabotage in the destination space.
 * Move 1 or 2 cells from the selected space to an adjacent space with an arms cache, and flip them underground.
 
-# Scare
-**Accompanying Ops:**
-**Purpose:** Move police cubes.
-**Location:** One space with underground Rat cells.
-**Procedure:** Move police cubes, up to the number of underground cells in that space, from the target space or an adjacent LOC to any adjacent spaces.
+
+## Propagandize
+**Purpose:** Shift the support track.
+**Location:** One space with rat cells and an emergency zone.
+**Procedure:** Shift the support track to the left.
+
+# ~~Scare~~
+~~**Accompanying Ops:**~~
+~~**Purpose:** Move police cubes.~~
+~~**Location:** One space with underground Rat cells.~~
+~~**Procedure:** Move police cubes, up to the number of underground cells in that space, from the target space or an adjacent LOC to any adjacent spaces.~~
 
 # ~~Smuggle~~
 ~~**Purpose**: Facilitate recruiting in hard to reach spaces.~~
