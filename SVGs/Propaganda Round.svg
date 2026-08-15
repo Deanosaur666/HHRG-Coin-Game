@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.5"
-     inkscape:cx="305"
-     inkscape:cy="1144"
+     inkscape:cx="309"
+     inkscape:cy="1174"
      inkscape:window-width="1920"
      inkscape:window-height="978"
      inkscape:window-x="0"
@@ -292,114 +292,114 @@
 </tspan></tspan><tspan
          x="101.01562"
          y="785.34824"
-         id="tspan29">Shift political will by the support track value, then shift it </tspan><tspan
+         id="tspan29">Shift political will by the support track value.
+</tspan><tspan
          x="101.01562"
          y="822.01486"
-         id="tspan30">towards 0.
+         id="tspan30">
 </tspan><tspan
          x="101.01562"
          y="858.68149"
-         id="tspan31">
+         id="tspan32"><tspan
+   style="font-weight:bold"
+   id="tspan31">Score population</tspan>
 </tspan><tspan
          x="101.01562"
          y="895.34811"
-         id="tspan34"><tspan
-   style="font-weight:bold"
-   id="tspan32">Score population</tspan>
-</tspan><tspan
+         id="tspan34">For each district, compare the number of civilians to </tspan><tspan
          x="101.01562"
          y="932.01474"
-         id="tspan35">For each district, compare the number of civilians to </tspan><tspan
+         id="tspan35">gangsters. If there are more civilians than gangsters, gain </tspan><tspan
          x="101.01562"
          y="968.68137"
-         id="tspan36">gangsters. If there are more civilians than gangsters, gain </tspan><tspan
+         id="tspan36">1 political will.  If there are more gangsters than civilians, </tspan><tspan
          x="101.01562"
          y="1005.348"
-         id="tspan37">1 political will.  If there are more gangsters than civilians, </tspan><tspan
+         id="tspan37">lose 1 political will. 
+</tspan><tspan
          x="101.01562"
          y="1042.0146"
-         id="tspan38">lose 1 political will. 
+         id="tspan38">
 </tspan><tspan
          x="101.01562"
          y="1078.6812"
-         id="tspan40">
+         id="tspan41"><tspan
+   style="font-weight:bold"
+   id="tspan40">Score sabotage</tspan>
 </tspan><tspan
          x="101.01562"
          y="1115.3479"
-         id="tspan42"><tspan
-   style="font-weight:bold"
-   id="tspan41">Score sabotage</tspan>
-</tspan><tspan
+         id="tspan42">Decrease political will by the economic value of each </tspan><tspan
          x="101.01562"
          y="1152.0145"
-         id="tspan43">Decrease political will by the economic value of each </tspan><tspan
+         id="tspan43">sabotaged strategic center (factories, police stations, and </tspan><tspan
          x="101.01562"
          y="1188.6811"
-         id="tspan44">sabotaged strategic center (factories, police stations, and </tspan><tspan
+         id="tspan44">artillery) and each sabotaged LOC.
+</tspan><tspan
          x="101.01562"
          y="1225.3477"
-         id="tspan46">artillery) and each sabotaged LOC.
+         id="tspan46">
 </tspan><tspan
          x="101.01562"
          y="1262.0144"
-         id="tspan47">
+         id="tspan48"><tspan
+   style="font-weight:bold"
+   id="tspan47">Emergency Zones</tspan>
 </tspan><tspan
          x="101.01562"
          y="1298.681"
-         id="tspan49"><tspan
-   style="font-weight:bold"
-   id="tspan48">Emergency Zones</tspan>
-</tspan><tspan
+         id="tspan49">In each emergency zone, if no Rat pieces remain, remove </tspan><tspan
          x="101.01562"
          y="1335.3476"
-         id="tspan50">In each emergency zone, if no Rat pieces remain, remove </tspan><tspan
+         id="tspan50">the emergency zone. Then, political will decreases by one </tspan><tspan
          x="101.01562"
          y="1372.0143"
-         id="tspan52">the emergency zone. Then, political will decreases by one </tspan><tspan
+         id="tspan52">point for each emergency zone still on the map.
+</tspan><tspan
          x="101.01562"
          y="1408.6809"
-         id="tspan53">point for each emergency zone still on the map.
+         id="tspan53">
 </tspan><tspan
          x="101.01562"
          y="1445.3475"
-         id="tspan54">
+         id="tspan55"><tspan
+   style="font-weight:bold"
+   id="tspan54">Population</tspan>
 </tspan><tspan
          x="101.01562"
          y="1482.0141"
-         id="tspan56"><tspan
-   style="font-weight:bold"
-   id="tspan55">Population</tspan>
-</tspan><tspan
+         id="tspan56">In each space, if civilians are lower than the population, </tspan><tspan
          x="101.01562"
          y="1518.6808"
-         id="tspan58">In each space, if civilians are lower than the population, </tspan><tspan
+         id="tspan58">add one. Likewise, if gangsters are lower than gangster </tspan><tspan
          x="101.01562"
          y="1555.3474"
-         id="tspan59">add one. Likewise, if gangsters are lower than gangster </tspan><tspan
+         id="tspan59">population, add one.
+</tspan><tspan
          x="101.01562"
          y="1592.014"
-         id="tspan60">population, add one.
+         id="tspan60">
 </tspan><tspan
          x="101.01562"
          y="1628.6806"
-         id="tspan61">
+         id="tspan63"><tspan
+   style="font-weight:bold"
+   id="tspan61">Reset</tspan>
 </tspan><tspan
          x="101.01562"
          y="1665.3473"
-         id="tspan64"><tspan
-   style="font-weight:bold"
-   id="tspan63">Reset</tspan>
-</tspan><tspan
+         id="tspan64">Flip all guerrillas underground. Remove all sabotage, terror, </tspan><tspan
          x="101.01562"
          y="1702.0139"
-         id="tspan65">Flip all guerrillas underground. Remove all sabotage, terror, </tspan><tspan
-         x="101.01562"
-         y="1738.6805"
-         id="tspan66">and emergency zones. from the map.
+         id="tspan65">and emergency zones. from the map.
 </tspan><tspan
          x="101.01562"
+         y="1738.6805"
+         id="tspan66">Shift the moss track down 1 space. Shift the support track </tspan><tspan
+         x="101.01562"
          y="1775.3471"
-         id="tspan67">Shift the moss track down 1 space.
+         id="tspan67">1 space towards 0.
 </tspan><tspan
          x="101.01562"
          y="1812.0138"

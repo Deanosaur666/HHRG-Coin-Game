@@ -18,7 +18,7 @@ Then, flip all politicians active.
 
 # Score population
 
-For each district, compare the number of civilians to gangsters. If there are more civilians than gangsters, gain 1 political will.  If there are more gangsters than civilians, lose 1 political will.
+For each district, compare the number of civilians to gangsters. If there are more gangsters than civilians, lose 1 political will.
 
 # Score sabotage
 
