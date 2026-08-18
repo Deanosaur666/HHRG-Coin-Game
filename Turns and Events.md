@@ -1,3 +1,9 @@
+# Control
+A space can be controlled by rats, government, or no one.
+If a space has an active politician, or more police than rat pieces plus sabotage, it is government controlled.
+If a space has no active politician, and more rat pieces than police, it is rat controlled.
+Otherwise, it is uncontrolled.
+
 # Initiative track.
 
 Each turn, in eligibility order, each player may pick limited op, economic action, or ops + special activities. After selecting, a player may choose to pass.

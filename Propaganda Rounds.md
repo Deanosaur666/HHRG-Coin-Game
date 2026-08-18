@@ -18,19 +18,22 @@ Then, flip all politicians active.
 
 # Score population
 
-For each district, compare the number of civilians to gangsters. If there are more gangsters than civilians, lose 1 political will.
+Lower political will by the number of civilians and gangsters in spaces under rat control.
 
+# Score Collateral
+
+Compare the number of civilians (not gangsters) in the casualties box for each side. If government has more, reduce political will by half (rounded down) of the difference. If rats have more, increase political will by half (rounded down) of tcivilainshe difference.
+Then, move all casualties to available.
 # Score sabotage
-
+Lower political will by the number of civilians and gangsters in spaces under rat control.
 Decrease political will by the economic value of each sabotaged strategic center (factories, police stations, and artillery) and each sabotaged LOC.
 
 # Emergency Zones
 
 In each emergency zone, if no Rat pieces remain, remove the emergency zone. Then, political will decreases by one point for each emergency zone still on the map.
 
-# Population
-In each space, if civilians are lower than the population, add one.
-Likewise, if gangsters are lower than gangster population, add one.
+# Repopulate
+In every space, add a gangster if there is a terror, or add a civilian if none.
 
 # Reset
 Flip all guerrillas underground.
