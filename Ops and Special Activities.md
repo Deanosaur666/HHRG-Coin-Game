@@ -8,7 +8,7 @@ Rats pass lets them flip one active cell to underground.
 
 # Econ
 ---
-Government econ lets them place one armored car at a factory.
+Government econ lets them supply.
 
 Rats econ lets them traffic.
 # Moss Track
@@ -23,7 +23,7 @@ When a politician is removed by a Rat attack, the Rats instantly get 3 points, a
 
 # Government Ops
 ---
-## Train
+## Mobilize
 **Special Activities:** ?
 **Purpose:** Place police.
 **Location:** 3 spaces, either districts or police stations.
@@ -115,7 +115,7 @@ Then:
 **Purpose:** Remove all pieces from a space.
 **Location:** Any district or foreign space.
 **Procedure:** As a cost, remove 3 police from the map and available to out of play. Then remove all pieces, except sabotage, from the space (police to out of play).
-If the target space is a foreign space, shift the moss track once to the left and lose one political will.
+If the target space is a foreign space, shift the moss down once and lose one political will.
 
 # Rat Special Activities
 ---
