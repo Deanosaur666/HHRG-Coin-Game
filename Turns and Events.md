@@ -37,3 +37,5 @@ Each turn (except for a turn that automatically triggers propaganda), events are
 # Armored car movement
 
 After resolving an event, the government player may move an armored car (or more if a 2 or 3 are rolled) down an un-sabotaged LOC. If an armored car reaches a police station, it is removed to available, and the government moves 2 police from out of play to available.
+
+Whenever an armored car moves, a single police cube on its origin space may move with it.
