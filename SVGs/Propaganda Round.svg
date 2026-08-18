@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.5"
-     inkscape:cx="309"
-     inkscape:cy="1174"
+     inkscape:cx="379"
+     inkscape:cy="1474"
      inkscape:window-width="1920"
      inkscape:window-height="978"
      inkscape:window-x="0"
@@ -95,6 +95,12 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <rect
+       x="98.994949"
+       y="724.07734"
+       width="418.60721"
+       height="106.06602"
+       id="rect1" />
     <rect
        x="99.985708"
        y="1869.5903"
@@ -208,9 +214,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"><tspan
          x="244.38086"
          y="61.023438"
-         id="tspan3"><tspan
+         id="tspan10"><tspan
            style="font-weight:bold"
-           id="tspan2">PROPAGANA ROUND</tspan></tspan></text>
+           id="tspan9">PROPAGANA ROUND</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text23"
@@ -220,208 +226,223 @@
        transform="translate(0,-39.743506)"><tspan
          x="101.01562"
          y="162.0156"
-         id="tspan4">All armored cars move.
+         id="tspan12">All armored cars move.
 </tspan><tspan
          x="101.01562"
          y="198.68222"
-         id="tspan5">
+         id="tspan13">
 </tspan><tspan
          x="101.01562"
          y="235.34885"
-         id="tspan7"><tspan
+         id="tspan15"><tspan
    style="font-weight:bold"
-   id="tspan6">Shootouts</tspan>
+   id="tspan14">Shootouts</tspan>
 </tspan><tspan
          x="101.01562"
          y="272.01547"
-         id="tspan8">In every space with gangsters or terror, roll a dice. If equal </tspan><tspan
+         id="tspan16">In every space with gangsters or terror, roll a dice. If equal </tspan><tspan
          x="101.01562"
          y="308.6821"
-         id="tspan9">or under power, trigger a shootout.
+         id="tspan18">or under power, trigger a shootout.
 </tspan><tspan
          x="101.01562"
          y="345.34873"
-         id="tspan10">
+         id="tspan19">
 </tspan><tspan
          x="101.01562"
          y="382.01535"
-         id="tspan12"><tspan
+         id="tspan21"><tspan
    style="font-weight:bold"
-   id="tspan11">Bombing</tspan>
+   id="tspan20">Bombing</tspan>
 </tspan><tspan
          x="101.01562"
          y="418.68198"
-         id="tspan13">Rats may perform one free bombing (attack option B).
+         id="tspan22">Rats may perform one free bombing (attack option B).
 </tspan><tspan
          x="101.01562"
          y="455.3486"
-         id="tspan15">
+         id="tspan23">
 </tspan><tspan
          x="101.01562"
          y="492.01523"
-         id="tspan18"><tspan
+         id="tspan25"><tspan
    style="font-weight:bold"
-   id="tspan17">Politicians</tspan>
+   id="tspan24">Politicians</tspan>
 </tspan><tspan
          x="101.01562"
          y="528.68185"
-         id="tspan19">Political will increases by one for every surviving active </tspan><tspan
+         id="tspan26">Political will increases by one for every surviving active </tspan><tspan
          x="101.01562"
          y="565.34848"
-         id="tspan20">politician on the map. Then, in each space with an active </tspan><tspan
+         id="tspan27">politician on the map. Then, in each space with an active </tspan><tspan
          x="101.01562"
          y="602.01511"
-         id="tspan22">politician, government may replace one gang member with </tspan><tspan
+         id="tspan28">politician, government may replace one gang member with </tspan><tspan
          x="101.01562"
          y="638.68173"
-         id="tspan23">a civilian, or place a civilian.
+         id="tspan29">a civilian, or place a civilian.
 </tspan><tspan
          x="101.01562"
          y="675.34836"
-         id="tspan24">Then, flip all politicians active.
+         id="tspan30">Then, flip all politicians active.
 </tspan><tspan
          x="101.01562"
          y="712.01498"
-         id="tspan26">
+         id="tspan32">
 </tspan><tspan
          x="101.01562"
          y="748.68161"
-         id="tspan28"><tspan
-           style="font-weight:bold"
-           id="tspan27">Score Support
-</tspan></tspan><tspan
+         id="tspan34"><tspan
+   style="font-weight:bold"
+   id="tspan33">Score population</tspan>
+</tspan><tspan
          x="101.01562"
          y="785.34824"
-         id="tspan29">Shift political will by the support track value.
-</tspan><tspan
+         id="tspan35">Score the difference in population (both civilians in </tspan><tspan
          x="101.01562"
          y="822.01486"
-         id="tspan30">
-</tspan><tspan
+         id="tspan36">gangsters) between government controlled and rat-</tspan><tspan
          x="101.01562"
          y="858.68149"
-         id="tspan32"><tspan
-   style="font-weight:bold"
-   id="tspan31">Score population</tspan>
+         id="tspan37">controlled districts (uncontrolled spaces are not scored).
 </tspan><tspan
          x="101.01562"
          y="895.34811"
-         id="tspan34">For each district, compare the number of civilians to </tspan><tspan
-         x="101.01562"
-         y="932.01474"
-         id="tspan35">gangsters. If there are more civilians than gangsters, gain </tspan><tspan
-         x="101.01562"
-         y="968.68137"
-         id="tspan36">1 political will.  If there are more gangsters than civilians, </tspan><tspan
-         x="101.01562"
-         y="1005.348"
-         id="tspan37">lose 1 political will. 
-</tspan><tspan
-         x="101.01562"
-         y="1042.0146"
          id="tspan38">
 </tspan><tspan
          x="101.01562"
-         y="1078.6812"
+         y="932.01474"
          id="tspan41"><tspan
    style="font-weight:bold"
-   id="tspan40">Score sabotage</tspan>
+   id="tspan39">Score Collateral</tspan>
 </tspan><tspan
          x="101.01562"
+         y="968.68137"
+         id="tspan42">Compare the number of civilians (not gangsters) in the </tspan><tspan
+         x="101.01562"
+         y="1005.348"
+         id="tspan43">collateral box for each side. If government has more, </tspan><tspan
+         x="101.01562"
+         y="1042.0146"
+         id="tspan44">reduce political will by half (rounded down) of the </tspan><tspan
+         x="101.01562"
+         y="1078.6812"
+         id="tspan45">difference. If rats have more, increase political will by half </tspan><tspan
+         x="101.01562"
          y="1115.3479"
-         id="tspan42">Decrease political will by the economic value of each </tspan><tspan
+         id="tspan46">(rounded down) of the difference.
+</tspan><tspan
          x="101.01562"
          y="1152.0145"
-         id="tspan43">sabotaged strategic center (factories, police stations, and </tspan><tspan
+         id="tspan48">
+</tspan><tspan
          x="101.01562"
          y="1188.6811"
-         id="tspan44">artillery) and each sabotaged LOC.
+         id="tspan49">Then, move all collateral to available. 
 </tspan><tspan
          x="101.01562"
          y="1225.3477"
-         id="tspan46">
+         id="tspan50">
 </tspan><tspan
          x="101.01562"
          y="1262.0144"
-         id="tspan48"><tspan
+         id="tspan52"><tspan
    style="font-weight:bold"
-   id="tspan47">Emergency Zones</tspan>
+   id="tspan51">Score sabotage</tspan>
 </tspan><tspan
          x="101.01562"
          y="1298.681"
-         id="tspan49">In each emergency zone, if no Rat pieces remain, remove </tspan><tspan
+         id="tspan53">Decrease political will by the economic value of each </tspan><tspan
          x="101.01562"
          y="1335.3476"
-         id="tspan50">the emergency zone. Then, political will decreases by one </tspan><tspan
+         id="tspan54">sabotaged strategic center (factories, police stations, and </tspan><tspan
          x="101.01562"
          y="1372.0143"
-         id="tspan52">point for each emergency zone still on the map.
+         id="tspan55">artillery) and each sabotaged LOC.
 </tspan><tspan
          x="101.01562"
          y="1408.6809"
-         id="tspan53">
+         id="tspan56">
 </tspan><tspan
          x="101.01562"
          y="1445.3475"
-         id="tspan55"><tspan
+         id="tspan58"><tspan
    style="font-weight:bold"
-   id="tspan54">Population</tspan>
+   id="tspan57">Emergency Zones</tspan>
 </tspan><tspan
          x="101.01562"
          y="1482.0141"
-         id="tspan56">In each space, if civilians are lower than the population, </tspan><tspan
+         id="tspan59">In each emergency zone, if no Rat pieces remain, remove </tspan><tspan
          x="101.01562"
          y="1518.6808"
-         id="tspan58">add one. Likewise, if gangsters are lower than gangster </tspan><tspan
+         id="tspan60">the emergency zone. Then, political will decreases by one </tspan><tspan
          x="101.01562"
          y="1555.3474"
-         id="tspan59">population, add one.
+         id="tspan62">point for each emergency zone still on the map.
 </tspan><tspan
          x="101.01562"
          y="1592.014"
-         id="tspan60">
+         id="tspan63">
 </tspan><tspan
          x="101.01562"
          y="1628.6806"
-         id="tspan63"><tspan
+         id="tspan65"><tspan
    style="font-weight:bold"
-   id="tspan61">Reset</tspan>
+   id="tspan64">Last round, game end</tspan>
 </tspan><tspan
          x="101.01562"
          y="1665.3473"
-         id="tspan64">Flip all guerrillas underground. Remove all sabotage, terror, </tspan><tspan
+         id="tspan66">If this is the last propaganda round, the game ends here.
+</tspan><tspan
          x="101.01562"
          y="1702.0139"
-         id="tspan65">and emergency zones. from the map.
+         id="tspan67">If political will is reduced to 0, the rats win.
 </tspan><tspan
          x="101.01562"
          y="1738.6805"
-         id="tspan66">Shift the moss track down 1 space. Shift the support track </tspan><tspan
-         x="101.01562"
-         y="1775.3471"
-         id="tspan67">1 space towards 0.
-</tspan><tspan
-         x="101.01562"
-         y="1812.0138"
          id="tspan68">
 </tspan><tspan
          x="101.01562"
-         y="1848.6804"
+         y="1775.3471"
          id="tspan70"><tspan
    style="font-weight:bold"
-   id="tspan69">Last round, game end</tspan>
+   id="tspan69">Repopulate</tspan>
+</tspan><tspan
+         x="101.01562"
+         y="1812.0138"
+         id="tspan71">In every space, add a gangster if there is a terror, or add a </tspan><tspan
+         x="101.01562"
+         y="1848.6804"
+         id="tspan72">civilian if none.
 </tspan><tspan
          x="101.01562"
          y="1885.347"
-         id="tspan71">If this is the last propaganda round, the game ends here.
+         id="tspan73">
 </tspan><tspan
          x="101.01562"
          y="1922.0136"
-         id="tspan72">If political will is reduced to 0, the rats win.
+         id="tspan75"><tspan
+   style="font-weight:bold"
+   id="tspan74">Reset</tspan>
 </tspan><tspan
          x="101.01562"
          y="1958.6803"
-         id="tspan73">
+         id="tspan76">Flip all guerrillas underground. Remove all sabotage, terror, </tspan><tspan
+         x="101.01562"
+         y="1995.3469"
+         id="tspan77">and emergency zones. from the map.
+</tspan><tspan
+         x="101.01562"
+         y="2032.0135"
+         id="tspan78">
+</tspan><tspan
+         x="101.01562"
+         y="2068.6801"
+         id="tspan79">
+</tspan><tspan
+         x="101.01562"
+         y="2105.3466"
+         id="tspan80">
 </tspan></text>
     <g
        id="g42"
@@ -445,5 +466,9 @@
          y="99.985657"
          inkscape:label="Border" />
     </g>
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:37.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline" />
   </g>
 </svg>

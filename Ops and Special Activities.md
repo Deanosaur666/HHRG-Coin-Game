@@ -70,6 +70,12 @@ If an arms cache or the moss grower is removed, gain one political will. If the 
 * Otherwise, flip moving cells underground.
 *Note: Movement may be chained.*
 
+## Sabotage
+**Special Activities:** ?
+**Purpose:** Sabotage spaces and flip politicians underground.
+**Location:** Any spaces with underground cells
+**Procedure:** In each space reveal one underground cell, and then place a sabotage. If there are active politicians in the space, flip them underground.
+
 ## Bombing
 **Special Activities:** ?
 **Purpose:** Kill police, stop armored cars, and assassinate politicians.
@@ -84,11 +90,7 @@ Then:
 * Otherwise, place a terror.
 * If there are any surviving active politicians in the space, flip them underground.
 
-## Sabotage
-**Special Activities:** ?
-**Purpose:** Sabotage spaces and flip politicians underground.
-**Location:** Any spaces with underground cells
-**Procedure:** In each space reveal one underground cell, and then place a sabotage. If there are active politicians in the space, flip them underground.
+
 
 
 # Government Special Activities
@@ -135,7 +137,7 @@ If the target space is a foreign space, shift the moss down once and lose one po
 
 ## Assassinate
 **Purpose:** Remove government pieces in rat controlled spaces.
-**Location:** One space with rat control, an underground cell and a gangster.
+**Location:** One space with rat control, an underground cell .
 **Procedure:** In this space, reveal one underground Rat cell and remove one government piece (police before underground politicians, to out of play).
 
 
