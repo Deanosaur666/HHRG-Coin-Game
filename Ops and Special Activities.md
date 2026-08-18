@@ -11,7 +11,6 @@ Rats pass lets them flip one active cell to underground.
 Government econ lets them place one armored car at a factory.
 
 Rats econ lets them traffic.
-~~If the space is a strategic center, shift the support track to the left.~~
 # Moss Track
 ---
 The number of spaces the Rats can target for ops, and the number of arms caches they can place when rallying, is determined by their moss track.
@@ -58,13 +57,13 @@ If an arms cache or the moss grower is removed, the Government player gets 1 poi
 ## Rally
 **Special Activities:** ?
 **Purpose:** Add Rat cells and arms caches to the map.
-**Location:** Any districts
+**Location:** Any districts without government control, up to the ops value on the moss track.
 **Procedure:** In each space place one cell, or, if there is an arms cache in the space, two cells. May then replace one gang cube with a Rats cell. Then, may place arms caches in selected space, up to the arms cache value on the moss track.
 
 ## Travel
 **Special Activities:** ?
 **Purpose:** Move Rat cells and flip them underground.
-**Location:** Any origin spaces without emergency zones
+**Location:** Any origin spaces without emergency zones, up to the ops value on the moss track.
 **Procedure:** Move Rat cells from origin spaces to adjacent spaces. Then:
 * If destination is an emergency zone, strategic center, or LOC, and moving cells plus cubes there exceed 3, flip moving cells to active.
 * Otherwise, flip moving cells underground.
@@ -73,12 +72,12 @@ If an arms cache or the moss grower is removed, the Government player gets 1 poi
 ## Bombing
 **Special Activities:** ?
 **Purpose:** Kill police, stop armored cars, and assassinate politicians.
-**Location:** Any spaces with underground cells, adjacent or with arms caches. 
+**Location:** Any spaces with underground cells, adjacent or with arms caches, up to the ops value on the moss track. 
 **Procedure:** Select a number of space at or adjacent to arms caches. *All spaces must be selected first, and then all spaces must be resolved. This cannot be interrupted with a special activity.* Remove used arms caches (one cache can be used for multiple spaces), then, in each selected space, activate an underground cell, and roll a dice.
-- Attack power is equal half dice roll, rounded up. (1-3). Add one for each arms cache used.
+- Attack power is equal half dice roll, rounded up. (1-3). Add one for each arms cache used.  Each piece removed costs one attack power.
 * First, remove police cubes (removed to out of play).
-* Then, once no police, if there is an armored car, may remove it. If an armored car is removed, reduce political will by 1, and may place an arms cache in a district - Attack power is equal half dice roll, rounded up. (1-3). Add one for each arms cache used.adjacent to the car.
-* Then, if power remains, remove (kill) the following pieces in alternating order (at a cosof 1 power each): politician, civilian cube, gang cube. (See **Assassination**). Removed civilians are placed in the rat's collateral box.
+* Then, once no police, if there is an armored car, may remove it. If an armored car is removed, reduce political will by 1, and may place an arms cache in a district adjacent to the car.
+* Then, if power remains, remove (kill) the following pieces in alternating order: politician, civilian cube, gang cube. (See **Assassination**). Removed civilians are placed in the rat's collateral box.
 Then:
 * If space is an LOC, place a sabotage.
 * Otherwise, place a terror.
@@ -88,7 +87,7 @@ Then:
 **Special Activities:** ?
 **Purpose:** Sabotage spaces to limit police movement, control, and income.
 **Location:** Any spaces with underground cells
-**Procedure:** In each space reveal one underground cell, and then place a sabotage. If there are active politicans in the space, flip them underground.
+**Procedure:** In each space reveal one underground cell, and then place a sabotage. If there are active politicians in the space, flip them underground.
 
 
 # Government Special Activities
@@ -103,7 +102,7 @@ Then:
 **Accompanying Ops:**
 **Purpose:** Remove sabotage.
 **Location:** Any space with police and sabotage.
-**Procedure:** Remove all sabotage from the space. 
+**Procedure:** Remove all sabotage from the space. Add one civilian to the space.
 
 ## Clean-up
 **Purpose:** Move rats.
@@ -117,11 +116,11 @@ Then:
 **Procedure:** As a cost, remove 3 police from the map and available to out of play. Then remove all pieces, except sabotage, from the space (police to out of play).
 If the target space is a foreign space, shift the moss track once to the left, ~~shift the support track once to the left~~, and lose one political will.
 
-Assasinate# Rat Special Activities
+# Rat Special Activities
 ---
 ## Traffic
 **Accompanying Ops:**
-**Purpose:** Increase moss track and politicianspoliticianspoliticiansmove an arms cache.
+**Purpose:** Increase moss track and move an arms cache.
 **Location:** Moss track, or a district with an underground rat.
 **Procedure:** If the moss grower is on the map, increase the moss track by one. Otherwise, place the moss grower in a district with an underground rat. Then, may move one arms cache from any space to an adjacent district.
 
@@ -136,6 +135,6 @@ Assasinate# Rat Special Activities
 ## Assassinate
 **Purpose:** Remove government pieces in rat controlled spaces.
 **Location:** One space with rat control, an underground cell and a gangster.
-**Procedure:** In this space, remove one gangster to available, then remove one government piece (police before underground politicians, either to out of play).
+**Procedure:** In this space, reveal one underground Rat cell and remove one government piece (police before underground politicians, to out of play).
 
 

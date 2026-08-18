@@ -18,14 +18,14 @@ Then, flip all politicians active.
 
 # Score population
 
-Lower political will by the number of civilians and gangsters in spaces under rat control.
+Score the difference in population (both civilians in gangsters) between government controlled and rat-controlled spaces (uncontrolled spaces are not scored).
 
 # Score Collateral
 
-Compare the number of civilians (not gangsters) in the casualties box for each side. If government has more, reduce political will by half (rounded down) of the difference. If rats have more, increase political will by half (rounded down) of tcivilainshe difference.
-Then, move all casualties to available.
+Compare the number of civilians (not gangsters) in the collateral box for each side. If government has more, reduce political will by half (rounded down) of the difference. If rats have more, increase political will by half (rounded down) of the difference.
+Then, move all collateral to available.
 # Score sabotage
-Lower political will by the number of civilians and gangsters in spaces under rat control.
+
 Decrease political will by the economic value of each sabotaged strategic center (factories, police stations, and artillery) and each sabotaged LOC.
 
 # Emergency Zones
