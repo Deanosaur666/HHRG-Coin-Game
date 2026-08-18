@@ -1,8 +1,4 @@
-# Control
-A space can be controlled by rats, government, or no one.
-If a space has an active politician, or more police than rat pieces plus sabotage, it is government controlled.
-If a space has no active politician, and more rat pieces than police, it is rat controlled.
-Otherwise, it is uncontrolled.
+
 
 # Initiative track.
 
@@ -25,17 +21,17 @@ After the third propaganda round occurs, the game ends.
 
 Each turn (except for a turn that automatically triggers propaganda), events are checked before players choose actions. A dice is rolled to determine what event occurs. If this even triggers a propaganda round, events do not occur. Otherwise, consult the table:
 
-| Roll | Result                                                                                                 |
-| ---- | ------------------------------------------------------------------------------------------------------ |
-| 1    | No effect                                                                                              |
-| 2    | Government player moves an additional armored car                                                      |
-| 3    | Government player moves two additional armored cars.                                                   |
-| 4    | Initiative player places 2 civilians among 1 or 2 district spaces without terror or an emergency zone. |
-| 5    | Initiative player places 2 gang members among 1 or 2 district spaces without an emergency zone.        |
-| 6    | Trigger a shootout. Initiative player selects the space among valid spaces.                            |
+| Roll | Result                                                                                                                          |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | No effect                                                                                                                       |
+| 2    | Government player moves an additional armored car                                                                               |
+| 3    | Government player moves two additional armored cars.                                                                            |
+| 4    | Initiative player places 1 civilians in a district space without terror or an emergency zone, then second player does the same. |
+| 5    | Initiative player places 1 gangster in a district space without an emergency zone, then second player does the same.            |
+| 6    | Trigger a shootout. Initiative player selects the space among valid spaces.                                                     |
 
 # Armored car movement
 
-After resolving an event, the government player may move an armored car (or more if a 2 or 3 are rolled) down an un-sabotaged LOC. If an armored car reaches a police station, it is removed to available, and the government moves 2 police from out of play to available.
+After resolving an event, the government player may move an armored car (or more if a 2 or 3 are rolled) down an un-sabotaged LOC. If an armored car reaches a police station, it is removed to available, and the government moves 3 police from out of play to available.
 
 Whenever an armored car moves, a single police cube on its origin space may move with it.

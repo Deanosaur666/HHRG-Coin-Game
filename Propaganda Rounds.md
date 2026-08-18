@@ -12,13 +12,13 @@ Rats may perform one free bombing (attack option B).
 
 # Politicians
 
-Political will increases by one for every surviving active politician on the map. Then, in each space with an active politician, may replace one gang member with a civilian, or place a civilian.
+Political will increases by one for every surviving active politician on the map. Then, in each space with an active politician, may replace one gang member with a civilian. Then, the space shifts one step towards support.
 
 Then, flip all politicians active.
 
 # Score population
 
-Score the difference in population (both civilians in gangsters) between government controlled and rat-controlled spaces (uncontrolled spaces are not scored).
+Score the difference in population (both civilians in gangsters) between support and oppose districts.
 
 # Score Collateral
 
@@ -38,7 +38,10 @@ In each emergency zone, if no Rat pieces remain, remove the emergency zone. Then
 If this is the last propaganda round, the game ends here.
 
 # Repopulate
-In every space, add a gangster if there is a terror, or add a civilian if none.
+In every space, add a gangster if there is a terror, or add a civilian if none. 
+
+# Redeploy
+Rats must move from strategic centers and LOCs to districts without support, or foreign country spaces.
 
 # Reset
 Flip all guerrillas underground.
