@@ -19,7 +19,7 @@ If the moss grower is ever removed, shift the moss track left.
 
 # Assassination
 ---
-When a politician is removed by a Rat attack, the Rats instantly get 3 points, and an emergency zone is placed in the space. Politicians are removed to out of play and cannot be returned to available from there.
+When a politician is removed by a Rat attack, reduce political will by 1, and an emergency zone is placed in the space. Politicians are removed to out of play and cannot be returned to available from there.
 
 # Government Ops
 ---
