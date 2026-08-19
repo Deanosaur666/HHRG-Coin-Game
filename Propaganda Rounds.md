@@ -38,7 +38,7 @@ In each emergency zone, if no Rat pieces remain, remove the emergency zone. Then
 If this is the last propaganda round, the game ends here.
 
 # Repopulate
-In every space, add a gangster if there is a terror, or add a civilian if none. 
+In every district, add a gangster if there is a terror, or add a civilian if none. 
 
 # Redeploy
 Rats must move from strategic centers and LOCs to districts without support, or foreign country spaces.

@@ -37,7 +37,7 @@ In districts, either without opposition, or with police:
 **Special Activities:** ?
 **Purpose:** Move police and reveal Rat cells.
 **Location:** Any destination spaces.
-**Procedure:** May move police* Place an active politician or move an active politician to the space if none are available. Then, may remove a terror or from the space, or, if no terror, may shift the space towards support. Remove any emergency zone in that space. to an adjacent, un-sabotaged LOC, then may move to an adjacent space. Then, at final destination spaces:
+**Procedure:** May move police to an adjacent, un-sabotaged LOC, then may move to an adjacent space. Then, at final destination spaces:
 * If the space is at opposition, reveal one cell for every two police there.
 * Otherwise, reveal one cell for every police there.
 * In one selected sweep space, may free assault instead of revealing.
@@ -65,8 +65,8 @@ If the target space is a foreign space, shift the moss down once and lose one po
 ## Rally
 **Special Activities:** ?
 **Purpose:** Add Rat cells and arms caches to the map.
-**Location:** Foreign spaces and any districts without government control, up to the ops value on the moss track.
-**Procedure:** In each space place one cell, or, if the moss grower is in that space, 3 cells and one gangster. Then, may place arms caches in selected spaces, up to the arms cache value on the moss track.strategic
+**Location:** Foreign spaces and any districts without support, up to the ops value on the moss track.
+**Procedure:** In each space place one cell, or, if the moss grower is in that space, 3 cells and one gangster. Then, may place arms caches in selected spaces, up to the arms cache value on the moss track.
 
 ## March
 **Special Activities:** ?
@@ -79,15 +79,15 @@ If the target space is a foreign space, shift the moss down once and lose one po
 
 ## Sabotage
 **Special Activities:** ?
-**Purpose:** Sabotage spaces and flip politicians underground.
-**Location:** Any spaces with underground cells
-**Procedure:** In each space reveal one underground cell, and then place a sabotage. If there are active politicians in the space, flip them underground. If the space is a district, shift it towards opposition.
+**Purpose:** Sabotage spaces and shift to oppose.
+**Location:** Any spaces with underground cells and no active politicians
+**Procedure:** In each space reveal one underground cell, and then place a sabotage. If the space is a district, shift it towards opposition.
 
 ## Bombing
 **Special Activities:** ?
 **Purpose:** Kill police, stop armored cars, and assassinate politicians.
 **Location:** Any spaces with underground cells, adjacent or with arms caches, up to the ops value on the moss track. 
-**Procedure:**  In each selected space, remove an adjacent arms cache, activate an underground cell, and roll a dice.
+**Procedure:**  In each selected space, remove an arms cache from the space or an adjacent space, activate an underground cell, and roll a dice.
 - Attack power is equal half dice roll, rounded up. (1-3). Add one for each arms cache used.  Each piece removed costs one attack power.
 * First, remove police cubes (removed to out of play).
 * Then, once no police, if there is an armored car, may remove it. If an armored car is removed, reduce political will by 1, and may place an arms cache in a district adjacent to the car.
@@ -105,7 +105,7 @@ Then:
 ## Supply
 **Accompanying Ops:**
 **Purpose:** Place armored cars to increase police supply.
-**Location:** Any un-sabotaged factoriy.
+**Location:** Any un-sabotaged factory.
 **Procedure:** Place an armored car at the selected space. May also place one police from available there.
 
 ## Campaign
@@ -126,7 +126,7 @@ Then, may move one rat cell in the selected space to an adjacent space.
 **Accompanying Ops:**
 **Purpose:** Move police to emergency zones
 **Location:** Any districts with emergency zones, or strategic centers.
-**Procedure:** Move 4 police pieces from the map among selected spaces.
+**Procedure:** Move 4 police pieces total from anywhere on the map to the selected spaces.
 
 
 # Rat Special Activities
