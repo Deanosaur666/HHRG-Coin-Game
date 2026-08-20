@@ -19,7 +19,7 @@ If the moss grower is ever removed, shift the moss track left.
 
 # Assassination
 ---
-When a politician is removed by a Rat attack, reduce political will by 1, and an emergency zone is placed in the space. Politicians are removed to out of play and cannot be returned to available from there.
+When a politician is removed by a Rat attack, reduce political will by 1, and an emergency zone is placed in the space. Politicians are removed to out of play.
 
 # Government Ops
 ---
@@ -30,7 +30,7 @@ When a politician is removed by a Rat attack, reduce political will by 1, and an
 **Procedure:**
 *In police stations:* Place up to 2 police if un-sabotaged, or 1 if sabotaged.
 In districts, either without opposition, or with police: 
-* Place an active politician or move an active politician to the space if none are available. Then, may remove a terror or from the space, or, if no terror, may shift the space towards support. Remove any emergency zone in that space.
+* Place an active politician or move an active politician to the space if none are available. Then, may remove a terror or sabotage from the space, or, if *no terror and no sabotage,* may shift the space towards support. Remove any emergency zone in that space.
 * If underground politician and police, flip the politician to active, and remove any emergency zone in that space.
 
 ## Sweep
@@ -48,15 +48,16 @@ Then, if destination space has sabotage or terror, and is not an LOC or strategi
 **Special Activities:** ?
 **Purpose:** Remove Rat cells, arm caches, moss growers, and gangs.
 **Location:** Any spaces with police.
-**Procedure:** In each space, determine attack power: roll a die per police and take the half result, rounded up, and add that to the number of police in the space. Then, must remove that many pieces, if possible.
+**Procedure:** In each space, determine attack power: roll a dice, and add that to the number of police in the space. Then, must remove that many pieces, if possible.
 First, remove active rats, then gang members, then civilians. If the space is an emergency zone, may spend one power to flip an underground rat to active. Remove arms caches or the moss grower only once no rats remain. If an arms cache or the moss grower is removed, gain one political will. If the moss grower is removed, shift the moss track down once. If any civilians are removed, add a terror to the space. (Civilians are removed to the government's collateral box)
 
 ## Artillery
 **Only available if artillery strategic center is not sabotaged.**
 **Purpose:** Remove all pieces from a space.
-**Location:** Any districts with police or foreign space with adjacent police.
-**Procedure:** Per space, as a cost, remove 2 police from police stations and/or available to out of play. Then remove all pieces, except sabotage, from the space (police to out of play, civilians to government collateral), and set the space to neutral.
+**Location:** Any one district or foreign space with adjacent police.
+**Procedure:** As a cost, remove 3 police from police stations and/or available to out of play. Then remove all pieces, except sabotage, from the space (police and politicians to *available*, civilians to government collateral), and set the space to neutral.
 If the target space is a foreign space, shift the moss down once and lose one political will.
+If the target space is at support, lose one political will.
 
 
 # Rat Ops
@@ -67,12 +68,13 @@ If the target space is a foreign space, shift the moss down once and lose one po
 **Purpose:** Add Rat cells and arms caches to the map.
 **Location:** Foreign spaces and any districts without support, up to the ops value on the moss track.
 **Procedure:** In each space place one cell, or, if the moss grower is in that space, 3 cells and one gangster. Then, may place arms caches in selected spaces, up to the arms cache value on the moss track.
+*Note: Rally may pull Rat cells from anywhere on the map if none are available.*
 
 ## March
 **Special Activities:** ?
 **Purpose:** Move Rat cells and flip them underground.
 **Location:** Any destination spaces, up to the ops value on the moss track.
-**Procedure:** Move Rat cells from adjacent spaces without emergency zones. Rats may bring gangsters with them, 1 per moving rat. Then:
+**Procedure:** Move Rat cells from adjacent spaces without emergency zones. Rats may bring one gangster with them if the origin space was not at support. Then:
 * If destination is an emergency zone, strategic center, or LOC, and moving cells plus police and active politicians there exceed 3, flip moving cells to active.
 * Otherwise, if the destination is at oppose, may flip moving cells underground.
 *Note: Movement may be chained.*
@@ -81,7 +83,7 @@ If the target space is a foreign space, shift the moss down once and lose one po
 **Special Activities:** ?
 **Purpose:** Sabotage spaces and shift to oppose.
 **Location:** Any spaces with underground cells and no active politicians
-**Procedure:** In each space reveal one underground cell, and then place a sabotage. If the space is a district, shift it towards opposition.
+**Procedure:** In each space reveal one underground cell, and then place a sabotage *if none*. If the space is a district, shift it towards opposition.
 
 ## Bombing
 **Special Activities:** ?
@@ -93,8 +95,8 @@ If the target space is a foreign space, shift the moss down once and lose one po
 * Then, once no police, if there is an armored car, may remove it. If an armored car is removed, reduce political will by 1, and may place an arms cache in a district adjacent to the car.
 * Then, if power remains, remove the following pieces in alternating order: politician, civilian cube, gang cube. (See **Assassination**). Removed civilians are placed in the rat's collateral box.
 Then:
-* If space is an LOC, place a sabotage.
-* Otherwise, place a terror.
+* If space is an LOC, place a sabotage *if none*.
+* Otherwise, place a terror *if none*.
 * If there are any surviving active politicians in the space, flip them underground.
 
 
@@ -113,7 +115,7 @@ Then:
 **Location:** Any district with an active politician
 **Procedure:** Flip an active politician in the district underground. Then, may either.
 - Add one civilian cube to the space
-- Place an emergency zone,
+- Place an emergency zone
 Then, may move one rat cell in the selected space to an adjacent space.
 
 ## Smoke Out
@@ -135,7 +137,7 @@ Then, may move one rat cell in the selected space to an adjacent space.
 **Accompanying Ops:**
 **Purpose:** Increase moss track and move an arms cache.
 **Location:** Moss track, or a district with an underground rat.
-**Procedure:** If the moss grower is on the map, increase the moss track by one. Otherwise, place the moss grower in a district with an underground rat. Then, may move one arms cache from any space to an adjacent district
+**Procedure:** If the moss grower is on the map, increase the moss track by one. Otherwise, place the moss grower in a district with an underground rat *and no support*. Then, may move one arms cache from any space to an adjacent district.
 
 ## Uprising
 **Accompanying Ops:**
