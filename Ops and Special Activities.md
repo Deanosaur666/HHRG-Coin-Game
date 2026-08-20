@@ -109,7 +109,7 @@ Then:
 **Procedure:** Place an armored car at the selected space. May also place one police from available there.
 
 ## Campaign
-**Purpose:** Add civilian cubes and move rats.
+**Purpose:** Add civilian cubes or emergency zones and move rats.
 **Location:** Any district with an active politician
 **Procedure:** Flip an active politician in the district underground. Then, may either.
 - Add one civilian cube to the space
@@ -137,18 +137,18 @@ Then, may move one rat cell in the selected space to an adjacent space.
 **Location:** Moss track, or a district with an underground rat.
 **Procedure:** If the moss grower is on the map, increase the moss track by one. Otherwise, place the moss grower in a district with an underground rat. Then, may move one arms cache from any space to an adjacent district
 
-## Insiders
+## Uprising
 **Accompanying Ops:**
 **Purpose:** Get rats in harder to reach places
-**Location:** Spaces with gangsters and no active politician or emergency zone, up to the moss track value.
+**Location:** Spaces with gangsters and no active politician, emergency zone, or support, up to the moss track value.
 **Procedure:** In each selected space, replace a gangster with an underground rat.
 
 ## Smuggle
 **Only available if the moss grower is on the map**
 **Accompanying Ops:**
 **Purpose:** Get more arms caches
-**Location:** A space adjacent to the moss grower, with a gangster and no emergency zone.
-**Procedure:** Place an arms cache in the selected space.
+**Location:** A district adjacent to the moss grower, without support or an emergency zone.
+**Procedure:** Place an arms cache and a gangster in the selected space.
 
 ## Raid
 **Accompanying Ops:**
@@ -156,11 +156,11 @@ Then, may move one rat cell in the selected space to an adjacent space.
 **Location:** Spaces adjacent to an arms cache, up to the arms cache value on the moss track.
 **Procedure:** Pick either:
 * Move 1 or 2 cells from an adjacent space with an arms cache to the selected space, and then may perform a single sabotage in the destination space.
-* Move 1 or 2 cells from the selected space to an adjacent s￼￼Procedure:￼￼ In this space, reveal one underground Rat cell and remove a politician.pace with an arms cache, and flip them underground.
+* Move 1 or 2 cells from the selected space to an adjacent arms cache, and then flip them underground.
 
-## Killing
-**Purpose:** Kill politicians
-**Location:** One space with an underground rat, at least one gangster, and more gangsters than police.
-**Procedure:** In this space, reveal one underground Rat cell and remove a politician to out of play (See assasination)
+## ~~Killing~~
+~~**Purpose:** Kill politicians~~
+~~**Location:** One space with an underground rat, at least one gangster, and more gangsters than police.~~
+~~**Procedure:** In this space, reveal one underground Rat cell and remove a politician to out of play (See assasination)~~
 
 
