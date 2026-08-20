@@ -128,7 +128,7 @@ Then, may move one rat cell in the selected space to an adjacent space.
 **Accompanying Ops:**
 **Purpose:** Move police to emergency zones
 **Location:** Any districts with emergency zones, or strategic centers.
-**Procedure:** Move 4 police pieces total from anywhere on the map to the selected spaces.
+**Procedure:** Move 4 police total from anywhere on the map to the selected spaces.
 
 
 # Rat Special Activities

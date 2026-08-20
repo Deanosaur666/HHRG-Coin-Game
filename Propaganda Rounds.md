@@ -18,7 +18,7 @@ Then, flip all politicians active.
 
 # Score population
 
-Score the difference in population (both civilians in gangsters) between support and oppose districts.
+Score the difference in population (both civilians in gangsters) between districts at support and oppose.
 
 # Score Collateral
 
