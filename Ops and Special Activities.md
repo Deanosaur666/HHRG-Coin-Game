@@ -133,9 +133,7 @@ Then, may move one rat cell in the selected space to an adjacent space.
 **Only available if artillery strategic center is not sabotaged.**
 **Purpose:** Remove all pieces from a space.
 **Location:** Any one district or foreign space.
-**Procedure:** As a cost, remove 4 police from police stations and/or available to out of play. Then remove all pieces, except sabotage, from the space (police and politicians to *available*, civilians and gangsters to government collateral), and set the space to neutral.
-If the target space is a foreign space, shift the moss down once and lose one political will.
-If the target space is at support, lose one political will.
+**Procedure:** As a cost, remove 2 police from police stations and/or available to out of play. Then place an artillery target marker in the selected space, on its blue (warning) side.
 
 
 # Rat Special Activities
