@@ -1,8 +1,9 @@
 
+If a space is ever reduced to 0 population, set it to neutral.
 
 # Initiative track.
 
-Each turn, in eligibility order, each player may pick limited op, economic action, or ops + special activities. After selecting, a player may choose to pass.
+Each turn, in eligibility order, each player may pick limited op, economic action, or ops + special activities.
 
 # Turn track
 

@@ -10,19 +10,13 @@ In every space with gangsters or terror, roll for a shootout ([[Shootouts]]).
 
 Rats may perform one free bombing (attack option B).
 
-# Politicians
-
-Political will increases by one for every surviving active politician on the map. Then, in each space with an active politician, may replace one gang member with a civilian. Then, the space shifts one step towards support.
-
-Then, flip all politicians active.
-
 # Score population
 
 Score the difference in population (both civilians in gangsters) between districts at support and oppose.
 
 # Score Collateral
 
-Compare the number of civilians (not gangsters) in the collateral box for each side. If government has more, reduce political will by half (rounded down) of the difference. If rats have more, increase political will by half (rounded down) of the difference.
+Compare the number of civilians  in the collateral box for each side. If government has more, lose political will equal to the difference. If rats have more, gain political will equal to the difference.
 
 Then, move all collateral to available.
 # Score sabotage
@@ -37,10 +31,20 @@ In each emergency zone, if no Rat pieces remain, remove the emergency zone. Then
 
 If this is the last propaganda round, the game ends here.
 
+# Politicians
+
+In each space with an active politician, may replace one gang member with a civilian. Then, the space shifts one step towards support.
+
+Then, flip all politicians active.
+
 # Repopulate
 In every district, add a gangster if there is a terror, or add a civilian if none. 
 
 # Redeploy
+Police must move from oppose spaces to police stations.
+
+Politicians in oppose spaces are returned to available.
+
 Rats must move from strategic centers and LOCs to districts without support, or foreign country spaces.
 
 # Reset

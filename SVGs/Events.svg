@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="596.09102"
-     inkscape:cy="889.54033"
+     inkscape:zoom="0.5"
+     inkscape:cx="499"
+     inkscape:cy="1548"
      inkscape:window-width="1920"
      inkscape:window-height="978"
      inkscape:window-x="0"
@@ -197,6 +197,12 @@
        width="970.99499"
        height="96.893343"
        id="rect40" />
+    <rect
+       x="99.985708"
+       y="1869.5903"
+       width="940.85698"
+       height="570.31318"
+       id="rect56" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -206,9 +212,9 @@
        style="vector-effect:non-scaling-stroke;fill:#cccccc;stroke:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect11"
        width="936.59717"
-       height="551.67102"
+       height="447.67102"
        x="70.287224"
-       y="1732.3431"
+       y="1364.3431"
        rx="79.847824"
        ry="72.525284" />
     <text
@@ -240,130 +246,136 @@
          id="tspan5">If a propaganda round is triggered, ignore the event effect, </tspan><tspan
          x="101.01562"
          y="272.01547"
-         id="tspan7">otherwise, the initiative player triggers the following event:
-</tspan><tspan
+         id="tspan6">otherwise, the initiative player must trigger the following </tspan><tspan
          x="101.01562"
          y="308.6821"
+         id="tspan7">event:
+</tspan><tspan
+         x="101.01562"
+         y="345.34873"
          id="tspan8">
 </tspan><tspan
          x="101.01562"
-         y="352.42685"
+         y="389.09348"
          id="tspan10"><tspan
    style="font-weight:bold;font-size:37.3333px"
    id="tspan9">1</tspan>: No effect
 </tspan><tspan
          x="101.01562"
-         y="392.01535"
+         y="428.68198"
          id="tspan11">
 </tspan><tspan
          x="101.01562"
-         y="435.7601"
-         id="tspan14"><tspan
+         y="472.42673"
+         id="tspan13"><tspan
    style="font-weight:bold;font-size:37.3333px"
    id="tspan12">2</tspan>: Government player moves an additional armored car
 </tspan><tspan
          x="101.01562"
-         y="475.3486"
-         id="tspan15">
+         y="512.01523"
+         id="tspan14">
 </tspan><tspan
          x="101.01562"
-         y="519.09336"
-         id="tspan18"><tspan
+         y="555.75998"
+         id="tspan17"><tspan
    style="font-weight:bold;font-size:37.3333px"
-   id="tspan17">3</tspan>: Government player moves two additional armored cars.
+   id="tspan15">3</tspan>: Government player moves two additional armored cars.
 </tspan><tspan
          x="101.01562"
-         y="558.68185"
-         id="tspan20">
+         y="595.34848"
+         id="tspan18">
 </tspan><tspan
          x="101.01562"
-         y="602.42661"
-         id="tspan23"><tspan
+         y="639.09323"
+         id="tspan21"><tspan
    style="font-weight:bold;font-size:37.3333px"
-   id="tspan21">4</tspan>: Initiative player replaces a civilian with a ganster or vice </tspan><tspan
-         x="101.01562"
-         y="642.01511"
-         id="tspan24">versa.
-</tspan><tspan
+   id="tspan20">4</tspan>: Initiative player replaces a civilian with a ganster or vice </tspan><tspan
          x="101.01562"
          y="678.68173"
-         id="tspan25">
+         id="tspan23">versa.
 </tspan><tspan
          x="101.01562"
-         y="722.42649"
-         id="tspan28"><tspan
-   style="font-weight:bold;font-size:37.3333px"
-   id="tspan27">5, 6</tspan>: Initiative player triggers a shootout in a space with </tspan><tspan
+         y="715.34836"
+         id="tspan24">
+</tspan><tspan
          x="101.01562"
-         y="762.01498"
-         id="tspan29">terror, or, if no terror on the map, may place a terror in a </tspan><tspan
+         y="759.09311"
+         id="tspan27"><tspan
+   style="font-weight:bold;font-size:37.3333px"
+   id="tspan25">5, 6</tspan>: Initiative player triggers a shootout in a space with </tspan><tspan
          x="101.01562"
          y="798.68161"
-         id="tspan30">district without an active politician.
-</tspan><tspan
+         id="tspan28">terror, or, if no terror on the map, may place a terror in a </tspan><tspan
          x="101.01562"
          y="835.34824"
-         id="tspan31">
+         id="tspan29">district without an active politician.
 </tspan><tspan
          x="101.01562"
          y="872.01486"
-         id="tspan32">
+         id="tspan30">
 </tspan><tspan
          x="101.01562"
          y="908.68149"
-         id="tspan33">
+         id="tspan31">
 </tspan><tspan
          x="101.01562"
          y="945.34811"
-         id="tspan35"><tspan
-   style="font-weight:bold"
-   id="tspan34">Armored Car Movement</tspan>
+         id="tspan32">
 </tspan><tspan
          x="101.01562"
          y="982.01474"
-         id="tspan37">
+         id="tspan34"><tspan
+   style="font-weight:bold"
+   id="tspan33">Armored Car Movement</tspan>
 </tspan><tspan
          x="101.01562"
          y="1018.6814"
-         id="tspan38">After resolving an event, the government player may move </tspan><tspan
-         x="101.01562"
-         y="1055.348"
-         id="tspan39">an armored car (or more if a 2 or 3 are rolled) down an un-</tspan><tspan
-         x="101.01562"
-         y="1092.0146"
-         id="tspan40">sabotaged LOC. If an armored car reaches a police station, </tspan><tspan
-         x="101.01562"
-         y="1128.6812"
-         id="tspan41">it is removed to available, and the government moves 3 </tspan><tspan
-         x="101.01562"
-         y="1165.3479"
-         id="tspan42">police from out of play to available.
+         id="tspan35">
 </tspan><tspan
          x="101.01562"
+         y="1055.348"
+         id="tspan37">After resolving an event, the government player may move </tspan><tspan
+         x="101.01562"
+         y="1092.0146"
+         id="tspan38">an armored car (or more if a 2 or 3 are rolled) down an un-</tspan><tspan
+         x="101.01562"
+         y="1128.6812"
+         id="tspan39">sabotaged LOC, from checkpoint to checkpoint, and must </tspan><tspan
+         x="101.01562"
+         y="1165.3479"
+         id="tspan40">move closer to police stations. If an armored car reaches a </tspan><tspan
+         x="101.01562"
          y="1202.0145"
+         id="tspan41">police station, it is removed to available, and the </tspan><tspan
+         x="101.01562"
+         y="1238.6811"
+         id="tspan42">government moves 3 police from out of play to available.
+</tspan><tspan
+         x="101.01562"
+         y="1275.3477"
          id="tspan43">
 </tspan><tspan
          x="101.01562"
-         y="1238.6811"
+         y="1312.0144"
          id="tspan44">Whenever an armored car moves, a single police cube on </tspan><tspan
          x="101.01562"
-         y="1275.3477"
+         y="1348.681"
          id="tspan45">its origin space may move with it.
 </tspan><tspan
          x="101.01562"
-         y="1312.0144"
+         y="1385.3476"
          id="tspan46">
 </tspan><tspan
          x="101.01562"
-         y="1348.681"
+         y="1422.0143"
          id="tspan47">
 </tspan><tspan
          x="101.01562"
-         y="1385.3476"
+         y="1458.6809"
          id="tspan48">
 </tspan><tspan
          x="101.01562"
-         y="1422.0143"
+         y="1495.3475"
          id="tspan49">
 </tspan></text>
     <g
@@ -394,54 +406,46 @@
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(0,-101.62881)"><tspan
+       transform="translate(0,-469.62882)"><tspan
          x="99.986328"
          y="1895.5429"
-         id="tspan64"><tspan
+         id="tspan51"><tspan
    style="font-weight:bold"
    id="tspan50">Shootouts</tspan>
 </tspan><tspan
          x="99.986328"
          y="1932.2096"
-         id="tspan65">In shootout spaces:
+         id="tspan52">In shootout spaces:
 </tspan><tspan
          x="99.986328"
          y="1968.8762"
-         id="tspan66">Shootout &quot;power&quot; is gangsters + terror markers.
+         id="tspan53">Shootout &quot;power&quot; is gangsters + terror markers.
 </tspan><tspan
          x="99.986328"
          y="2005.5428"
-         id="tspan67">
+         id="tspan54">
 </tspan><tspan
          x="99.986328"
          y="2042.2094"
-         id="tspan68">Remove pieces equal to power, in alternating order:
-</tspan><tspan
+         id="tspan55">Remove pieces equal to power, until only 1 remains, in </tspan><tspan
          x="99.986328"
          y="2078.8759"
-         id="tspan69">- Civilian (or gangster if no civilians left)
+         id="tspan56">alternating order:
 </tspan><tspan
          x="99.986328"
          y="2115.5425"
-         id="tspan70">- Active rat (or reveal underground rat if none active)
+         id="tspan57">- Civilian (or gangster if no civilians left)
 </tspan><tspan
          x="99.986328"
          y="2152.209"
-         id="tspan71">
+         id="tspan58">- Active rat (or reveal underground rat if none active)
 </tspan><tspan
          x="99.986328"
          y="2188.8755"
-         id="tspan72">Any active politicians in the space are flipped underground.
+         id="tspan59">
 </tspan><tspan
          x="99.986328"
          y="2225.542"
-         id="tspan73">
-</tspan><tspan
-         x="99.986328"
-         y="2262.2085"
-         id="tspan74">After a shootout takes place, rats may take an attack action </tspan><tspan
-         x="99.986328"
-         y="2298.875"
-         id="tspan75">in that space, then police may assault in that space.</tspan></text>
+         id="tspan60">Any active politicians in the space are flipped underground.</tspan></text>
   </g>
 </svg>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="2340"
+   viewBox="0 0 1080 2340.0001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Setup.svg"
+   inkscape:export-filename="PNGs/Setup.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#b4b4b4"
+     bordercolor="#2c2b78"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="651.24535"
+     inkscape:cy="753.77583"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#b5b5b5ff"
+     showguides="false">
+    <inkscape:grid
+       id="grid11"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="30"
+       enabled="false"
+       visible="true" />
+    <sodipodi:guide
+       position="0,2340.0001"
+       orientation="0,1080"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1080,2340.0001"
+       orientation="2340,0"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1080,0"
+       orientation="0,-1080"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-2340,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,2340.0001"
+       orientation="0,1080"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1080,2340.0001"
+       orientation="2340,0"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1080,0"
+       orientation="0,-1080"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-2340,0"
+       id="guide15"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="99.985708"
+       y="1869.5903"
+       width="882.85698"
+       height="578.31318"
+       id="rect9" />
+    <rect
+       x="99.985708"
+       y="872"
+       width="880.02855"
+       height="348"
+       id="rect16" />
+    <rect
+       x="99.985708"
+       y="480"
+       width="880.02857"
+       height="353.01219"
+       id="rect10" />
+    <rect
+       x="99.985708"
+       y="1706"
+       width="880.02855"
+       height="366"
+       id="rect3" />
+    <rect
+       x="99.985708"
+       y="1626"
+       width="880.02855"
+       height="358"
+       id="rect33" />
+    <rect
+       x="99.985708"
+       y="1432"
+       width="880.02855"
+       height="198"
+       id="rect30" />
+    <rect
+       x="99.985708"
+       y="1234"
+       width="880.02855"
+       height="330"
+       id="rect28" />
+    <rect
+       x="99.985708"
+       y="639.22453"
+       width="880.02855"
+       height="530.77535"
+       id="rect13" />
+    <rect
+       x="99.985708"
+       y="410.12193"
+       width="880.02855"
+       height="353.55339"
+       id="rect8" />
+    <rect
+       x="99.985708"
+       y="1736.1724"
+       width="880.02855"
+       height="503.84172"
+       id="rect36" />
+    <rect
+       x="99.985708"
+       y="1032.0823"
+       width="880.02857"
+       height="691.67043"
+       id="rect29" />
+    <rect
+       x="99.985708"
+       y="441.17394"
+       width="880.02857"
+       height="518.3988"
+       id="rect26" />
+    <rect
+       x="101.01646"
+       y="136.06299"
+       width="878.99784"
+       height="2103.9513"
+       id="rect23" />
+    <rect
+       x="32.984968"
+       y="18.554044"
+       width="970.99499"
+       height="96.893343"
+       id="rect22" />
+    <rect
+       x="32.984968"
+       y="28.861847"
+       width="1014.2878"
+       height="2271.8397"
+       id="rect15" />
+    <rect
+       x="32.984968"
+       y="18.554044"
+       width="970.99499"
+       height="96.893343"
+       id="rect24" />
+    <rect
+       x="32.984968"
+       y="18.554044"
+       width="970.99499"
+       height="96.893343"
+       id="rect40" />
+    <rect
+       x="99.985708"
+       y="1869.5903"
+       width="940.85698"
+       height="570.31318"
+       id="rect56" />
+    <rect
+       x="99.98571"
+       y="1869.5903"
+       width="870.85699"
+       height="814.31318"
+       id="rect56-9" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g42"
+       style="display:none"
+       inkscape:label="Reference"
+       sodipodi:insensitive="true">
+      <path
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+         d="M 0,-4.9999916e-5 C 99.985711,99.985661 99.985711,99.985661 99.985711,99.985661"
+         id="path25" />
+      <path
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+         d="M 980.0143,2240.0143 C 1080,2340 1080,2340 1080,2340"
+         id="path25-6" />
+      <rect
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+         id="rect25"
+         width="880.02856"
+         height="2140.0286"
+         x="99.98571"
+         y="99.985657"
+         inkscape:label="Border" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text56"
+       style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect56-9);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       x="-440.01428"
+       y="0"
+       transform="translate(-12.658939,-1786.5732)"><tspan
+         x="99.986328"
+         y="1895.5429"
+         id="tspan5"><tspan
+           style="font-weight:bold"
+           id="tspan4">Setup
+</tspan></tspan><tspan
+         x="99.986328"
+         y="1932.2096"
+         id="tspan7"><tspan
+           style="font-weight:bold"
+           id="tspan6">
+</tspan></tspan><tspan
+         x="99.986328"
+         y="1968.8762"
+         id="tspan9">Politcal will starts at 14<tspan
+   style="font-weight:bold"
+   id="tspan8">
+</tspan></tspan><tspan
+         x="99.986328"
+         y="2005.5428"
+         id="tspan11"><tspan
+           style="font-weight:bold"
+           id="tspan10">
+</tspan></tspan><tspan
+         x="99.986328"
+         y="2042.2094"
+         id="tspan13"><tspan
+           style="font-weight:bold"
+           id="tspan12">Government
+</tspan></tspan><tspan
+         x="99.986328"
+         y="2078.8759"
+         id="tspan15">-Place 2 police in each police station, 1 in each factory.<tspan
+   style="font-weight:bold"
+   id="tspan14">
+</tspan></tspan><tspan
+         x="99.986328"
+         y="2115.5425"
+         id="tspan16">-Place a politician, a police, and support in two non-</tspan><tspan
+         x="99.986328"
+         y="2152.209"
+         id="tspan17">southern districts.
+</tspan><tspan
+         x="99.986328"
+         y="2188.8755"
+         id="tspan18">-Place 4 police in available, and 8 in out of play.
+</tspan><tspan
+         x="99.986328"
+         y="2225.542"
+         id="tspan19">
+</tspan><tspan
+         x="99.986328"
+         y="2262.2085"
+         id="tspan21"><tspan
+   style="font-weight:bold"
+   id="tspan20">Rats</tspan>
+</tspan><tspan
+         x="99.986328"
+         y="2298.875"
+         id="tspan22">-Each foreign space will have two rats, and one will have </tspan><tspan
+         x="99.986328"
+         y="2335.5415"
+         id="tspan23">an arms cache.
+</tspan><tspan
+         x="99.986328"
+         y="2372.208"
+         id="tspan24">-One southern space will have the moss grower, and it will </tspan><tspan
+         x="99.986328"
+         y="2408.8745"
+         id="tspan25">have 2 rats and opposition.
+</tspan><tspan
+         x="99.986328"
+         y="2445.541"
+         id="tspan26">-All other districts without politicians should have 1 rat in </tspan><tspan
+         x="99.986328"
+         y="2482.2075"
+         id="tspan27">them.
+</tspan><tspan
+         x="99.986328"
+         y="2518.874"
+         id="tspan29"><tspan
+   style="font-weight:bold"
+   id="tspan28">Civilians</tspan>
+</tspan><tspan
+         x="99.986328"
+         y="2555.5405"
+         id="tspan30">-NC and CC districts should have one civilian and one </tspan><tspan
+         x="99.986328"
+         y="2592.207"
+         id="tspan31">gangster.
+</tspan><tspan
+         x="99.986328"
+         y="2628.8735"
+         id="tspan32">-The moss grower space has two gangsters.
+</tspan><tspan
+         x="99.986328"
+         y="2665.54"
+         id="tspan33">-All other districts will have one civilian.</tspan></text>
+  </g>
+</svg>
