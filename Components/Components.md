@@ -40,29 +40,21 @@ We need 17 sabotage markers to hit all of them.
 
 ## Small (1 cm)
 
-17-20 ish terror/sabotage markers
-
-Round marker (flip sides)
-
-Turn marker
+* [ ] 17-20 ish terror/sabotage markers
+* [ ] Round marker (flip sides)
+* [ ] Turn marker
 ## Medium (1.5 cm)
 
-8 support/oppose markers.
-
-3 emergency zone markers
-
-Moss track/moss sales markers (2)
-
-Artillery marker (flip sides)
-
-Political will marker
+* [x] Political will marker
+* [x] 8 support/oppose markers.
+* [x] 3 emergency zone markers
+* [x] Moss track/moss sales markers (2)
+* [x] Artillery marker (flip sides)
 
 ## Stencils (1.5 cm?)
 
-Star stencil (test)
-
-U stencil (test)
-
-Rat stencil (line and filled version)
-
-Four circle stencil (with 2 lines, for armored cars)
+* [x] Star stencil (test)
+* [x] U stencil (test)
+* [x] Rat stencil (outlined)
+* [x] Rat stencil (filled)
+* [x] Four circle stencil (with 2 lines, for armored cars)
