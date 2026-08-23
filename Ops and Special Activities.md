@@ -68,7 +68,7 @@ If an arms cache or the moss grower is removed, gain one political will. If the 
 **Special Activities:** ?
 **Purpose:** Add Rat cells and arms caches to the map.
 **Location:** Foreign spaces and any districts without support, up to the ops value on the moss track.
-**Procedure:** In each space place one cell, or if a foreign space, two cells, or, if the moss grower is in that space, 2 cells and one gangster. Then, may place arms caches in selected spaces, up to the arms cache value on the moss track.
+**Procedure:** In each space place one cell, or if a foreign space or the moss grower is in that space, two cells. Then, may place arms caches in selected spaces, up to the arms cache value on the moss track. (Maximum of 2 arms caches per space)
 *Note: Rally may pull Rat cells from anywhere on the map if none are available.*
 
 ## Travel
@@ -142,7 +142,8 @@ Then, may move one rat cell in the selected space to an adjacent space.
 **Accompanying Ops:**
 **Purpose:** Increase moss track and move an arms cache.
 **Location:** Moss track, or a district with an underground rat.
-**Procedure:** If the moss grower is on the map, increase the moss track by one. Otherwise, place the moss grower in a district with an underground rat *and no support*. Then, may move one arms cache from any space to an adjacent district.
+**Procedure:** If the moss grower is on the map, place a gangster in its space. Otherwise, place the moss grower in a district with an underground rat *and no support*.
+Then, may move one arms cache from any space to an adjacent district.
 
 ## Smuggle
 **Only available if the moss grower is on the map**
