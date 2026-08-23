@@ -37,6 +37,7 @@ Not sure about colors (2-3, may add more types for variety...)
 The map has 8 districts, 2 foreign spaces (no terror or sabotage there), 5 SCs, 4 LOCs.
 
 We need 17 sabotage markers to hit all of them.
+
 ## Small (1 cm)
 
 17-20 ish terror/sabotage markers
@@ -58,8 +59,10 @@ Political will marker
 
 ## Stencils (1.5 cm?)
 
-Star stencil
+Star stencil (test)
 
-U stencil
+U stencil (test)
 
-Rat stencil
+Rat stencil (line and filled version)
+
+Four circle stencil (with 2 lines, for armored cars)
