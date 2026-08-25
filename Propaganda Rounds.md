@@ -28,6 +28,10 @@ Decrease political will by the economic value of each sabotaged strategic center
 
 If this is the last propaganda round, the game ends here.
 
+# Emergency Zones
+Remove any emergency zones without police or politicians.
+Rats in any remaining emergency zones are returned to available.
+
 # Politicians
 
 In each space with an active politician, for each active politician, may replace one population cube with a civilian or a militia. Then, the space shifts one step towards support.
@@ -35,7 +39,7 @@ In each space with an active politician, for each active politician, may replace
 Then, flip all politicians active.
 
 # Propagandize
-In each space with at least one rat cell, no police, politicans, or emergency zones, shift one step towards resist.
+In each space with at least one rat cell, and no police or politicans, shift one step towards resist.
 
 # Repopulate
 (Start with the NW district, and go left-to right top to bottom, in the case that population is not available.)
@@ -45,8 +49,6 @@ In every district, repopulate if under 1 population, or under two population for
 Police must move from oppose spaces to police stations.
 
 Politicians in oppose spaces are returned to available.
-
-Rats in emergency zones are returned to available.
 
 Rats must move from strategic centers and LOCs to districts without support, or foreign country spaces.
 
