@@ -58,7 +58,9 @@ In each space, pick 1:
 * If the space is at opposition, reveal one cell for every two police there.
 * Otherwise, reveal one cell for every police there.
 * When sweeping into emergency zones, may assault there instead of revealing.
+
 Then, if destination space is a district with sabotage or terror, place an emergency zone.
+
 *Note: Movement is considered to be simultaneous.*
 
 ## Assault
@@ -79,13 +81,13 @@ If any civilians were removed, add a terror to the space.
 ## Rally
 **Special Activities:** Traffic, Smuggle, or Hide
 **Purpose:** Add Rat cells and arms caches to the map.
-**Location:** Foreign spaces and any districts without support.
+**Location:** Foreign spaces and non-support districts.
 **Procedure:** In each selected space:
 * *If foreign spaces or moss grower*, may place two cells.
 * *Otherwise*, may place one cell.
-* *If at oppose or foreign*, may place cell(s) AND an arms cache.
-* *Otherwise*, may place an arms cache INSTEAD of placing cells.
-May only place a number of arms caches up to the arms cache value on the moss track.
+* *Then, if foreign or oppose,* place an arms cache
+* *Otherwise*, replace a cell with an arms cache.
+May not place more arms caches than the moss track allows.
 *Note: Rally may take Rat cells and arms caches from spaces without emergency zones if none are in available.*
 
 ## Travel
@@ -124,7 +126,7 @@ Then:
 # Government Special Activities
 ---
 ## Supply
-**Accompanying Ops:** Sweep or Assault
+**Accompanying Ops:** Mobilize, sweep or Assault
 **Purpose:** Place armored cars to increase police supply.
 **Location:** Any un-sabotaged factory, or the out of play box.
 **Procedure:** Either:
@@ -138,6 +140,7 @@ Then:
 **Procedure:** Flip an active politician in the district underground. Then, may either.
 - Add one civilian cube to the space
 - Place an emergency zone
+
 Then, may move one rat cell in the selected space to an adjacent space.
 
 ## Transport
@@ -147,7 +150,7 @@ Then, may move one rat cell in the selected space to an adjacent space.
 **Procedure:** Move police from any spaces along a chain of un-sabotaged LOCs and strategic centers, then finally into adjacent destination spaces.
 
 ## Artillery
-**Only available if artillery strategic center is not sabotaged, and the artillery target marker is not already on the map.**
+**Only available if artillery strategic center is not sabotaged.**
 **Accompanying Ops:** Any
 **Purpose:** Remove all pieces from a space.
 **Location:** Any one district or foreign space.

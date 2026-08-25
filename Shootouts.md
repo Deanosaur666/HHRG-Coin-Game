@@ -10,4 +10,6 @@ Remove pieces equal to power, in alternating order:
 - Neutral cube (first civilians, then gangsters, then militia)
 - Active rat (or reveal underground rat if none active)
 
+The last neutral cube in a space will never be removed by a shootout.
+
 Any active politicians in the space are flipped underground.

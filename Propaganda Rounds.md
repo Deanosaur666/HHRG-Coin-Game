@@ -6,10 +6,6 @@ Perform the "armored car movement" and "artillery" phases. Do not perform the dr
 
 In every space with gangsters or terror, roll for a shootout ([[Shootouts]]).
 
-# Bombing
-
-Rats may perform one free bombing (attack option B).
-
 # Score population
 
 Score the difference in population (both civilians in gangsters) between districts at support and oppose.
@@ -23,6 +19,10 @@ Then, move all collateral to available.
 
 Decrease political will by the economic value of each sabotaged strategic center and LOC.
 
+# Politicians
+
+Gain one political will for each space at support with an active politician.
+
 # Last round game end
 
 If this is the last propaganda round, the game ends here.
@@ -32,13 +32,9 @@ If this is the last propaganda round, the game ends here.
 Remove any emergency zones without police or politicians.
 Rats in any remaining emergency zones are returned to available.
 
-# Politicians
-
-In each space with an active politician, for each active politician, may replace one population cube with a civilian or a militia. If the space is already at support, gain one political will. Then, the space shifts one step towards support.
-
-Then, flip all politicians active.
-
 # Propagandize
+
+In each space with an active politician, for each active politician, may replace one population cube with a civilian or a militia. Then, the space shifts one step towards support.
 
 In each space with at least one rat cell, and no police or politicians, shift one step towards resist.
 
@@ -58,7 +54,7 @@ Rats must move from strategic centers and LOCs to districts without support, or 
 
 # Reset
 
-Flip all guerrillas underground.
+Flip all guerrillas underground. Flip all politicians to active.
 Remove all sabotage, terror and emergency zones from the map.
 Return half (rounded down) of politicians from out of play to available.
 If the artillery marker is out of play, return it to available.

@@ -24,17 +24,25 @@ Political will starts at 14/20. The rats win if political will is under 10 at th
 
 # Setup
 
+## U Party
+
 Place police in strategic centers, 2 in each station, 1 in each factory.
 (8 total police out.)
 
 The U Party player chooses two non-southern districts. Place an active politician, police, and support.
 
+## Rats
+
 The Rats player places two rats in each foreign space, and an arms cache in one of them. Then, they choose one southern space and place the moss grower, 2 rats, and opposition in them.
 
 Then, the Rats player places one rat in every other space without a politician.
 
+## Neutral cubes
+
 Place 2 gangsters in the district with the moss grower, and one civilian in every other district. Place one militia in each district with a politician.
 Place one gangster each in NC and CC.
+
+## Available and out of play
 
 4 police will be in available, and 8 will be in out of play.
 

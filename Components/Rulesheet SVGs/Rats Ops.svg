@@ -7,7 +7,7 @@
    viewBox="0 0 1080 2340.0001"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="Rats Ops.svg"
    inkscape:export-filename="PNGs/Rat Ops.png"
    inkscape:export-xdpi="96"
@@ -27,20 +27,20 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.5"
-     inkscape:cx="531"
-     inkscape:cy="742"
-     inkscape:window-width="1920"
-     inkscape:window-height="978"
-     inkscape:window-x="0"
+     inkscape:zoom="0.25"
+     inkscape:cx="928"
+     inkscape:cy="1304"
+     inkscape:window-width="1019"
+     inkscape:window-height="1032"
+     inkscape:window-x="901"
      inkscape:window-y="20"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#b5b5b5ff"
      showguides="false">
     <inkscape:grid
        id="grid11"
-       units="mm"
+       units="px"
        originx="0"
        originy="0"
        spacingx="1"
@@ -50,7 +50,7 @@
        color="#0099e5"
        opacity="0.14901961"
        empspacing="30"
-       enabled="false"
+       enabled="true"
        visible="true" />
     <sodipodi:guide
        position="0,2340.0001"
@@ -104,26 +104,26 @@
     <rect
        x="99.985708"
        y="1979.899"
-       width="881.44277"
-       height="360.10105"
+       width="960.00064"
+       height="325.95253"
        id="rect17" />
     <rect
        x="99.985708"
        y="954"
-       width="870.02857"
-       height="809.5777"
+       width="960.00064"
+       height="835.95308"
        id="rect12" />
     <rect
        x="99.985708"
        y="476"
-       width="880.02857"
-       height="472.2254"
+       width="959.68554"
+       height="431.28215"
        id="rect7" />
     <rect
        x="99.985709"
        y="99.985659"
-       width="880.17071"
-       height="381.13895"
+       width="960.33007"
+       height="640.19094"
        id="rect1" />
     <rect
        x="99.985708"
@@ -173,50 +173,50 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="display:inline;vector-effect:non-scaling-stroke;fill:#f3d3d3;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:#f3d3d3;fill-opacity:1;stroke:#000000;stroke-width:1.21075;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect42"
-       width="929.5918"
-       height="387.86691"
-       x="75.204071"
+       width="1020"
+       height="518.19092"
+       x="30"
        y="201.80904"
-       rx="75.590553"
-       ry="76.609619" />
+       rx="82.942177"
+       ry="102.35059" />
     <rect
-       style="vector-effect:non-scaling-stroke;fill:#f3d3d3;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       style="vector-effect:non-scaling-stroke;fill:#f3d3d3;fill-opacity:1;stroke:#000000;stroke-width:0.942441;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect24"
-       width="929.5918"
-       height="518.86176"
-       x="69.547218"
-       y="607.28632"
-       rx="75.590553"
-       ry="75.590553" />
+       width="1019.9999"
+       height="420.00003"
+       x="30.000046"
+       y="749.99994"
+       rx="82.942169"
+       ry="61.187847" />
     <rect
-       style="vector-effect:non-scaling-stroke;fill:#f3d3d3;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       style="vector-effect:non-scaling-stroke;fill:#f3d3d3;fill-opacity:1;stroke:#000000;stroke-width:0.986018;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect27"
-       width="929.5918"
-       height="846.45001"
-       x="69.547218"
-       y="1423.7169"
-       rx="79.847824"
-       ry="72.525284" />
+       width="1020"
+       height="750.00006"
+       x="30"
+       y="1560"
+       rx="87.613495"
+       ry="64.261276" />
     <rect
-       style="vector-effect:non-scaling-stroke;fill:#f3d3d3;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       style="vector-effect:non-scaling-stroke;fill:#f3d3d3;fill-opacity:1;stroke:#000000;stroke-width:1.15255;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect28"
-       width="929.5918"
-       height="272.58167"
-       x="69.547218"
-       y="1140.8442"
-       rx="79.847824"
-       ry="72.525284" />
+       width="1020"
+       height="329.99997"
+       x="30"
+       y="1200"
+       rx="87.613495"
+       ry="87.802452" />
     <text
        xml:space="preserve"
        id="text22"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"><tspan
          x="403.28711"
          y="61.023438"
-         id="tspan2"><tspan
+         id="tspan6"><tspan
            style="font-weight:bold"
-           id="tspan1">RAT OPS</tspan></tspan></text>
+           id="tspan5">RAT OPS</tspan></tspan></text>
     <g
        id="g42"
        style="display:none"
@@ -244,205 +244,208 @@
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-452.40509"
        y="0"
-       transform="translate(0,127.82338)"><tspan
+       transform="translate(-40.233865,148.81988)"><tspan
          x="99.986328"
          y="125.93942"
-         id="tspan4"><tspan
+         id="tspan8"><tspan
    style="font-weight:bold"
-   id="tspan3">Rally</tspan>
+   id="tspan7">Rally</tspan>
 </tspan><tspan
          x="99.986328"
          y="162.60605"
-         id="tspan6"><tspan
+         id="tspan10"><tspan
    style="font-weight:bold"
-   id="tspan5">Location</tspan>: Foreign spaces and districts without support or </tspan><tspan
+   id="tspan9">Special Activities:</tspan> Traffic, Smuggle, or Hide
+</tspan><tspan
          x="99.986328"
          y="199.27268"
-         id="tspan7">an emergency zone.
+         id="tspan13"><tspan
+   style="font-weight:bold"
+   id="tspan11">Location:</tspan> Foreign spaces and non-support districts.
 </tspan><tspan
          x="99.986328"
          y="235.9393"
-         id="tspan23"><tspan
+         id="tspan27"><tspan
    style="font-weight:bold"
-   id="tspan16">Procedure</tspan>: In each space place one cell, or <tspan
-   style="font-style:italic"
-   id="tspan17">if foreign </tspan></tspan><tspan
+   id="tspan22">Procedure:</tspan> In each selected space:
+</tspan><tspan
          x="99.986328"
          y="272.60593"
-         id="tspan42"><tspan
+         id="tspan35">* <tspan
    style="font-style:italic"
-   id="tspan27">space or</tspan> <tspan
-   style="font-style:italic"
-   id="tspan41">if the moss grower is in that space</tspan>, 2 cells. Then, </tspan><tspan
+   id="tspan30">If foreign spaces or moss grower,</tspan> may place two cells.
+</tspan><tspan
          x="99.986328"
          y="309.27255"
-         id="tspan44">may place arms caches in selected spaces, up to the arms </tspan><tspan
+         id="tspan37">* <tspan
+   style="font-style:italic"
+   id="tspan36">Otherwise,</tspan> may place one cell.
+</tspan><tspan
          x="99.986328"
          y="345.93918"
-         id="tspan55">cache value on the moss track.
+         id="tspan39">* <tspan
+   style="font-style:italic"
+   id="tspan38">Then, if foreign or oppose,</tspan> place an arms cache
 </tspan><tspan
          x="99.986328"
          y="382.60581"
-         id="tspan57"><tspan
-           style="font-style:italic"
-           id="tspan56">Note: Rally may pull Rat cells from anywhere on the map if </tspan></tspan><tspan
+         id="tspan41">* <tspan
+   style="font-style:italic"
+   id="tspan40">Otherwise,</tspan> replace a cell with an arms cache.
+</tspan><tspan
          x="99.986328"
          y="419.27243"
-         id="tspan88"><tspan
+         id="tspan42">May not place more arms caches than the moss track allows.
+</tspan><tspan
+         x="99.986328"
+         y="455.93906"
+         id="tspan44"><tspan
            style="font-style:italic"
-           id="tspan60">none are available.
-</tspan></tspan></text>
+           id="tspan43">Note: Rally may take Rat cells and arms caches from spaces </tspan></tspan><tspan
+         x="99.986328"
+         y="492.60568"
+         id="tspan46"><tspan
+           style="font-style:italic"
+           id="tspan45">without emergency zones if none are in available.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text7"
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-5.6568544,170.71782)"><tspan
+       transform="translate(-39.671223,292.71782)"><tspan
          x="99.986328"
          y="501.9531"
-         id="tspan90"><tspan
+         id="tspan48"><tspan
    style="font-weight:bold"
-   id="tspan89">Travel</tspan>
+   id="tspan47">Travel</tspan>
 </tspan><tspan
          x="99.986328"
          y="538.61972"
-         id="tspan92"><tspan
+         id="tspan50"><tspan
    style="font-weight:bold"
-   id="tspan91">Location</tspan>: Any origin spaces without emergency zones.
+   id="tspan49">Special Activities:</tspan> Any
 </tspan><tspan
          x="99.986328"
          y="575.28635"
-         id="tspan94"><tspan
+         id="tspan52"><tspan
    style="font-weight:bold"
-   id="tspan93">Procedure</tspan>: Move Rat cells to adjacent spaces. Rats may </tspan><tspan
+   id="tspan51">Location:</tspan> Any origin spaces without emergency zones.
+</tspan><tspan
          x="99.986328"
          y="611.95297"
-         id="tspan95">bring one gangster with them if the origin space was not at </tspan><tspan
+         id="tspan54"><tspan
+   style="font-weight:bold"
+   id="tspan53">Procedure:</tspan> Move Rat cells to adjacent spaces. Then:
+</tspan><tspan
          x="99.986328"
          y="648.6196"
-         id="tspan96">support. Then:
-</tspan><tspan
+         id="tspan55">* If destination is an emergency zone, strategic center, or LOC, </tspan><tspan
          x="99.986328"
          y="685.28623"
-         id="tspan97">* If destination is an emergency zone, strategic center, or </tspan><tspan
+         id="tspan56">and moving cells plus police and active politicians there exceed </tspan><tspan
          x="99.986328"
          y="721.95285"
-         id="tspan98">LOC, and moving cells plus police and active politicians </tspan><tspan
+         id="tspan57">3, flip moving cells to active.
+</tspan><tspan
          x="99.986328"
          y="758.61948"
-         id="tspan99">there exceed 3, flip moving cells to active.
-</tspan><tspan
+         id="tspan58">* Otherwise, if the destination is at oppose, may flip moving cells </tspan><tspan
          x="99.986328"
          y="795.2861"
-         id="tspan100">* Otherwise, if the destination is at oppose, may flip </tspan><tspan
+         id="tspan59">underground.
+</tspan><tspan
          x="99.986328"
          y="831.95273"
-         id="tspan106">moving cells underground.
-</tspan><tspan
-         x="99.986328"
-         y="868.61935"
-         id="tspan107">If the destination space has terror, roll for a shootout.
-</tspan><tspan
-         x="99.986328"
-         y="905.28598"
-         id="tspan109"><tspan
-   style="font-style:italic"
-   id="tspan108">Note: Movement may be chained.</tspan>
-</tspan></text>
+         id="tspan61"><tspan
+           style="font-style:italic"
+           id="tspan60">Note: Movement may be chained.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text12"
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect12);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-5.6568544,517.78886)"><tspan
+       transform="translate(-39.986327,640.04687)"><tspan
          x="99.986328"
          y="979.9531"
-         id="tspan111"><tspan
+         id="tspan63"><tspan
    style="font-weight:bold"
-   id="tspan110">Bombing</tspan>
+   id="tspan62">Bombing</tspan>
 </tspan><tspan
          x="99.986328"
          y="1016.6197"
-         id="tspan113"><tspan
+         id="tspan65"><tspan
    style="font-weight:bold"
-   id="tspan112">Location</tspan>: Any spaces with underground cells, adjacent or </tspan><tspan
+   id="tspan64">Special Activities:</tspan> Raid
+</tspan><tspan
          x="99.986328"
          y="1053.2863"
-         id="tspan114">with arms caches
-</tspan><tspan
+         id="tspan67"><tspan
+   style="font-weight:bold"
+   id="tspan66">Location:</tspan> Any spaces with underground cells, adjacent to or at </tspan><tspan
          x="99.986328"
          y="1089.953"
-         id="tspan116"><tspan
-   style="font-weight:bold"
-   id="tspan115">Procedure</tspan>: In each selected space, remove an arms </tspan><tspan
-         x="99.986328"
-         y="1126.6196"
-         id="tspan117">cache from the space or an adjacent space, activate an </tspan><tspan
-         x="99.986328"
-         y="1163.2862"
-         id="tspan118">underground cell, and roll a dice.
+         id="tspan68">arms caches.
 </tspan><tspan
          x="99.986328"
+         y="1126.6196"
+         id="tspan70"><tspan
+   style="font-weight:bold"
+   id="tspan69">Procedure:</tspan> In each selected space, remove an arms cache from </tspan><tspan
+         x="99.986328"
+         y="1163.2862"
+         id="tspan71">the space or an adjacent space, activate an underground cell, </tspan><tspan
+         x="99.986328"
          y="1199.9529"
-         id="tspan119">- Attack power is equal half dice roll, rounded up. (1-3). </tspan><tspan
+         id="tspan72">and roll for hits.
+</tspan><tspan
          x="99.986328"
          y="1236.6195"
-         id="tspan120">Add one for each arms cache used.  Each piece removed </tspan><tspan
+         id="tspan73">* First, must remove police cubes (to out of play).
+</tspan><tspan
          x="99.986328"
          y="1273.2861"
-         id="tspan121">costs one attack power.
+         id="tspan74">* Then, must remove militia cubes, if any.
 </tspan><tspan
          x="99.986328"
          y="1309.9527"
-         id="tspan122">* First, must remove police cubes (to out of play).
-</tspan><tspan
+         id="tspan75">* Then, once no police, may remove armored cars (max 1 per </tspan><tspan
          x="99.986328"
          y="1346.6194"
-         id="tspan123">* Then, once no police, may remove an armored car, </tspan><tspan
-         x="99.986328"
-         y="1383.286"
-         id="tspan124">reducing political will by 1, and then may place an arms </tspan><tspan
-         x="99.986328"
-         y="1419.9526"
-         id="tspan125">cache in a district adjacent to the removed car.
+         id="tspan76">bombing).
 </tspan><tspan
          x="99.986328"
+         y="1383.286"
+         id="tspan77">* Then, may remove politicians.
+</tspan><tspan
+         x="99.986328"
+         y="1419.9526"
+         id="tspan78">* If more than 2 hits remain, remove a civilian, or if none, a </tspan><tspan
+         x="99.986328"
          y="1456.6192"
-         id="tspan127">* Then, may remove politicians. (See <tspan
-   style="font-style:italic"
-   id="tspan126">Assassination</tspan>).
+         id="tspan79">gangster.
 </tspan><tspan
          x="99.986328"
          y="1493.2859"
-         id="tspan128">* If remaining power is 2 or greater, remove a civilian, or if </tspan><tspan
+         id="tspan81"><tspan
+   style="font-weight:bold"
+   id="tspan80">Then:</tspan>
+</tspan><tspan
          x="99.986328"
          y="1529.9525"
-         id="tspan129">none, a gangster. (Either to collateral)
+         id="tspan82">* If space is an LOC, place a sabotage if none.
 </tspan><tspan
          x="99.986328"
          y="1566.6191"
-         id="tspan130">Then:
+         id="tspan83">* Otherwise, place a terror if none.
 </tspan><tspan
          x="99.986328"
          y="1603.2857"
-         id="tspan132">* If LOC or strategic center, place a sabotage <tspan
-   style="font-style:italic"
-   id="tspan131">if none</tspan>.
-</tspan><tspan
+         id="tspan84">* If there are any surviving active politicians in the space, flip </tspan><tspan
          x="99.986328"
          y="1639.9524"
-         id="tspan134">* Otherwise, place a terror <tspan
-   style="font-style:italic"
-   id="tspan133">if none</tspan>.
-</tspan><tspan
-         x="99.986328"
-         y="1676.619"
-         id="tspan135">* If there are any surviving active politicians in the space, </tspan><tspan
-         x="99.986328"
-         y="1713.2856"
-         id="tspan136">flip them underground.
+         id="tspan85">them underground.
 </tspan></text>
     <text
        xml:space="preserve"
@@ -450,43 +453,52 @@
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect17);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-5.6568544,-805.39284)"><tspan
+       transform="translate(-39.986327,-745.85156)"><tspan
          x="99.986328"
          y="2005.8515"
-         id="tspan138"><tspan
+         id="tspan87"><tspan
    style="font-weight:bold"
-   id="tspan137">Sabotage</tspan>
+   id="tspan86">Sabotage</tspan>
 </tspan><tspan
          x="99.986328"
          y="2042.5182"
-         id="tspan140"><tspan
+         id="tspan89"><tspan
    style="font-weight:bold"
-   id="tspan139">Location</tspan>: Spaces with underground cells and no active </tspan><tspan
-         x="99.986328"
-         y="2079.1848"
-         id="tspan141">politicians.
+   id="tspan88">Special Activities:</tspan> Traffic or Raid
 </tspan><tspan
          x="99.986328"
-         y="2115.8515"
-         id="tspan143"><tspan
+         y="2079.1848"
+         id="tspan91"><tspan
    style="font-weight:bold"
-   id="tspan142">Procedure</tspan>: In each space reveal one underground cell, </tspan><tspan
+   id="tspan90">Location:</tspan> Any spaces with underground cells and no active </tspan><tspan
+         x="99.986328"
+         y="2115.8515"
+         id="tspan92">politicians
+</tspan><tspan
          x="99.986328"
          y="2152.518"
-         id="tspan145">and then place a sabotage <tspan
-   style="font-style:italic"
-   id="tspan144">if none</tspan>. If the space is a district, </tspan><tspan
+         id="tspan94"><tspan
+   style="font-weight:bold"
+   id="tspan93">Procedure:</tspan> In each space reveal one underground cell, and </tspan><tspan
          x="99.986328"
          y="2189.1845"
-         id="tspan146">shift it towards opposition.</tspan></text>
+         id="tspan95">then place a sabotage if none. If the space is a district, shift it </tspan><tspan
+         x="99.986328"
+         y="2225.851"
+         id="tspan96">towards opposition.
+</tspan><tspan
+         x="99.986328"
+         y="2262.5175"
+         id="tspan97">
+</tspan></text>
     <rect
-       style="display:inline;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.04749;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect13"
-       width="929.5918"
+       width="1019.9999"
        height="83.810959"
-       x="75.204071"
+       x="30"
        y="91.500374"
-       rx="75.590553"
+       rx="82.942169"
        ry="41.905479" />
     <text
        xml:space="preserve"
@@ -497,11 +509,11 @@
        transform="translate(0,17.514716)"><tspan
          x="99.986328"
          y="125.93942"
-         id="tspan149"><tspan
+         id="tspan100"><tspan
    style="font-weight:bold"
-   id="tspan147">Note:</tspan> <tspan
+   id="tspan98">Note:</tspan> R<tspan
    style="font-size:26.6667px"
-   id="tspan148">All rat ops are limited by the ops value of the moss track.</tspan></tspan></text>
+   id="tspan99">at ops are limited by the ops value of the moss track.</tspan></tspan></text>
     <rect
        style="vector-effect:non-scaling-stroke;fill:#aaeded;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect3"
