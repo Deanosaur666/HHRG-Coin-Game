@@ -126,7 +126,7 @@ Then:
 # Government Special Activities
 ---
 ## Supply
-**Accompanying Ops:** Mobilize, sweep or Assault
+**Accompanying Ops:** Any
 **Purpose:** Place armored cars to increase police supply.
 **Location:** Any un-sabotaged factory, or the out of play box.
 **Procedure:** Either:
@@ -134,7 +134,7 @@ Then:
 * B: Return 2 politicians from out of play to available.
 
 ## Campaign
-**Accompanying Ops:** Any
+**Accompanying Ops:** Sweep or assault.
 **Purpose:** Add civilian cubes or emergency zones and move rats.
 **Location:** Any district with an active politician
 **Procedure:** Flip an active politician in the district underground. Then, may either.
