@@ -42,18 +42,18 @@ Whenever an armored car moves, a single police cube on its origin space may move
 
 # Artillery Phase
 
-If the artillery strategic center is sabotaged, remove any artillery target markers on the map.
+If the artillery strategic center is sabotaged, put the artillery marker in out of play.
 If the artillery marker is in a space and on its red (active) side, the ray artillery fires.
-If the artillery target marker is in a space and on its blue (warning) side, flip it to the red (active) side.
+If the artillery target marker is in a space and on its orange (warning) side, flip it to the red (active) side.
 
 **Firing**
-The government player removes all pieces from the space (civilians and gangsters to government collateral), and set the space to neutral, then places sabotage and terror in that space.
+The government player removes all pieces from the space (civilians and militia to government collateral), and set the space to neutral, then places sabotage and terror in that space.
 If the target space is a foreign space, shift the moss down once and lose one political will.
 If the target space is at support, lose one political will.
+Place the artillery marker into out of play.
 
 # Drug Trade Phase
-If the moss grower is not on the map, set Rats profit marker to zero.
-Otherwise, increase the rats profit marker by the number of civilians and gangsters in the moss grower space.
+Increase the rats profit marker by the number of civilians and gangsters in the moss grower space.
 If the profit marker is equal or higher to the next target value on the moss track, increase the moss track by one (or lower political will by 1 if the track is already at maximum) and then subtract that value from profits.
 
 # Initiative track.

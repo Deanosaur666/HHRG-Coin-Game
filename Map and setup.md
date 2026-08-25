@@ -48,3 +48,5 @@ The moss grower space has two gangsters.
 All other districts will have one civilian.
 
 4 police will be in available, and 8 will be in out of play.
+
+2 politicians will be on the map, six will be available, two will be out of play.
