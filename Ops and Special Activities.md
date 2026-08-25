@@ -79,7 +79,7 @@ If any civilians were removed, add a terror to the space.
 ---
 
 ## Rally
-**Special Activities:** Traffic, Smuggle, or Hide
+**Special Activities:** Traffic, or Hide
 **Purpose:** Add Rat cells and arms caches to the map.
 **Location:** Foreign spaces and non-support districts.
 **Procedure:** In each selected space:
