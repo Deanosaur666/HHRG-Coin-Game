@@ -27,7 +27,7 @@ Each turn (except for a turn that automatically triggers propaganda), events are
 
 # Armored car movement
 
-After resolving an event, the government player may move an armored car (or more if a 2 or 3 are rolled) down an un-sabotaged LOC. If an armored car reaches a police station, it is removed to available, and the government moves 3 police from out of play to available.
+After resolving an event, the government player may move an armored car (or more if a 2 or 3 are rolled) down an un-sabotaged LOC. If an armored car reaches a police station, it is removed to available, and the government moves 2 police from out of play to available.
 
 Whenever an armored car moves, a single police cube on its origin space may move with it.
 
@@ -38,7 +38,7 @@ If the artillery marker is in a space and on its red (active) side, the ray arti
 If the artillery target marker is in a space and on its orange (warning) side, flip it to the red (active) side.
 
 **Firing**
-The government player removes all pieces from the space (civilians and militia to government collateral), and set the space to neutral, then places sabotage and terror in that space (if district).
+The government player removes all pieces from the space (civilians and gangsters to government collateral), and set the space to neutral, then places sabotage and terror in that space (if district).
 If the target space is a foreign space, shift the moss down once and lose 2 political will.
 If the target space was at support, lose one political will.
 Move the artillery marker into out of play.

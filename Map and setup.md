@@ -39,8 +39,11 @@ Then, the Rats player places one rat in every other space without a politician.
 
 ## Neutral cubes
 
-Place 2 gangsters in the district with the moss grower, and one civilian in every other district. Place one militia in each district with a politician.
-Place one gangster each in NC and CC.
+In NE and NW, place 2 civilians.
+In NC, place 3 civilians.
+In CC, place two civilians, and two gangsters.
+In CE and CW, place one civlian, and one gangster.
+In SW and SE, place 2 gangsters.
 
 ## Available and out of play
 

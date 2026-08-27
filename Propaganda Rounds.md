@@ -2,6 +2,8 @@
 
 Perform the "armored car movement" and "artillery" phases. Do not perform the drug trade phase.
 
+# Sabotage
+In each SC or LOC with more rats than police, place a sabotage.
 # Shootouts
 
 In every space with gangsters or terror, roll for a shootout ([[Shootouts]]).
@@ -21,7 +23,7 @@ Decrease political will by the economic value of each sabotaged strategic center
 
 # Politicians
 
-Gain one political will for each space at support with an active politician.
+Gain one political will for each active politician, and lose one political will for each politcian in out of play.
 
 # Last round game end
 
@@ -34,7 +36,10 @@ Rats in any remaining emergency zones are returned to available.
 
 # Propagandize
 
-In each space with an active politician, for each active politician, may replace one population cube with a civilian or a militia. Then, the space shifts one step towards support.
+Remove support from any spaces without active politicians.
+Remove opposition from any spaces without rat cells or the moss grower.
+
+In each space with active polticians and support, the government may place one civilian cube (up to the space maximum.
 
 In each space with at least one rat cell, and no police or politicians, shift one step towards resist.
 
@@ -42,19 +47,19 @@ In each space with at least one rat cell, and no police or politicians, shift on
 
 (Start with the NW district, and go left-to right top to bottom, in the case that population is not available.)
 
-In every district, repopulate if under 1 population, or under 2 population for central districts (NC and CC).  Add gangsters if there is a terror, or no civilians available. Otherwise, add civilians.
+In every district, repopulate if under the refill population.  Add gangsters if there is a terror, or no civilians available. Otherwise, add civilians, or gangsters if no civilians available.
 
 # Redeploy
 
-Police must move from oppose spaces to police stations.
-
-Politicians in oppose spaces are returned to available.
+Politicians and police in oppose spaces are returned to available.
 
 Rats must move from strategic centers and LOCs to districts without support, or foreign country spaces.
+
+Rats may move an arms caches to a district with opposition.
 
 # Reset
 
 Flip all guerrillas underground. Flip all politicians to active.
 Remove all sabotage, terror and emergency zones from the map.
-Return half (rounded down) of politicians from out of play to available.
+Return half (rounded up) of politicians from out of play to available.
 If the artillery marker is out of play, return it to available.

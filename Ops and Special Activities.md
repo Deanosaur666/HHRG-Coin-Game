@@ -6,9 +6,9 @@ There is no passing!!!
 
 # Collateral
 ---
-When the government removes civilian or militia (but not gang members) in ops, special activities, or the artillery firing phase, those pieces will be sent to the government collateral box.
+When the government removes civilian gangsters in ops, special activities, or the artillery firing phase, those pieces will be sent to the government collateral box.
 
-When the rats removes civilian or gang member (but not militia) in ops or special activities, those pieces will be sent to the rats collateral box.
+When the rats removes civilians or gang members in ops or special activities, those pieces will be sent to the rats collateral box.
 
 Pieces killed in shootouts are never sent to collateral.
 
@@ -47,9 +47,14 @@ When a politician is removed by a Rat attack, reduce political will by 2, an eme
 In each space, pick 1:
 * A: *If police station*, place up to 3 police if un-sabotaged, or 1 if sabotaged.
 * B:  *If LOCs with at least 2 police, or Strategic Centers with at least 3 police*, remove a sabotage
-* C: *If district with police*, place an active politician or move an active politician to the space. Then, for each politician in that space, may remove a terror or sabotage from the space, or, *if no terror or sabotage*, may shift the space towards support.
-* D: *If a district with underground politicians*, flip all underground politicians there to active.
+* C: *If District with Sabotage or Terror, and police,* place an emergency zone.
 
+# Pacify
+**Special Activities:** Supply, Transport, or artillery.
+**Purpose:** Place politicians.
+**Location:** 3 districts with police.
+In each space:
+Place an active politician or move an active politician to the space. Then, for each politician in that space, may remove a terror or sabotage from the space, or, *if no terror or sabotage*, may shift the space towards support. Then, flip all underground politicians there to active.
 ## Sweep
 **Special Activities:** Any
 **Purpose:** Move police and reveal Rat cells.
@@ -61,7 +66,7 @@ In each space, pick 1:
 
 Then, if destination space is a district with sabotage or terror, place an emergency zone.
 
-*Note: Movement is considered to be simultaneous.*
+*Note: Each police officer may only move once.*
 
 ## Assault
 **Special Activities:** Any
@@ -81,12 +86,10 @@ If any civilians were removed, add a terror to the space.
 ## Rally
 **Special Activities:** Traffic, or Hide
 **Purpose:** Add Rat cells and arms caches to the map.
-**Location:** Foreign spaces and non-support districts.
-**Procedure:** In each selected space:
-* *If foreign spaces or moss grower*, may place two cells.
-* *Otherwise*, may place one cell.
-* *Then, if foreign or oppose,* place an arms cache
-* *Otherwise*, replace a cell with an arms cache.
+**Location:** Foreign spaces and non-support districts, without emergency zones.
+**Procedure:** In each selected space, pick one:
+* A: *If foreign spaces or moss grower*, may place two *Otherwise*, may place one cell.cells, *otherwise*, may place one cell.
+* B: Place an arms cache.
 May not place more arms caches than the moss track allows.
 *Note: Rally may take Rat cells and arms caches from spaces without emergency zones if none are in available.*
 
@@ -109,9 +112,8 @@ May not place more arms caches than the moss track allows.
 **Special Activities:** Raid
 **Purpose:** Kill police, stop armored cars, and assassinate politicians.
 **Location:** Any spaces with underground cells, adjacent to or at arms caches. 
-**Procedure:**  In each selected space, remove an arms cache from the space or an adjacent space, activate an underground cell, and roll for hits.
-* First, must remove police cubes (to out of play).
-* Then, must remove militia cubes, if any.
+**Procedure:**  In each selected space, remove arms caches from the space or an adjacent space, activate an underground cell, and determine power by rolling one dice per arms cache removed.
+* First, must remove police cubes for 2 power each (to out of play).
 * Then, once no police, may remove armored cars (max 1 per bombing).
 * Then, may remove politicians. (See **Assassination**).
 * If more than 2 hits remain, remove a civilian, or if none, a gangster. (See **Collateral**).
@@ -128,10 +130,11 @@ Then:
 ## Supply
 **Accompanying Ops:** Any
 **Purpose:** Place armored cars to increase police supply.
-**Location:** Any un-sabotaged factory, or the out of play box.
+**Location:** Any un-sabotaged factories, or the out of play box.
 **Procedure:** Either:
-* A: Place an armored car at the selected factory. May also place one police from available there.
+* A: Place an armored car at each selected factory. May also place one police from available there.
 * B: Return 2 politicians from out of play to available.
+* C: Return the artillery marker to available.
 
 ## Campaign
 **Accompanying Ops:** Sweep or assault.
@@ -165,7 +168,7 @@ If the artillery marker is available, place an artillery target marker in the se
 **Purpose:** Place gangster or moss grower, move or place an arms cache, or move moss grower.
 **Location:** Moss track, or a district with an underground rat.
 **Procedure:**
-* *If the moss grower is on the map*, place a gangster in its space, and then may pick one:
+* *If the moss grower is on the map*, may pick one:
 	* A: Place an arms cache in a foreign space
 	* B: Move an arms cache from any space to an adjacent district
 	* C: Move the moss grower to an adjacent district
