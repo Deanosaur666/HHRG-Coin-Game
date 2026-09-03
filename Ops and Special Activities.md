@@ -46,12 +46,12 @@ When a politician is removed by a Rat attack, reduce political will by 2, an eme
 In each space, pick 1:
 * A: *If police station*, place up to 3 police if un-sabotaged, or 1 if sabotaged.
 * B:  *If LOCs with at least 2 police, or Strategic Centers with at least 3 police*, remove a sabotage
-* C: *If District with a passive emergency zone,* flip the emergency zone to active.
+* C: *If District with a passive emergency zone, and a police* flip the emergency zone to active.
 
 # Pacify
 **Purpose:** Place politicians.
 **Location:** Districts with police.
-In each space:
+**Procedure:** In each space:
 Place an active politician or move an active politician to the space. Then, for each politician in that space, may remove a terror or sabotage from the space, or, *if no terror or sabotage*, may shift the space towards support. Then, flip all underground politicians there to active.
 *Note: Each politician may only move once.*
 ## Sweep
@@ -166,7 +166,7 @@ If the artillery marker is available, place an artillery target marker in the se
 **Location:** Spaces adjacent to an arms cache, up to the special value on the moss track.
 **Procedure:** Pick either:
 * Move 1 or 2 cells from an adjacent space with an arms cache to the selected space, and then may perform a single sabotage in the destination space.
-* Move 1 or 2 cells from the selected space to an adjacent arms cache, and then flip them underground.Accompanying Ops:** Rally or Travel
+* Move 1 or 2 cells from the selected space to an adjacent arms cache, and then flip them underground.
 
 ## Hide
 **Purpose:** Hide rats

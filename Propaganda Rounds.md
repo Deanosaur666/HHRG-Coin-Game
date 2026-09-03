@@ -23,7 +23,7 @@ Decrease political will by the economic value of each sabotaged strategic center
 
 # Politicians
 
-Gain one political will for each active politician, and lose one political will for each politcian in out of play.
+Gain one political will for each active politician.
 
 # Emergency Zones
 Reduce political will by 1 for each **passive** emergency zone with rat pieces.

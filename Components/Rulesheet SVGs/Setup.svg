@@ -7,7 +7,7 @@
    viewBox="0 0 1080 2340.0001"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="Setup.svg"
    inkscape:export-filename="PNGs/Setup.png"
    inkscape:export-xdpi="96"
@@ -27,14 +27,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="606.69762"
-     inkscape:cy="1035.2043"
-     inkscape:window-width="1194"
-     inkscape:window-height="1032"
-     inkscape:window-x="726"
+     inkscape:zoom="0.5"
+     inkscape:cx="410"
+     inkscape:cy="766"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     inkscape:window-x="0"
      inkscape:window-y="20"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#b5b5b5ff"
      showguides="true">
@@ -251,21 +251,21 @@
        transform="translate(-12.658939,-1786.5732)"><tspan
          x="99.986328"
          y="1895.5429"
-         id="tspan11"><tspan
+         id="tspan8"><tspan
            style="font-weight:bold"
-           id="tspan10">Setup
+           id="tspan7">Setup
 </tspan></tspan><tspan
          x="99.986328"
          y="1932.2096"
-         id="tspan13"><tspan
+         id="tspan12"><tspan
            style="font-weight:bold"
-           id="tspan12">
+           id="tspan9">
 </tspan></tspan><tspan
          x="99.986328"
          y="1968.8762"
          id="tspan15">Politcal will starts at 14<tspan
    style="font-weight:bold"
-   id="tspan14">
+   id="tspan13">
 </tspan></tspan><tspan
          x="99.986328"
          y="2005.5428"
@@ -287,138 +287,145 @@
 </tspan></tspan><tspan
          x="99.986328"
          y="2115.5425"
-         id="tspan22">Place police in strategic centers, 2 in each station, 1 in each </tspan><tspan
+         id="tspan22">Place 2 police in each police station.
+</tspan><tspan
          x="99.986328"
          y="2152.209"
-         id="tspan23">factory.
+         id="tspan23">
 </tspan><tspan
          x="99.986328"
          y="2188.8755"
-         id="tspan24">(8 total police out.)
-</tspan><tspan
+         id="tspan24">The U Party player chooses two non-southern districts. Place </tspan><tspan
          x="99.986328"
          y="2225.542"
-         id="tspan25">
+         id="tspan25">an active politician, police, and support.
 </tspan><tspan
          x="99.986328"
          y="2262.2085"
-         id="tspan26">The U Party player chooses two non-southern districts. Place </tspan><tspan
-         x="99.986328"
-         y="2298.875"
-         id="tspan28">an active politician, police, and support.<tspan
+         id="tspan28">(6 total police out.)<tspan
    style="font-weight:bold"
-   id="tspan27">
+   id="tspan26">
 </tspan></tspan><tspan
          x="99.986328"
-         y="2335.5415"
+         y="2298.875"
          id="tspan30"><tspan
            style="font-weight:bold"
            id="tspan29">
 </tspan></tspan><tspan
          x="99.986328"
-         y="2372.208"
+         y="2335.5415"
          id="tspan32"><tspan
            style="font-weight:bold"
            id="tspan31">Rats
 </tspan></tspan><tspan
          x="99.986328"
-         y="2408.8745"
+         y="2372.208"
          id="tspan34"><tspan
            style="font-weight:bold"
            id="tspan33">
 </tspan></tspan><tspan
          x="99.986328"
-         y="2445.541"
+         y="2408.8745"
          id="tspan35">The Rats player places two rats in each foreign space, and </tspan><tspan
          x="99.986328"
-         y="2482.2075"
+         y="2445.541"
          id="tspan36">an arms cache in one of them. Then, they choose one </tspan><tspan
          x="99.986328"
-         y="2518.874"
+         y="2482.2075"
          id="tspan37">southern space and place the moss grower, 2 rats, and </tspan><tspan
          x="99.986328"
-         y="2555.5405"
+         y="2518.874"
          id="tspan38">opposition in them.
 </tspan><tspan
          x="99.986328"
-         y="2592.207"
+         y="2555.5405"
          id="tspan39">
 </tspan><tspan
          x="99.986328"
-         y="2628.8735"
+         y="2592.207"
          id="tspan40">Then, the Rats player places one rat in every other space </tspan><tspan
          x="99.986328"
-         y="2665.54"
-         id="tspan42">without a politician.<tspan
+         y="2628.8735"
+         id="tspan43">without a politician.<tspan
    style="font-weight:bold"
-   id="tspan41">
+   id="tspan42">
+</tspan></tspan><tspan
+         x="99.986328"
+         y="2665.54"
+         id="tspan45"><tspan
+           style="font-weight:bold"
+           id="tspan44">
 </tspan></tspan><tspan
          x="99.986328"
          y="2702.2065"
-         id="tspan44"><tspan
+         id="tspan47"><tspan
            style="font-weight:bold"
-           id="tspan43">
+           id="tspan46">Neutral cubes
 </tspan></tspan><tspan
          x="99.986328"
          y="2738.873"
-         id="tspan46"><tspan
-           style="font-weight:bold"
-           id="tspan45">Neutral cubes
-</tspan></tspan><tspan
-         x="99.986328"
-         y="2775.5395"
-         id="tspan48"><tspan
-           style="font-weight:bold"
-           id="tspan47">
-</tspan></tspan><tspan
-         x="99.986328"
-         y="2812.206"
-         id="tspan49">Place 2 gangsters in the district with the moss grower, and </tspan><tspan
-         x="99.986328"
-         y="2848.8725"
-         id="tspan50">one civilian in every other district. Place one militia in each </tspan><tspan
-         x="99.986328"
-         y="2885.539"
-         id="tspan51">district with a politician.
+         id="tspan49"><tspan
+   style="font-style:italic"
+   id="tspan48">Salem, Radio Ridge East</tspan>: 2 Civilians
 </tspan><tspan
          x="99.986328"
-         y="2922.2055"
-         id="tspan53">Place one gangster each in NC and CC.<tspan
+         y="2775.5395"
+         id="tspan51"><tspan
+   style="font-style:italic"
+   id="tspan50">Radio Ridge West</tspan>: 3 civilians
+</tspan><tspan
+         x="99.986328"
+         y="2812.206"
+         id="tspan53"><tspan
+   style="font-style:italic"
+   id="tspan52">Alkali, Quartz Coast: </tspan>1 civilian, 1 gangster
+</tspan><tspan
+         x="99.986328"
+         y="2848.8725"
+         id="tspan55"><tspan
+   style="font-style:italic"
+   id="tspan54">Gold Basin:</tspan> 2 civilians, 1 gangster
+</tspan><tspan
+         x="99.986328"
+         y="2885.539"
+         id="tspan58"><tspan
+   style="font-style:italic"
+   id="tspan56">Fort David, Logan</tspan>: 2 gangsters.<tspan
    style="font-weight:bold"
-   id="tspan52">
+   id="tspan57">
+</tspan></tspan><tspan
+         x="99.986328"
+         y="2922.2055"
+         id="tspan60"><tspan
+           style="font-weight:bold"
+           id="tspan59">
 </tspan></tspan><tspan
          x="99.986328"
          y="2958.872"
-         id="tspan55"><tspan
+         id="tspan62"><tspan
            style="font-weight:bold"
-           id="tspan54">
+           id="tspan61">Available and out of play
 </tspan></tspan><tspan
          x="99.986328"
          y="2995.5385"
-         id="tspan57"><tspan
+         id="tspan78"><tspan
            style="font-weight:bold"
-           id="tspan56">Available and out of play
+           id="tspan63">
 </tspan></tspan><tspan
          x="99.986328"
          y="3032.205"
-         id="tspan59"><tspan
-           style="font-weight:bold"
-           id="tspan58">
-</tspan></tspan><tspan
+         id="tspan79">4 police will be in available, and 8 will be in out of play.
+</tspan><tspan
          x="99.986328"
          y="3068.8716"
-         id="tspan60">4 police will be in available, and 8 will be in out of play.
+         id="tspan80">
 </tspan><tspan
          x="99.986328"
          y="3105.5381"
-         id="tspan61">
-</tspan><tspan
+         id="tspan81">2 politicians will be on the map, 4 will be available, 4 will be </tspan><tspan
          x="99.986328"
          y="3142.2046"
-         id="tspan62">2 politicians will be on the map, 4 will be available, 2 will be </tspan><tspan
-         x="99.986328"
-         y="3178.8711"
-         id="tspan63">out of play.</tspan></text>
+         id="tspan82">out of play. (10 total)</tspan></text>
     <rect
        style="vector-effect:non-scaling-stroke;fill:#cccccc;stroke:#000000;stroke-width:1.12994;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect11"
@@ -437,52 +444,52 @@
        transform="translate(0.2576714,-81.972064)"><tspan
          x="99.986328"
          y="1895.5429"
-         id="tspan65"><tspan
+         id="tspan84"><tspan
    style="font-weight:bold"
-   id="tspan64">Shootouts</tspan>
+   id="tspan83">Shootouts</tspan>
 </tspan><tspan
          x="99.986328"
          y="1932.2096"
-         id="tspan66">Shootout &quot;power&quot; is gangsters + terror markers.
+         id="tspan85">Shootout &quot;power&quot; is gangsters + terror markers.
 </tspan><tspan
          x="99.986328"
          y="1968.8762"
-         id="tspan68"><tspan
+         id="tspan87"><tspan
    style="font-style:italic"
-   id="tspan67">(&quot;Shootout checks&quot; require rolling eqal or under power.)</tspan>
+   id="tspan86">(&quot;Shootout checks&quot; require rolling eqal or under power.)</tspan>
 </tspan><tspan
          x="99.986328"
          y="2005.5428"
-         id="tspan69">Remove pieces equal to power, until only 1 remains, in </tspan><tspan
+         id="tspan88">Remove pieces equal to power, until only 1 remains, in </tspan><tspan
          x="99.986328"
          y="2042.2094"
-         id="tspan70">alternating order:
+         id="tspan89">alternating order:
 </tspan><tspan
          x="99.986328"
          y="2078.8759"
-         id="tspan71">- Neutral cube (first civilians, then gangsters, then militia)
+         id="tspan90">- Neutral cube (first civilians, then gangsters, then militia)
 </tspan><tspan
          x="99.986328"
          y="2115.5425"
-         id="tspan72">- Active rat (or reveal underground rat if none active)
+         id="tspan91">- Active rat (or reveal underground rat if none active)
 </tspan><tspan
          x="99.986328"
          y="2152.209"
-         id="tspan73">
+         id="tspan92">
 </tspan><tspan
          x="99.986328"
          y="2188.8755"
-         id="tspan74">The last neutral cube in a space will never be removed by a </tspan><tspan
+         id="tspan93">The last neutral cube in a space will never be removed by a </tspan><tspan
          x="99.986328"
          y="2225.542"
-         id="tspan75">shootout.
+         id="tspan94">shootout.
 </tspan><tspan
          x="99.986328"
          y="2262.2085"
-         id="tspan76">
+         id="tspan95">
 </tspan><tspan
          x="99.986328"
          y="2298.875"
-         id="tspan77">Any active politicians in the space are flipped underground.</tspan></text>
+         id="tspan96">Any active politicians in the space are flipped underground.</tspan></text>
   </g>
 </svg>

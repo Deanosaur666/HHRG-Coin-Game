@@ -26,10 +26,11 @@ Political will starts at 14/20. The rats win if political will is under 10 at th
 
 ## U Party
 
-Place police in strategic centers, 2 in each station, 1 in each factory.
-(8 total police out.)
+Place police in strategic centers, 3 in each station
 
 The U Party player chooses two non-southern districts. Place an active politician, police, and support.
+
+(8 total police out.)
 
 ## Rats
 
@@ -39,11 +40,12 @@ Then, the Rats player places one rat in every other space without a politician.
 
 ## Neutral cubes
 
-In NE and NW, place 2 civilians.
-In NC, place 3 civilians.
-In CC, place two civilians, and two gangsters.
-In CE and CW, place one civlian, and one gangster.
-In SW and SE, place 2 gangsters.
+Salem, Radio Ridge East: 2 Civilians
+Radio Ridge West: 3 civilians
+Alkali, Quartz Coast: 1 civilian, 1 gangster
+Gold Basin: 2 civilians, 1 gangster
+Fort David, Logan: 2 gangsters.
+
 
 ## Available and out of play
 

@@ -7,7 +7,7 @@
    viewBox="0 0 1080 2340.0001"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="Rats Specials.svg"
    inkscape:export-filename="PNGs/Rats Special.png"
    inkscape:export-xdpi="96"
@@ -27,17 +27,17 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.25"
-     inkscape:cx="1204"
-     inkscape:cy="1596"
-     inkscape:window-width="1019"
-     inkscape:window-height="1032"
-     inkscape:window-x="901"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="65.053824"
+     inkscape:cy="2341.9377"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     inkscape:window-x="0"
      inkscape:window-y="20"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#b5b5b5ff"
-     showguides="true">
+     showguides="false">
     <inkscape:grid
        id="grid11"
        units="mm"
@@ -95,6 +95,12 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <rect
+       x="120"
+       y="2159.9999"
+       width="660"
+       height="119.99999"
+       id="rect1" />
     <rect
        x="99.985708"
        y="872"
@@ -221,6 +227,18 @@
        width="880.02857"
        height="353.01219"
        id="rect31" />
+    <rect
+       x="101.01646"
+       y="136.06299"
+       width="959.99919"
+       height="1195.9526"
+       id="rect11" />
+    <rect
+       x="99.985708"
+       y="1706"
+       width="880.02855"
+       height="366"
+       id="rect4" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -230,7 +248,7 @@
        style="vector-effect:non-scaling-stroke;fill:#f8dfde;fill-opacity:1;stroke:#000000;stroke-width:1.33087;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect20"
        width="1020"
-       height="629.99994"
+       height="360"
        x="30"
        y="90"
        rx="59.999977"
@@ -239,9 +257,9 @@
        style="display:inline;vector-effect:non-scaling-stroke;fill:#f8dfde;fill-opacity:1;stroke:#000000;stroke-width:1.11246;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect21"
        width="1020.0001"
-       height="479.99997"
+       height="426.10117"
        x="30"
-       y="750"
+       y="743.8988"
        rx="60.000099"
        ry="59.999981" />
     <rect
@@ -262,31 +280,31 @@
        transform="translate(20.013674,398.04686)"><tspan
          x="99.986328"
          y="1731.9531"
-         id="tspan2"><tspan
+         id="tspan7"><tspan
    style="font-weight:bold"
-   id="tspan1">Assassination</tspan>
+   id="tspan2">Assassination</tspan>
 </tspan><tspan
          x="99.986328"
          y="1768.6197"
-         id="tspan3">When a politician is removed by a Rat attack, decrease </tspan><tspan
+         id="tspan8">When a politician is removed by a Rat attack, reduce </tspan><tspan
          x="99.986328"
          y="1805.2863"
-         id="tspan4">political will by 2 and an emergency zone is placed in the </tspan><tspan
+         id="tspan9">political will by 2, an emergency zone is placed in the </tspan><tspan
          x="99.986328"
          y="1841.953"
-         id="tspan24">space (remaining politicians are flipped underground). Set </tspan><tspan
+         id="tspan10">space (if none available, government chooses which space </tspan><tspan
          x="99.986328"
          y="1878.6196"
-         id="tspan27">the space to neutral. Politicians are removed to out of play.</tspan></text>
+         id="tspan11">to pull from). Politicians are removed to out of play.</tspan></text>
     <text
        xml:space="preserve"
        id="text22"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"><tspan
          x="173.27148"
          y="61.023438"
-         id="tspan29"><tspan
+         id="tspan13"><tspan
            style="font-weight:bold"
-           id="tspan28">RATS SPECIAL ACTIVITIES</tspan></tspan></text>
+           id="tspan12">RATS SPECIAL ACTIVITIES</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text23"
@@ -296,77 +314,41 @@
        transform="translate(-40.872395,-7.4714437)"><tspan
          x="101.01562"
          y="162.0156"
-         id="tspan31"><tspan
+         id="tspan15"><tspan
    style="font-weight:bold"
-   id="tspan30">Traffic</tspan>
+   id="tspan14">Traffic</tspan>
 </tspan><tspan
          x="101.01562"
          y="198.68222"
-         id="tspan33"><tspan
+         id="tspan17"><tspan
    style="font-weight:bold"
-   id="tspan32">Accompanying Ops:</tspan> Rally, Travel, or Sabotage
+   id="tspan16">Purpose:</tspan> Place moss grower or move moss grower.
 </tspan><tspan
          x="101.01562"
          y="235.34885"
-         id="tspan35"><tspan
+         id="tspan63"><tspan
    style="font-weight:bold"
-   id="tspan34">Purpose:</tspan> Place gangster or moss grower, move or place an </tspan><tspan
+   id="tspan62">Location:</tspan> A district with an underground rat.
+</tspan><tspan
          x="101.01562"
          y="272.01547"
-         id="tspan36">arms cache, or move moss grower.
-</tspan><tspan
+         id="tspan65"><tspan
+           style="font-weight:bold"
+           id="tspan64">Procedure:
+</tspan></tspan><tspan
          x="101.01562"
          y="308.6821"
-         id="tspan38"><tspan
-   style="font-weight:bold"
-   id="tspan37">Location:</tspan> Moss track, or a district with an underground rat.
-</tspan><tspan
+         id="tspan66">If the moss grower is on the map, move the moss grower to an </tspan><tspan
          x="101.01562"
          y="345.34873"
-         id="tspan40"><tspan
-   style="font-weight:bold"
-   id="tspan39">Procedure:</tspan>
+         id="tspan67">adjacent district.
 </tspan><tspan
          x="101.01562"
          y="382.01535"
-         id="tspan42">* <tspan
-   style="font-style:italic"
-   id="tspan41">If the moss grower is on the map, </tspan>place a gangster in its space, </tspan><tspan
+         id="tspan68">Otherwise, place the moss grower in a district with an </tspan><tspan
          x="101.01562"
          y="418.68198"
-         id="tspan43">and then may pick one:
-</tspan><tspan
-         x="101.01562"
-         y="455.3486"
-         id="tspan45">    <tspan
-   style="font-weight:bold"
-   id="tspan44">A:</tspan> Place an arms cache in a foreign space
-</tspan><tspan
-         x="101.01562"
-         y="492.01523"
-         id="tspan47">    <tspan
-   style="font-weight:bold"
-   id="tspan46">B:</tspan> Move an arms cache from any space to an adjacent district
-</tspan><tspan
-         x="101.01562"
-         y="528.68185"
-         id="tspan49">    <tspan
-   style="font-weight:bold"
-   id="tspan48">C:</tspan> Move the moss grower to an adjacent district
-</tspan><tspan
-         x="101.01562"
-         y="565.34848"
-         id="tspan51">* <tspan
-   style="font-style:italic"
-   id="tspan50">Otherwise,</tspan> place the moss grower in a district with an </tspan><tspan
-         x="101.01562"
-         y="602.01511"
-         id="tspan53">underground rat and <tspan
-   style="font-style:italic"
-   id="tspan52">no support,</tspan> and may move an arms cache </tspan><tspan
-         x="101.01562"
-         y="638.68173"
-         id="tspan54">from any space to an adjacent district.</tspan></text>
+         id="tspan69">underground rat and no support.</tspan></text>
     <g
        id="g42"
        style="display:none"
@@ -395,63 +377,57 @@
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-39.986327,304.04689)"><tspan
+       transform="translate(-39.986327,297.94569)"><tspan
          x="99.986328"
          y="505.9531"
-         id="tspan56"><tspan
+         id="tspan71"><tspan
    style="font-weight:bold"
-   id="tspan55">Raid</tspan>
+   id="tspan70">Raid</tspan>
 </tspan><tspan
          x="99.986328"
          y="542.61972"
-         id="tspan58"><tspan
+         id="tspan73"><tspan
    style="font-weight:bold"
-   id="tspan57">Accompanying Ops:</tspan> Travel, Sabotage, or Bombing
+   id="tspan72">Purpose:</tspan> Move cells and flip them underground.
 </tspan><tspan
          x="99.986328"
          y="579.28635"
-         id="tspan60"><tspan
+         id="tspan75"><tspan
    style="font-weight:bold"
-   id="tspan59">Purpose:</tspan> Move cells and flip them underground.
-</tspan><tspan
+   id="tspan74">Location:</tspan> Spaces adjacent to an arms cache, up to the special </tspan><tspan
          x="99.986328"
          y="615.95297"
-         id="tspan62"><tspan
-   style="font-weight:bold"
-   id="tspan61">Location:</tspan> Spaces adjacent to an arms cache, up to the arms </tspan><tspan
+         id="tspan76">value on the moss track.
+</tspan><tspan
          x="99.986328"
          y="652.6196"
-         id="tspan63">cache value on the moss track.
+         id="tspan78"><tspan
+   style="font-weight:bold"
+   id="tspan77">Procedure:</tspan> Pick either:
 </tspan><tspan
          x="99.986328"
          y="689.28623"
-         id="tspan65"><tspan
-   style="font-weight:bold"
-   id="tspan64">Procedure:</tspan> Pick either:
-</tspan><tspan
+         id="tspan79">* Move 1 or 2 cells from an adjacent space with an arms cache </tspan><tspan
          x="99.986328"
          y="725.95285"
-         id="tspan66">* Move 1 or 2 cells from an adjacent space with an arms cache </tspan><tspan
+         id="tspan80">to the selected space, and then may perform a single sabotage </tspan><tspan
          x="99.986328"
          y="762.61948"
-         id="tspan67">to the selected space, and then may perform a single sabotage </tspan><tspan
-         x="99.986328"
-         y="799.2861"
-         id="tspan68">in the destination space.
+         id="tspan81">in the destination space.
 </tspan><tspan
          x="99.986328"
-         y="835.95273"
-         id="tspan69">* Move 1 or 2 cells from the selected space to an adjacent arms </tspan><tspan
+         y="799.2861"
+         id="tspan82">* Move 1 or 2 cells from the selected space to an adjacent arms </tspan><tspan
          x="99.986328"
-         y="872.61935"
-         id="tspan70">cache, and then flip them underground.</tspan></text>
+         y="835.95273"
+         id="tspan83">cache, and then flip them underground.</tspan></text>
     <rect
        style="display:inline;vector-effect:non-scaling-stroke;fill:#f8dfde;fill-opacity:1;stroke:#000000;stroke-width:1.17406;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect9"
        width="1020"
        height="269.99991"
        x="30"
-       y="1260"
+       y="1199.2913"
        rx="59.999977"
        ry="59.999973" />
     <text
@@ -460,38 +436,104 @@
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-29.999957,809.51485)"><tspan
+       transform="translate(-29.999957,748.80606)"><tspan
          x="99.986328"
          y="505.9531"
-         id="tspan72"><tspan
+         id="tspan85"><tspan
    style="font-weight:bold"
-   id="tspan71">Hide</tspan>
+   id="tspan84">Hide</tspan>
 </tspan><tspan
          x="99.986328"
          y="542.61972"
-         id="tspan74"><tspan
+         id="tspan87"><tspan
    style="font-weight:bold"
-   id="tspan73">Accompanying Ops:</tspan> Rally or Travel
+   id="tspan86">Purpose:</tspan> Hide rats
 </tspan><tspan
          x="99.986328"
          y="579.28635"
-         id="tspan76"><tspan
+         id="tspan89"><tspan
    style="font-weight:bold"
-   id="tspan75">Purpose:</tspan> Hide rats
-</tspan><tspan
+   id="tspan88">Location:</tspan> Any districts without emergency zones, up to </tspan><tspan
          x="99.986328"
          y="615.95297"
-         id="tspan78"><tspan
-   style="font-weight:bold"
-   id="tspan77">Location:</tspan> Any districts without emergency zones, up to </tspan><tspan
-         x="99.986328"
-         y="652.6196"
-         id="tspan79">the arms cache value on the moss track.
+         id="tspan90">the special value on the moss track.
 </tspan><tspan
          x="99.986328"
-         y="689.28623"
-         id="tspan81"><tspan
+         y="652.6196"
+         id="tspan92"><tspan
    style="font-weight:bold"
-   id="tspan80">Procedure:</tspan> In each space, flip one active rat underground.</tspan></text>
+   id="tspan91">Procedure:</tspan> In each space, flip one active rat underground.</tspan></text>
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#f8dfde;fill-opacity:1;stroke:#000000;stroke-width:1.33087;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       id="rect6"
+       width="1020"
+       height="244.54414"
+       x="30"
+       y="475.45584"
+       rx="59.999977"
+       ry="50.819847" />
+    <text
+       xml:space="preserve"
+       id="text11"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       x="-290.68002"
+       y="0"
+       transform="translate(-40.872395,377.98439)"><tspan
+         x="101.01562"
+         y="162.0156"
+         id="tspan94"><tspan
+   style="font-weight:bold"
+   id="tspan93">Arm</tspan>
+</tspan><tspan
+         x="101.01562"
+         y="198.68222"
+         id="tspan96"><tspan
+   style="font-weight:bold"
+   id="tspan95">Purpose</tspan>: Place arms caches
+</tspan><tspan
+         x="101.01562"
+         y="235.34885"
+         id="tspan98"><tspan
+   style="font-weight:bold"
+   id="tspan97">Location</tspan>: Districts or foreign spaces up to the special value on </tspan><tspan
+         x="101.01562"
+         y="272.01547"
+         id="tspan99">the moss track
+</tspan><tspan
+         x="101.01562"
+         y="308.6821"
+         id="tspan101"><tspan
+   style="font-weight:bold"
+   id="tspan100">Procedure</tspan>: Place an arms cache in each selected space.
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:26.6667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline" />
+    <rect
+       style="display:inline;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.04749;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       id="rect2"
+       width="1020"
+       height="127.71346"
+       x="30"
+       y="1912.2865"
+       rx="87.613495"
+       ry="63.856731" />
+    <text
+       xml:space="preserve"
+       id="text4"
+       style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       x="-440.01428"
+       y="0"
+       transform="translate(20.013674,240.33328)"><tspan
+         x="99.986328"
+         y="1731.9531"
+         id="tspan103"><tspan
+   style="font-weight:bold"
+   id="tspan102">Econ</tspan>
+</tspan><tspan
+         x="99.986328"
+         y="1768.6197"
+         id="tspan104">Perform the traffic special activity, or arm in one space.</tspan></text>
   </g>
 </svg>

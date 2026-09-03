@@ -7,7 +7,7 @@
    viewBox="0 0 1080 2340.0001"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="Gov Ops.svg"
    inkscape:export-filename="PNGs/Gov Ops.png"
    inkscape:export-xdpi="96"
@@ -28,13 +28,13 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.35355339"
-     inkscape:cx="834.386"
-     inkscape:cy="1066.317"
-     inkscape:window-width="1019"
-     inkscape:window-height="1032"
-     inkscape:window-x="901"
+     inkscape:cx="1066.317"
+     inkscape:cy="1142.6846"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     inkscape:window-x="0"
      inkscape:window-y="20"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#b5b5b5ff">
     <inkscape:grid
@@ -148,6 +148,12 @@
        width="972.02857"
        height="689.67043"
        id="rect24" />
+    <rect
+       x="101.01646"
+       y="136.06299"
+       width="909.20968"
+       height="716.93157"
+       id="rect16" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -157,7 +163,7 @@
        style="vector-effect:non-scaling-stroke;fill:#d3f3f3;fill-opacity:1;stroke:#000000;stroke-width:1.08774;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect42"
        width="997.47412"
-       height="682.54102"
+       height="428.50946"
        x="41.262951"
        y="78.28717"
        rx="85.678612"
@@ -165,19 +171,19 @@
     <rect
        style="vector-effect:non-scaling-stroke;fill:#d3f3f3;fill-opacity:1;stroke:#000000;stroke-width:0.999995;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect43"
-       width="997.47412"
-       height="527.50751"
+       width="997.47418"
+       height="504.82129"
        x="48.084061"
-       y="808.24628"
+       y="531.68781"
        rx="81.110466"
        ry="75.590553" />
     <rect
        style="vector-effect:non-scaling-stroke;fill:#d3f3f3;fill-opacity:1;stroke:#000000;stroke-width:1.02989;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect44"
        width="997.47412"
-       height="571.20294"
+       height="479.20288"
        x="41.262951"
-       y="1376.0203"
+       y="1066.5092"
        rx="81.110466"
        ry="80.177345" />
     <text
@@ -186,9 +192,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"><tspan
          x="265.12305"
          y="61.023438"
-         id="tspan29"><tspan
+         id="tspan3"><tspan
            style="font-weight:bold"
-           id="tspan28">GOVERNMENT OPS</tspan></tspan></text>
+           id="tspan1">GOVERNMENT OPS</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text23"
@@ -198,94 +204,60 @@
        transform="translate(-20.485282,-27.698486)"><tspan
          x="101.01562"
          y="162.0156"
-         id="tspan31"><tspan
+         id="tspan7"><tspan
    style="font-weight:bold"
-   id="tspan30">Mobilize</tspan>
+   id="tspan6">Mobilize</tspan>
 </tspan><tspan
          x="101.01562"
          y="198.68222"
-         id="tspan33"><tspan
+         id="tspan11"><tspan
    style="font-weight:bold"
-   id="tspan32">Special Activities:</tspan> Supply, Transport, or artillery.
+   id="tspan10">Location: </tspan>Districts, LOCs, or Strategic centers.
 </tspan><tspan
          x="101.01562"
          y="235.34885"
-         id="tspan35"><tspan
+         id="tspan13"><tspan
    style="font-weight:bold"
-   id="tspan34">Purpose:</tspan> Place police.
+   id="tspan12">Procedure:</tspan>
 </tspan><tspan
          x="101.01562"
          y="272.01547"
-         id="tspan37"><tspan
-   style="font-weight:bold"
-   id="tspan36">Location:</tspan> 3 spaces, either districts, LOCs, or Strategic </tspan><tspan
-         x="101.01562"
-         y="308.6821"
-         id="tspan38">centers.
+         id="tspan14">In each space, pick 1:
 </tspan><tspan
          x="101.01562"
-         y="345.34873"
-         id="tspan40"><tspan
+         y="308.6821"
+         id="tspan21"><tspan
    style="font-weight:bold"
-   id="tspan39">Procedure:</tspan>
+   id="tspan15">A</tspan>: <tspan
+   style="font-style:italic"
+   id="tspan20">If police station</tspan>, place up to 3 police if un-sabotaged, or 1 </tspan><tspan
+         x="101.01562"
+         y="345.34873"
+         id="tspan22">if sabotaged.
 </tspan><tspan
          x="101.01562"
          y="382.01535"
-         id="tspan41">In each space, pick 1:
-</tspan><tspan
+         id="tspan25"><tspan
+   style="font-weight:bold"
+   id="tspan23">B</tspan>: <tspan
+   style="font-style:italic"
+   id="tspan24">If LOCs with at least 2 police, or Strategic Centers with at </tspan></tspan><tspan
          x="101.01562"
          y="418.68198"
-         id="tspan44"><tspan
-   style="font-weight:bold"
-   id="tspan42">A</tspan>: <tspan
+         id="tspan27"><tspan
    style="font-style:italic"
-   id="tspan43">If police station</tspan>, place up to 3 police if un-sabotaged, or 1 </tspan><tspan
+   id="tspan26">least 3 police</tspan>, remove a sabotage
+</tspan><tspan
          x="101.01562"
          y="455.3486"
-         id="tspan45">if sabotaged.
-</tspan><tspan
+         id="tspan32"><tspan
+   style="font-weight:bold"
+   id="tspan28">C</tspan>: <tspan
+   style="font-style:italic"
+   id="tspan29">If District with a passive emergency zone and a police,</tspan> flip </tspan><tspan
          x="101.01562"
          y="492.01523"
-         id="tspan48"><tspan
-   style="font-weight:bold"
-   id="tspan46">B</tspan>:  <tspan
-   style="font-style:italic"
-   id="tspan47">If LOCs with at least 2 police, or Strategic Centers with at </tspan></tspan><tspan
-         x="101.01562"
-         y="528.68185"
-         id="tspan50"><tspan
-   style="font-style:italic"
-   id="tspan49">least 3 police</tspan>, remove a sabotage
-</tspan><tspan
-         x="101.01562"
-         y="565.34848"
-         id="tspan53"><tspan
-   style="font-weight:bold"
-   id="tspan51">C</tspan>: <tspan
-   style="font-style:italic"
-   id="tspan52">If district with police</tspan>, place an active politician or move an </tspan><tspan
-         x="101.01562"
-         y="602.01511"
-         id="tspan54">active politician to the space. Then, for each politician in that </tspan><tspan
-         x="101.01562"
-         y="638.68173"
-         id="tspan55">space, may remove a terror or sabotage from the space, or, </tspan><tspan
-         x="101.01562"
-         y="675.34836"
-         id="tspan57"><tspan
-   style="font-style:italic"
-   id="tspan56">if no terror or sabotage</tspan>, may shift the space towards support.
-</tspan><tspan
-         x="101.01562"
-         y="712.01498"
-         id="tspan60"><tspan
-   style="font-weight:bold"
-   id="tspan58">D</tspan>: <tspan
-   style="font-style:italic"
-   id="tspan59">If a district with underground politicians</tspan>, flip all </tspan><tspan
-         x="101.01562"
-         y="748.68161"
-         id="tspan61">underground politicians there to active.
+         id="tspan33">the emergency zone to active.
 </tspan></text>
     <g
        id="g42"
@@ -314,138 +286,118 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect26);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-13.664173,397.2112)"><tspan
+       transform="translate(-13.664173,120.65275)"><tspan
          x="99.986328"
          y="467.12692"
-         id="tspan63"><tspan
-           style="font-weight:bold"
-           id="tspan62">Sweep
-</tspan></tspan><tspan
+         id="tspan35"><tspan
+   style="font-weight:bold"
+   id="tspan34">Sweep</tspan>
+</tspan><tspan
          x="99.986328"
          y="503.79355"
-         id="tspan65"><tspan
+         id="tspan37"><tspan
    style="font-weight:bold"
-   id="tspan64">Special Activities</tspan>: Any
+   id="tspan36">Location</tspan>: Any destination spaces (not foreign spaces).
 </tspan><tspan
          x="99.986328"
          y="540.46018"
-         id="tspan67"><tspan
+         id="tspan39"><tspan
    style="font-weight:bold"
-   id="tspan66">Purpose</tspan>: Move police and reveal Rat cells.
+   id="tspan38">Procedure</tspan>: Move police from adjacent spaces, then:
 </tspan><tspan
          x="99.986328"
          y="577.1268"
-         id="tspan69"><tspan
-   style="font-weight:bold"
-   id="tspan68">Location</tspan>: Any 3 destination spaces (not foreign spaces).
-</tspan><tspan
+         id="tspan41">* When sweeping into <tspan
+   style="font-style:italic"
+   id="tspan40">active</tspan> emergency zones, may reveal all </tspan><tspan
          x="99.986328"
          y="613.79343"
-         id="tspan71"><tspan
-   style="font-weight:bold"
-   id="tspan70">Procedure</tspan>: Move police from adjacent spaces, then:
+         id="tspan42">rat cells, OR assault.
 </tspan><tspan
          x="99.986328"
          y="650.46005"
-         id="tspan72">* If the space is at opposition, reveal one cell for every two </tspan><tspan
+         id="tspan44">* If the space has a <tspan
+   style="font-style:italic"
+   id="tspan43">passive</tspan> emergency zone or no opposition, </tspan><tspan
          x="99.986328"
          y="687.12668"
-         id="tspan73">police there.
+         id="tspan45">reveal one cell for every police.
 </tspan><tspan
          x="99.986328"
          y="723.79331"
-         id="tspan74">* Otherwise, reveal one cell for every police there.
-</tspan><tspan
+         id="tspan46">* If the space is at opposition, reveal one cell for every two </tspan><tspan
          x="99.986328"
          y="760.45993"
-         id="tspan75">* When sweeping into emergency zones, may assault there </tspan><tspan
+         id="tspan47">police there.
+</tspan><tspan
          x="99.986328"
          y="797.12656"
-         id="tspan76">instead of revealing.
-</tspan><tspan
+         id="tspan48">Then, if destination space is a district with sabotage, terror or </tspan><tspan
          x="99.986328"
          y="833.79318"
-         id="tspan77">Then, if destination space is a district with sabotage or terror, </tspan><tspan
-         x="99.986328"
-         y="870.45981"
-         id="tspan78">place an emergency zone.
+         id="tspan49">rat pieces, may place a passive emergency zone.
 </tspan><tspan
          x="99.986328"
-         y="907.12644"
-         id="tspan80"><tspan
+         y="870.45981"
+         id="tspan51"><tspan
            style="font-style:italic"
-           id="tspan79">Note: Movement is considered to be simultaneous.</tspan></tspan></text>
+           id="tspan50">Note: Each police can move only once.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text29"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect29);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-22.485282,373.34598)"><tspan
+       transform="translate(-22.485282,63.834769)"><tspan
          x="99.986328"
          y="1058.0351"
-         id="tspan82"><tspan
+         id="tspan53"><tspan
    style="font-weight:bold"
-   id="tspan81">Assault</tspan>
+   id="tspan52">Assault</tspan>
 </tspan><tspan
          x="99.986328"
          y="1094.7018"
-         id="tspan84"><tspan
+         id="tspan55"><tspan
    style="font-weight:bold"
-   id="tspan83">Special Activities:</tspan> Any
+   id="tspan54">Location:</tspan> Any 3 spaces with police.
 </tspan><tspan
          x="99.986328"
          y="1131.3684"
-         id="tspan86"><tspan
+         id="tspan57"><tspan
    style="font-weight:bold"
-   id="tspan85">Purpose:</tspan> Remove Rat cells, arm caches, moss growers, and </tspan><tspan
+   id="tspan56">Procedure:</tspan> In each space, roll for hits and add the number </tspan><tspan
          x="99.986328"
          y="1168.035"
-         id="tspan87">gangs.
+         id="tspan58">of police in the space.
 </tspan><tspan
          x="99.986328"
          y="1204.7016"
-         id="tspan89"><tspan
-   style="font-weight:bold"
-   id="tspan88">Location:</tspan> Any 3 spaces with police.
-</tspan><tspan
+         id="tspan60">* First, remove active rats <tspan
+   style="font-style:italic"
+   id="tspan59">(If the space is an emergency </tspan></tspan><tspan
          x="99.986328"
          y="1241.3683"
-         id="tspan91"><tspan
-   style="font-weight:bold"
-   id="tspan90">Procedure:</tspan> In each space, roll for hits and add the number </tspan><tspan
+         id="tspan62"><tspan
+   style="font-style:italic"
+   id="tspan61">zone, may spend one hit to flip an underground rat to active.)</tspan>
+</tspan><tspan
          x="99.986328"
          y="1278.0349"
-         id="tspan92">of police in the space.
-</tspan><tspan
+         id="tspan63">* Remove arms caches or the moss grower only once no rats </tspan><tspan
          x="99.986328"
          y="1314.7015"
-         id="tspan94">* First, remove active rats <tspan
-   style="font-style:italic"
-   id="tspan93">(If the space is an emergency </tspan></tspan><tspan
+         id="tspan64">remain.
+</tspan><tspan
          x="99.986328"
          y="1351.3681"
-         id="tspan96"><tspan
-   style="font-style:italic"
-   id="tspan95">zone, may spend one hit to flip an underground rat to active.)</tspan>
-</tspan><tspan
+         id="tspan65">* If more than 2 hits remain: remove a gangster, or if none, </tspan><tspan
          x="99.986328"
          y="1388.0348"
-         id="tspan97">* Remove arms caches or the moss grower only once no rats </tspan><tspan
+         id="tspan66">remove a civilian.
+</tspan><tspan
          x="99.986328"
          y="1424.7014"
-         id="tspan98">remain.
-</tspan><tspan
-         x="99.986328"
-         y="1461.368"
-         id="tspan99">* If more than 2 hits remain: remove a gangster, or if none, </tspan><tspan
-         x="99.986328"
-         y="1498.0346"
-         id="tspan100">remove a civilian.
-</tspan><tspan
-         x="99.986328"
-         y="1534.7013"
-         id="tspan101">If any civilians were removed, add a terror to the space.
+         id="tspan67">If any civilians were removed, add a terror to the space.
 </tspan></text>
     <rect
        style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.774579;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
@@ -465,39 +417,98 @@
        transform="translate(-37.999957,1019.0221)"><tspan
          x="99.986328"
          y="1058.0351"
-         id="tspan103"><tspan
+         id="tspan69"><tspan
            style="font-weight:bold"
-           id="tspan102">NOTES:
+           id="tspan68">NOTES:
 </tspan></tspan><tspan
          x="99.986328"
          y="1094.7018"
-         id="tspan105"><tspan
+         id="tspan71"><tspan
            style="font-size:26.6667px"
-           id="tspan104">*1: When removing arms caches or the moss grower, increase political </tspan></tspan><tspan
+           id="tspan70">*1: When removing arms caches or the moss grower, increase political </tspan></tspan><tspan
          x="99.986328"
          y="1131.3684"
-         id="tspan107"><tspan
+         id="tspan73"><tspan
            style="font-size:26.6667px"
-           id="tspan106">will by 1. When removing the moss grower, shift the moss track down </tspan></tspan><tspan
+           id="tspan72">will by 1. When removing the moss grower, shift the moss track down </tspan></tspan><tspan
          x="99.986328"
          y="1168.035"
-         id="tspan109"><tspan
+         id="tspan75"><tspan
            style="font-size:26.6667px"
-           id="tspan108">one space and halve moss profits (round down).
+           id="tspan74">one space and halve moss profits (round down).
 </tspan></tspan><tspan
          x="99.986328"
          y="1204.7016"
-         id="tspan111"><tspan
+         id="tspan77"><tspan
            style="font-size:26.6667px"
-           id="tspan110">* 2: Civilians and gangsters removed by government ops or specials are </tspan></tspan><tspan
+           id="tspan76">* 2: Civilians and gangsters removed by government ops or specials are </tspan></tspan><tspan
          x="99.986328"
          y="1241.3683"
-         id="tspan113"><tspan
+         id="tspan79"><tspan
            style="font-size:26.6667px"
-           id="tspan112">always placed in the government's collateral box.</tspan></tspan></text>
+           id="tspan78">always placed in the government's collateral box.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text26"
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect27);display:inline;vector-effect:non-scaling-stroke;fill:#ffffff;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#d3f3f3;fill-opacity:1;stroke:#000000;stroke-width:1.08774;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       id="rect6"
+       width="997.47412"
+       height="396.50952"
+       x="41.262951"
+       y="1573.712"
+       rx="85.678612"
+       ry="85.810616" />
+    <text
+       xml:space="preserve"
+       id="text16"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect16);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       x="-290.68002"
+       y="0"
+       transform="translate(-20.485282,1467.7264)"><tspan
+         x="101.01562"
+         y="162.0156"
+         id="tspan81"><tspan
+   style="font-weight:bold"
+   id="tspan80">Pacify</tspan>
+</tspan><tspan
+         x="101.01562"
+         y="198.68222"
+         id="tspan83"><tspan
+   style="font-weight:bold"
+   id="tspan82">Location: </tspan>Districts with police
+</tspan><tspan
+         x="101.01562"
+         y="235.34885"
+         id="tspan85"><tspan
+   style="font-weight:bold"
+   id="tspan84">Procedure: </tspan>In each space:
+</tspan><tspan
+         x="101.01562"
+         y="272.01547"
+         id="tspan86">Place an active politician or move an active politician to the </tspan><tspan
+         x="101.01562"
+         y="308.6821"
+         id="tspan87">space. Then, for each politician in that space, may remove a </tspan><tspan
+         x="101.01562"
+         y="345.34873"
+         id="tspan89">terror or sabotage from the space, or, <tspan
+   style="font-style:italic"
+   id="tspan88">if no terror or </tspan></tspan><tspan
+         x="101.01562"
+         y="382.01535"
+         id="tspan91"><tspan
+   style="font-style:italic"
+   id="tspan90">sabotage</tspan>, may shift the space towards support. Then, flip all </tspan><tspan
+         x="101.01562"
+         y="418.68198"
+         id="tspan92">underground politicians there to active.
+</tspan><tspan
+         x="101.01562"
+         y="455.3486"
+         id="tspan94"><tspan
+           style="font-style:italic"
+           id="tspan93">Note: Each politician may only move once.</tspan></tspan></text>
   </g>
 </svg>

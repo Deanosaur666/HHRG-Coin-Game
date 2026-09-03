@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="422.84986"
-     inkscape:cy="989.94949"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="695.79307"
+     inkscape:cy="1784.7375"
      inkscape:window-width="1920"
      inkscape:window-height="978"
      inkscape:window-x="0"
@@ -197,6 +197,12 @@
        width="850.03869"
        height="489.6704"
        id="rect7" />
+    <rect
+       x="101.01646"
+       y="136.06299"
+       width="865.00792"
+       height="368.48791"
+       id="rect14" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -206,7 +212,7 @@
        style="vector-effect:non-scaling-stroke;fill:#aaeded;fill-opacity:1;stroke:#000000;stroke-width:1.23298;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect20"
        width="1020"
-       height="410.01434"
+       height="349.20316"
        x="30"
        y="99.985657"
        rx="87.613495"
@@ -217,9 +223,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"><tspan
          x="52.392578"
          y="61.023438"
-         id="tspan6"><tspan
+         id="tspan5"><tspan
            style="font-weight:bold"
-           id="tspan2">GOVERNMENT SPECIAL ACTIVITIES</tspan></tspan></text>
+           id="tspan4">GOVERNMENT SPECIAL ACTIVITIES</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text23"
@@ -228,51 +234,45 @@
        y="0"><tspan
          x="101.01562"
          y="162.0156"
-         id="tspan9"><tspan
+         id="tspan7"><tspan
    style="font-weight:bold"
-   id="tspan8">Supply (Econ action)</tspan>
+   id="tspan6">Supply</tspan>
 </tspan><tspan
          x="101.01562"
          y="198.68222"
          id="tspan11"><tspan
    style="font-weight:bold"
-   id="tspan10">Accompanying Ops:</tspan> Mobilize, sweep or Assault
+   id="tspan10">Purpose:</tspan> Place armored cars to increase police supply.
 </tspan><tspan
          x="101.01562"
          y="235.34885"
-         id="tspan13"><tspan
+         id="tspan16"><tspan
    style="font-weight:bold"
-   id="tspan12">Purpose:</tspan> Place armored cars to increase police supply.
-</tspan><tspan
+   id="tspan15">Location</tspan>: Any un-sabotaged factories, or the out of play </tspan><tspan
          x="101.01562"
          y="272.01547"
-         id="tspan15"><tspan
-   style="font-weight:bold"
-   id="tspan14">Location</tspan>: An un-sabotaged factory, or the out of play </tspan><tspan
+         id="tspan18">box.
+</tspan><tspan
          x="101.01562"
          y="308.6821"
-         id="tspan16">box.
+         id="tspan21"><tspan
+   style="font-weight:bold"
+   id="tspan20">Procedure</tspan>: Either:
 </tspan><tspan
          x="101.01562"
          y="345.34873"
-         id="tspan18"><tspan
+         id="tspan24"><tspan
    style="font-weight:bold"
-   id="tspan17">Procedure</tspan>: Either:
-</tspan><tspan
+   id="tspan23">A</tspan>: Place an armored car at each selected factory, and </tspan><tspan
          x="101.01562"
          y="382.01535"
-         id="tspan20"><tspan
-   style="font-weight:bold"
-   id="tspan19">A</tspan>: Place an armored car at the selected factory, and then </tspan><tspan
-         x="101.01562"
-         y="418.68198"
-         id="tspan21">may place an available police there.
+         id="tspan25">then may place an available police there.
 </tspan><tspan
          x="101.01562"
-         y="455.3486"
-         id="tspan83"><tspan
+         y="418.68198"
+         id="tspan27"><tspan
    style="font-weight:bold"
-   id="tspan22">B</tspan>: Return 1 politician from out of play to available.</tspan></text>
+   id="tspan26">B</tspan>: Return 2 politicians from out of play to available.</tspan></text>
     <g
        id="g42"
        style="display:none"
@@ -299,9 +299,9 @@
        style="display:inline;vector-effect:non-scaling-stroke;fill:#aaeded;fill-opacity:1;stroke:#000000;stroke-width:1.23696;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect1"
        width="1020"
-       height="508.35095"
+       height="479.99997"
        x="30"
-       y="540"
+       y="480"
        rx="87.613487"
        ry="101.13425" />
     <text
@@ -310,69 +310,67 @@
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-15.592233,169.53615)"><tspan
+       transform="translate(-15.592233,109.53614)"><tspan
          x="99.986328"
          y="436.07419"
-         id="tspan85"><tspan
+         id="tspan29"><tspan
    style="font-weight:bold"
-   id="tspan84">Campaign</tspan>
+   id="tspan28">Campaign</tspan>
 </tspan><tspan
          x="99.986328"
          y="472.74081"
-         id="tspan87"><tspan
+         id="tspan31"><tspan
    style="font-weight:bold"
-   id="tspan86">Accompanying Ops:</tspan> Sweep, Assault
-</tspan><tspan
+   id="tspan30">Purpose:</tspan> Add civilian cubes or emergency zones and move </tspan><tspan
          x="99.986328"
          y="509.40744"
-         id="tspan89"><tspan
-   style="font-weight:bold"
-   id="tspan88">Purpose:</tspan> Add civilian cubes or emergency zones and move </tspan><tspan
+         id="tspan32">rats.
+</tspan><tspan
          x="99.986328"
          y="546.07407"
-         id="tspan90">rats.
+         id="tspan34"><tspan
+   style="font-weight:bold"
+   id="tspan33">Location:</tspan> Any districts with an active politician
 </tspan><tspan
          x="99.986328"
          y="582.74069"
-         id="tspan92"><tspan
+         id="tspan36"><tspan
    style="font-weight:bold"
-   id="tspan91">Location:</tspan> Any district with an active politician
-</tspan><tspan
+   id="tspan35">Procedure:</tspan> Flip an active politician in the district </tspan><tspan
          x="99.986328"
          y="619.40732"
-         id="tspan94"><tspan
-   style="font-weight:bold"
-   id="tspan93">Procedure:</tspan> Flip an active politician in the district </tspan><tspan
+         id="tspan37">underground.
+</tspan><tspan
          x="99.986328"
          y="656.07394"
-         id="tspan95">underground. Then, may either.
-</tspan><tspan
+         id="tspan39"><tspan
+   style="font-style:italic"
+   id="tspan38">If at support</tspan>, remove any support in the space, then either </tspan><tspan
          x="99.986328"
          y="692.74057"
-         id="tspan96">* Add one civilian cube to the space
-</tspan><tspan
+         id="tspan40">remove an emergency zone, or if no emergency zone, add </tspan><tspan
          x="99.986328"
          y="729.4072"
-         id="tspan97">* Place an emergency zone
+         id="tspan41">one civilian cube (up to population limit).
 </tspan><tspan
          x="99.986328"
          y="766.07382"
-         id="tspan98">Then, may move one rat cell in the selected space to an </tspan><tspan
+         id="tspan42">Then, may move one rat cell in the selected space to an </tspan><tspan
          x="99.986328"
          y="802.74045"
-         id="tspan99">adjacent space.
+         id="tspan43">adjacent space.
 </tspan><tspan
          x="99.986328"
          y="839.40707"
-         id="tspan100">
+         id="tspan44">
 </tspan></text>
     <rect
        style="display:inline;vector-effect:non-scaling-stroke;fill:#aaeded;fill-opacity:1;stroke:#000000;stroke-width:1.25348;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect12"
        width="1020"
-       height="330.1351"
+       height="299.99997"
        x="30"
-       y="1080"
+       y="990"
        rx="87.613495"
        ry="103.85313" />
     <text
@@ -381,49 +379,43 @@
        style="font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect18);display:inline;vector-effect:non-scaling-stroke;fill:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(-4.1625493,711.53616)"><tspan
+       transform="translate(-4.1625493,621.53618)"><tspan
          x="99.986328"
          y="436.07419"
-         id="tspan102"><tspan
+         id="tspan46"><tspan
    style="font-weight:bold"
-   id="tspan101">Transport</tspan>
+   id="tspan45">Transport</tspan>
 </tspan><tspan
          x="99.986328"
          y="472.74081"
-         id="tspan104"><tspan
+         id="tspan48"><tspan
    style="font-weight:bold"
-   id="tspan103">Accompanying Ops:</tspan> Any
+   id="tspan47">Purpose:</tspan> Move police
 </tspan><tspan
          x="99.986328"
          y="509.40744"
-         id="tspan106"><tspan
+         id="tspan50"><tspan
    style="font-weight:bold"
-   id="tspan105">Purpose:</tspan> Move police
+   id="tspan49">Location:</tspan> Any non-foreign destination spaces.
 </tspan><tspan
          x="99.986328"
          y="546.07407"
-         id="tspan108"><tspan
+         id="tspan52"><tspan
    style="font-weight:bold"
-   id="tspan107">Location:</tspan> Any non-foreign destination spaces.
-</tspan><tspan
+   id="tspan51">Procedure:</tspan> Move police from any spaces along a chain of </tspan><tspan
          x="99.986328"
          y="582.74069"
-         id="tspan110"><tspan
-   style="font-weight:bold"
-   id="tspan109">Procedure:</tspan> Move police from any spaces along a chain of </tspan><tspan
+         id="tspan53">un-sabotaged LOCs and strategic centers, then finally into </tspan><tspan
          x="99.986328"
          y="619.40732"
-         id="tspan111">un-sabotaged LOCs and strategic centers, then finally into </tspan><tspan
-         x="99.986328"
-         y="656.07394"
-         id="tspan112">adjacent destination spaces.</tspan></text>
+         id="tspan54">adjacent destination spaces.</tspan></text>
     <rect
        style="vector-effect:non-scaling-stroke;fill:#aaeded;fill-opacity:1;stroke:#000000;stroke-width:1.20834;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        id="rect4"
-       width="1014.5215"
-       height="485.7222"
-       x="32.739265"
-       y="1440"
+       width="1017.2607"
+       height="419.99997"
+       x="30"
+       y="1320"
        rx="91.191544"
        ry="94.712227" />
     <text
@@ -432,59 +424,93 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
        x="-440.01428"
        y="0"
-       transform="translate(7.8374344,463.53096)"><tspan
+       transform="translate(7.8374344,313.53095)"><tspan
          x="99.986328"
          y="1058.0351"
-         id="tspan114"><tspan
+         id="tspan56"><tspan
    style="font-weight:bold"
-   id="tspan113">Artillery</tspan>
+   id="tspan55">Artillery</tspan>
 </tspan><tspan
          x="99.986328"
          y="1094.7018"
-         id="tspan116"><tspan
+         id="tspan58"><tspan
            style="font-style:italic"
-           id="tspan115">Only available if artillery strategic center is not </tspan></tspan><tspan
+           id="tspan57">Only available if artillery strategic center is not </tspan></tspan><tspan
          x="99.986328"
          y="1131.3684"
-         id="tspan118"><tspan
+         id="tspan60"><tspan
    style="font-style:italic"
-   id="tspan117">sabotaged.</tspan>
+   id="tspan59">sabotaged.</tspan>
 </tspan><tspan
          x="99.986328"
          y="1168.035"
-         id="tspan120"><tspan
+         id="tspan62"><tspan
    style="font-weight:bold"
-   id="tspan119">Accompanying Ops:</tspan> Any
+   id="tspan61">Purpose:</tspan> Remove all pieces from a space.
 </tspan><tspan
          x="99.986328"
          y="1204.7016"
-         id="tspan122"><tspan
+         id="tspan64"><tspan
    style="font-weight:bold"
-   id="tspan121">Purpose:</tspan> Remove all pieces from a space.
+   id="tspan63">Location:</tspan> Any one district or foreign space.
 </tspan><tspan
          x="99.986328"
          y="1241.3683"
-         id="tspan124"><tspan
+         id="tspan66"><tspan
    style="font-weight:bold"
-   id="tspan123">Location:</tspan> Any one district or foreign space.
+   id="tspan65">Procedure:</tspan>
 </tspan><tspan
          x="99.986328"
          y="1278.0349"
-         id="tspan126"><tspan
-   style="font-weight:bold"
-   id="tspan125">Procedure:</tspan>
-</tspan><tspan
+         id="tspan67">If the artillery marker is available, place an artillery </tspan><tspan
          x="99.986328"
          y="1314.7015"
-         id="tspan127">If the artillery marker is available, place an artillery </tspan><tspan
+         id="tspan68">target marker in the selected space, on its orange </tspan><tspan
          x="99.986328"
          y="1351.3681"
-         id="tspan128">target marker in the selected space, on its orange </tspan><tspan
+         id="tspan69">(warning) side. Otherwise, move the artillery marker to </tspan><tspan
          x="99.986328"
          y="1388.0348"
-         id="tspan129">(warning) side. Otherwise, move the artillery marker to </tspan><tspan
-         x="99.986328"
-         y="1424.7014"
-         id="tspan130">available.</tspan></text>
+         id="tspan70">available.</tspan></text>
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:#000000;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       id="rect2"
+       width="2.8284271"
+       height="5.6568542"
+       x="1069.1455"
+       y="553.76868"
+       rx="87.613495"
+       ry="5.6568542" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.23298;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       id="rect3"
+       width="1020"
+       height="209.99995"
+       x="30"
+       y="2107.5549"
+       rx="87.613495"
+       ry="86.213272" />
+    <text
+       xml:space="preserve"
+       id="text13"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:hairline"
+       x="-290.68002"
+       y="0"
+       transform="translate(0,2007.5691)"><tspan
+         x="101.01562"
+         y="162.0156"
+         id="tspan72"><tspan
+   style="font-weight:bold"
+   id="tspan71">Econ</tspan>
+</tspan><tspan
+         x="101.01562"
+         y="198.68222"
+         id="tspan73">Perform the supply special activity, (limited to one factory </tspan><tspan
+         x="101.01562"
+         y="235.34885"
+         id="tspan74">or one politician returned), or return the artillery marker to </tspan><tspan
+         x="101.01562"
+         y="272.01547"
+         id="tspan75">available.</tspan></text>
   </g>
 </svg>
