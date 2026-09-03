@@ -25,21 +25,21 @@ Decrease political will by the economic value of each sabotaged strategic center
 
 Gain one political will for each active politician, and lose one political will for each politcian in out of play.
 
+# Emergency Zones
+Reduce political will by 1 for each **passive** emergency zone with rat pieces.
+Remove all rat pieces from each **active** emergency zone (Score removal bonuses as usual for caches and moss grower.)
+Then remove all emergency zones to available.
+
 # Last round game end
 
 If this is the last propaganda round, the game ends here.
-
-# Emergency Zones
-
-Remove any emergency zones without police or politicians.
-Rats in any remaining emergency zones are returned to available.
 
 # Propagandize
 
 Remove support from any spaces without active politicians.
 Remove opposition from any spaces without rat cells or the moss grower.
 
-In each space with active polticians and support, the government may place one civilian cube (up to the space maximum.
+In each space with active polticians and support, the government may place one civilian cube (up to the space maximum).
 
 In each space with at least one rat cell, and no police or politicians, shift one step towards resist.
 
@@ -53,7 +53,7 @@ In every district, repopulate if under the refill population.  Add gangsters if 
 
 Politicians and police in oppose spaces are returned to available.
 
-Rats must move from strategic centers and LOCs to districts without support, or foreign country spaces.
+Rats must move from strategic centers and LOCs where police cubes are equal or greater to rat cells to districts without support, or foreign country spaces.
 
 Rats may move an arms caches to a district with opposition.
 

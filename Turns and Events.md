@@ -21,7 +21,7 @@ Each turn (except for a turn that automatically triggers propaganda), events are
 | 1    | No effect                                                                                                                                                    |
 | 2    | Government player moves an additional armored car                                                                                                            |
 | 3    | Government player moves two additional armored cars.                                                                                                         |
-| 4    | Initiative player may replace a civilian with a gang member, or vice versa.                                                                                  |
+| 4    | Place a civilian (or gangster if terror) in a space with the lowest population.                                                                              |
 | 5    | Initiative player selects a valid space and rolls a shootout check.                                                                                          |
 | 6    | Initiative player selects a valid space with terror and triggers a shootout there (no roll). If no terror is on the map, may place a terror in any district. |
 
