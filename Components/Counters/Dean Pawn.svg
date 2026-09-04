@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="41.000599mm"
+   height="30.000237mm"
+   viewBox="0 0 41.000599 30.000237"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Dean Pawn.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#c8c8c8"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="3.0360269"
+     inkscape:cx="90.908284"
+     inkscape:cy="51.382943"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-2.999817"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.9998169)">
+    <path
+       id="rect1"
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.187088;stroke-linecap:round;-inkscape-stroke:hairline;paint-order:markers stroke fill"
+       d="M 12.500012,0 A 5.5,5.5 0 0 0 7.0000895,5.4999227 5.5,5.5 0 0 0 9.8216227,10.303764 L 7.1959432,22.118547 A 9.499999,9.499999 0 0 0 2.9998169,30.000236 H 7.4998006 10.999845 V 15.000118 h 1.500167 1.500167 v 15.000118 h 3.500045 4.499984 A 9.499999,9.499999 0 0 0 17.804081,22.118547 L 15.178402,10.303764 A 5.5,5.5 0 0 0 17.999935,5.4999227 5.5,5.5 0 0 0 12.500012,0 Z" />
+    <path
+       id="rect2-3"
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linecap:round;-inkscape-stroke:hairline;paint-order:markers stroke fill"
+       d="M 33.000053,0.20825602 A 5.5,5.5 0 0 0 29.000297,5.4999227 5.5,5.5 0 0 0 31.82183,10.303764 l -2.625679,11.814783 a 9.499999,9.499999 0 0 0 -4.196127,7.881689 h 4.499984 10.000423 4.499984 A 9.499999,9.499999 0 0 0 39.804289,22.118547 L 37.178609,10.303764 A 5.5,5.5 0 0 0 40.000142,5.4999227 5.5,5.5 0 0 0 35.99987,0.20825602 V 15.000118 h -1.49965 -1.500167 z" />
+  </g>
+</svg>
