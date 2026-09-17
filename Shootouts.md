@@ -1,3 +1,5 @@
+# Shootouts
+
 Shootouts can occur in spaces with gangsters or terror.
 
 Shootout "power" is gangsters + terror markers.

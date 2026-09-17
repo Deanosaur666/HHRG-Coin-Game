@@ -1,3 +1,7 @@
+# Ref image
+---
+Weh wuh
+
 ![[Pasted image 20260811123252.png]]
 
 # Passing
@@ -36,7 +40,7 @@ Whenever an arms cache or moss grower is removed by U Party assault or artillery
 ---
 When a politician is removed by a Rat attack, reduce political will by 2, an emergency zone is placed in the space (if none available, government chooses which space to pull from). Politicians are removed to out of play.
 
-# Government Ops
+# Gov Ops
 ---
 
 ## Mobilize
@@ -48,7 +52,7 @@ In each space, pick 1:
 * B:  *If LOCs with at least 2 police, or Strategic Centers with at least 3 police*, remove a sabotage
 * C: *If District with a passive emergency zone, and a police* flip the emergency zone to active.
 
-# Pacify
+## Pacify
 **Purpose:** Place politicians.
 **Location:** Districts with police.
 **Procedure:** In each space:
@@ -119,7 +123,7 @@ Then:
 
 
 
-# Government Special Activities
+# Gov Special Activities
 ---
 ## Supply
 **Purpose:** Place armored cars to increase police supply.

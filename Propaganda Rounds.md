@@ -39,7 +39,7 @@ If this is the last propaganda round, the game ends here.
 Remove support from any spaces without active politicians.
 Remove opposition from any spaces without rat cells or the moss grower.
 
-In each space with active polticians and support, the government may place one civilian cube (up to the space maximum).
+In each space with active politicians and support, the government may place one civilian cube (up to the space maximum).
 
 In each space with at least one rat cell, and no police or politicians, shift one step towards resist.
 
