@@ -2,7 +2,7 @@
 
 const markdownFiles = [
     {
-        label: 'Map and setup',
+        label: 'Setup',
         path:  'Map and setup.md',
         // include: [],
         // includelevel: 1,
@@ -41,7 +41,7 @@ const markdownFiles = [
     },
 
     {
-        label: "Turns and Events",
+        label: "Events",
         path: "Turns and Events.md"
     },
 

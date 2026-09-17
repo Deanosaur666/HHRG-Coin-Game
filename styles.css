@@ -12,13 +12,12 @@ button {
   -moz-border-radius: 12px;
   border-radius: 12px;
   padding: 10px;
-  font-size: 26px;
   margin: 0 5px 0px;
   width: auto;
   height: auto;
   z-index: 1;
   color: white;
-  text-shadow: -1.5px 1.5px black;
+  text-shadow: -0.5px 0.5px black;
   font-weight: bold;
 }
 
@@ -61,6 +60,20 @@ button:hover {
 #content .box .box {
     background: var(--md-bg-2);
     color: var(--md-text);
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0.5vw;
+}
+
+p + ul,
+p + ol {
+    margin-top: 0.1vw;
+}
+
+ul, ol {
+    margin-bottom: 1vw;
 }
 
 @media (max-width: 768px) {
