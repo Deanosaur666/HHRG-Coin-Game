@@ -248,10 +248,14 @@ async function loadMarkdown(file) {
 
         const rawMarkdown = await response.text();
 
+        console.log(rawMarkdown)
+
         let tree = parseMarkdown(rawMarkdown);
+        MDTreeStrings(tree).forEach((x) => console.log(x))
+
         tree = filterMDTree(tree, file.include, file.includelevel, file.exclude, file.excludelevel)
 
-        MDTreeStrings(tree).forEach((x) => console.log(x))
+        //MDTreeStrings(tree).forEach((x) => console.log(x))
 
         renderTree(tree, contentContainer);
 
