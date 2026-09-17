@@ -51,4 +51,4 @@ Fort David, Logan: 2 gangsters.
 
 4 police will be in available, and 8 will be in out of play.
 
-2 politicians will be on the map, 4 will be available, 2 will be out of play.
+2 politicians will be on the map, 3 will be available, and the rest will be out of play.

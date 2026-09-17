@@ -16,7 +16,7 @@ const markdownFiles = [
     {
         label: 'Rats',
         path:  'Ops and Special Activities.md',
-        include: ["Moss Track and Grower", "Rat Ops", "Rat Special Activities"],
+        include: ["Moss Track and Grower", "Rat Ops", "Rat Special Activities", "Rat Econ"],
         includelevel: 1,
         theme: {
             bg1: "#c00000",
@@ -27,7 +27,7 @@ const markdownFiles = [
     {
         label: 'Gov',
         path:  'Ops and Special Activities.md',
-        include: ["Assassination", "Gov Ops", "Gov Special Activities"],
+        include: ["Assassination", "Gov Ops", "Gov Special Activities", "Gov Econ"],
         includelevel: 1,
         theme: {
             bg1: "rgb(3, 3, 8)",
