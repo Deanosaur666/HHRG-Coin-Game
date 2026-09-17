@@ -160,7 +160,7 @@ If the artillery marker is available, place an artillery target marker in the se
 * *If the moss grower is on the map*, move the moss grower to an adjacent district.
 * *Otherwise*, place the moss grower in a district with an underground rat *and no support*.
 
-# Arm
+## Arm
 **Purpose:** Place arms caches
 **Location:** Districts or foreign spaces up to the special value on the moss track
 **Procedure:** Place an arms cache in each selected space.
