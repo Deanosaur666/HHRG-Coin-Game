@@ -2,6 +2,7 @@ body {
   background-color: #000000;
   color: #ffffff;
   font-family: "Times New Roman";
+  font-size: 16px;
 }
 
 button {
@@ -60,4 +61,24 @@ button:hover {
 #content .box .box {
     background: var(--md-bg-2);
     color: var(--md-text);
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 10px;
+    }
+        .box {
+        border: solid 1px white;
+        -webkit-border-radius: 6px;
+        -moz-border-radius: 6px;
+        border-radius: 6px;
+        padding: 6px 8px;
+        margin: 6px 0;
+
+    }
+    .box > h1,
+    .box > h2
+    {
+        margin: 0 0 4px 0;
+    }
 }
