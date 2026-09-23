@@ -6,25 +6,28 @@ All armored cars move. Do not perform the drug trade phase. If the artillery mar
 
 In every space with gangsters or terror, roll for a shootout ([[Shootouts]]).
 
-# Score population
-
-Score the difference in population (both civilians in gangsters) between districts at support and oppose.
-
-# Score Collateral
-
-Compare the number of cubes  in the collateral box for each side. Halve that value, rounding up. Add to political will if rats have more, subtract from political will if the government have more.
-
-Then, move all collateral to available.
-# Sabotage
+---
+# Political Will
+## Sabotage
 
 In each SC with more rats than police, place a sabotage.
 
 Decrease political will by the economic value of each sabotaged strategic center.
-# Emergency Zones
 
-Reduce political will by 1 for each **passive** emergency zone with rat pieces.
-Remove all rat pieces from each **active** emergency zone (Score removal bonuses as usual for caches and moss grower.)
-Then remove all emergency zones to available.
+## Score population
+
+Score the difference in population (both civilians in gangsters) between districts at support and oppose.
+
+## Score Collateral
+
+Compare the number of cubes  in the collateral box for each side. Halve that value, rounding up. Add to political will if rats have more, subtract from political will if the government have more.
+
+Then, move all collateral to available.
+## Emergency Zones
+
+Reduce political will by 1 for each emergency zone with rat cells.
+
+---
 
 # Last round game end
 
@@ -46,9 +49,9 @@ In every district, repopulate by one if under the refill population.  Add gangst
 
 Politicians and police in oppose spaces are returned to available.
 
-Rats must move from strategic centers and LOCs where police cubes are equal or greater to rat cells to districts with resist, or foreign country spaces.
+Rats must move from strategic centers and LOCs where police cubes are equal or greater to rat cells to districts with resist and no emergency zone, or foreign country spaces.
 
-Rats may arm in one space or place the moss grower in a space with an underground rat and no support.
+Rats may arm in one space or place the moss grower in a space with an underground rat and no support or emergency zone.
 
 # Reset
 

@@ -9,7 +9,7 @@ There is no passing!!!
 
 # Collateral
 ---
-When the government removes civilian gangsters in ops, special activities, or the artillery firing phase, those pieces will be sent to the government collateral box.
+When the government removes civilians or gangsters in ops, special activities, or the artillery firing phase, those pieces will be sent to the government collateral box.
 
 When the rats removes civilians or gang members in ops or special activities, those pieces will be sent to the rats collateral box.
 
@@ -41,23 +41,20 @@ When a politician is removed by a Rat attack, reduce political will by 2, an eme
 In each space, pick 1:
 * A: *If police station*, place up to 3 police if un-sabotaged, or 1 if sabotaged.
 * B:  *If LOCs with at least 2 police, or Strategic Centers with at least 3 police*, remove a sabotage
-* C: *If District with a passive emergency zone, and a police* flip the emergency zone to active.
 
 ## Pacify
-**Purpose:** Place politicians and remove terror/sabotage.
+**Purpose:** Place politicians, remove terror/sabotage, and shift to support.
 **Location:** Districts with police.
 **Procedure:** In each space:
-Place an active politician or move an active politician to the space. Then, for each active politician in that space, may remove a terror or sabotage from the space. Then, flip all underground politicians there to active.
-*Note: Each politician may only move once.*
+Place an active politician or move any number of active politicians to the space. Then, for each active politician in that space, may remove a terror or sabotage from the space, *or, if more politicians than rat cells,* shift the district towards support. Then, flip all underground politicians there to active.
+*Note: Each politician may only move once, and a politician cannot move on the turn it is placed.*
 ## Sweep
 **Purpose:** Move police and reveal Rat cells.
 **Location:** Any destination spaces (not foreign spaces).
 **Procedure:** Move police from adjacent spaces, then:
-* When sweeping into active emergency zones, may reveal all rat cells, OR assault.
-* If the space has a passive emergency zone or no opposition, reveal one cell for every police.
-* If the space is at opposition, reveal one cell for every two police there.
+* When sweeping into an emergency zone, may reveal all rat cells, OR assault.
+* Otherwise, reveal one cell for every police there.
 
-Then, if destination space is a district with sabotage, terror or rat pieces, may place a passive emergency zone.
 *Note: Each police officer may only move once.*
 
 ## Assault
@@ -66,8 +63,8 @@ Then, if destination space is a district with sabotage, terror or rat pieces, ma
 **Procedure:** In each space, roll for hits and add the number of police in the space.
 * First, remove active rats
 	* If the space is an emergency zone, may spend one hit to flip an underground rat to active.
-* Remove arms caches or the moss grower only once no rats remain. (See **Discs** and **Moss Track and Grower**)
-* If more than 2 hits remain: remove a gangster, or if none, remove a civilian. (See **Collateral**)
+* Remove arms caches or the moss grower only once no rats remain. (Add PW, reduce moss track/profits)
+* If more than 2 hits remain: remove a pop cube to collateral (gangsters first).
 If any civilians were removed, add a terror to the space.
 
 
@@ -81,7 +78,7 @@ If any civilians were removed, add a terror to the space.
 * *If foreign spaces or moss grower*, may place two cells 
 * *Otherwise*, may place one cell
 * *If terror* may replace terror marker with one cell.
-*Note: Rally may take Rat cells from spaces without active emergency zones if none are in available.*
+*Note: Rally may take Rat cells from spaces without active emergency zones if no Rat cells are in available.*
 
 ## Travel
 **Purpose:** Move Rat cells and flip them underground.
@@ -89,13 +86,13 @@ If any civilians were removed, add a terror to the space.
 **Procedure:** Move Rat cells to adjacent spaces. Then:
 * If destination is an emergency zone, strategic center, or LOC, and moving cells plus police and active politicians there exceed 3, flip moving cells to active.
 * Otherwise, if the destination is at oppose, may flip moving cells underground.
-*Note: Movement may be chained.*
+*Note: Rat cells may move multiple times in one turn.*
 
 ## Sabotage
 **Purpose:** Sabotage spaces and shift to oppose.
 **Location:** Any spaces with underground cells
 **Procedure:** In each space reveal one underground cell, and then roll a dice. If the result is greater than the number of police and active politicians in the space: place a sabotage *if none*, and then:
-* If the space is at opposition, may remove a passive emergency zone there, or flip an active emergency zone to passive.
+* If the space is at opposition, may remove an emergency zone there.
 * *Otherwise, If the space is a district,* shift it towards opposition.
 
 ## Bombing
@@ -105,10 +102,10 @@ If any civilians were removed, add a terror to the space.
 * First, must remove police cubes for 2 hits each (to out of play).
 * Then, once no police, may remove armored cars (max 1 per bombing).
 * Then, may remove politicians. (See **Assassination**).
-* If more than 2 hits remain, remove a civilian, or if none, a gangster. (See **Collateral**).
+* If more than 2 hits remain, remove a pop cube (civilians first). (See **Collateral**).
 Then:
 * If space is an LOC, place a sabotage *if none*.
-* Otherwise, place a terror *if none,* and a passive emergency zone if no emergency zone.
+* Otherwise, place a terror *if none.*
 * If there are any surviving active politicians in the space, flip them underground.
 *Note: Bombing may not use arms caches placed this turn.*
 
@@ -124,16 +121,15 @@ Then:
 * A: Place an armored car at each selected factory. May also place one police from available there.
 * B: Return 2 politicians from out of play to available.
 
-## Campaign
-**Purpose:** Shift to support, add civilian cubes ,and move rats.
-**Location:** Any districts with active politicians and no terror or sabotage.
-**Procedure:** Flip one or more active politicians in the district underground. For each politician flipped, shift one step towards support *or if at support* place a civilian cube (max 1 per space).
-Then, may move one rat cell per flipped politician in the selected space to adjacent spaces.
+## Lockdown
+**Purpose:** Place emergency zones.
+**Location:** Any districts with police and Rat pieces (max 3).
+**Procedure:** Place an emergency zone in each selected district.
 
 ## Transport
 **Purpose:** Move police 
 **Location:** Any non-foreign destination spaces.
-**Procedure:** Move police from any spaces along a chain of un-sabotaged LOCs and strategic centers, then finally into adjacent destination spaces.
+**Procedure:** Move police from any spaces along a chain of un-sabotaged LOCs and strategic centers, then finally into adjacent destination spaces (stop at sabotage).
 
 ## Artillery
 **Only available if artillery strategic center is not sabotaged.**
@@ -146,15 +142,15 @@ If the artillery marker is available, place an artillery target marker in the se
 # Rat Special Activities
 ---
 ## Traffic
-**Purpose:** Place or move the moss grower, increase gangster population.
+**Purpose:** Place or move the moss grower and increase moss profits.
 **Location:** A district with an underground rat or the moss grower.
 **Procedure:**
-* *If the moss grower is on the map*, may move the moss grower to an adjacent district. Then place a gangster in the moss grower space.
+* *If the moss grower is on the map*, may move the moss grower to an adjacent district. Then increase moss profits by the number of pop cubes in the moss grower's district.
 * *Otherwise*, place the moss grower in a district with an underground rat *and no support*.
 
 ## Arm
 **Purpose:** Place arms caches.
-**Location:** Districts or foreign spaces with underground rats up and no active emergency zones up to the special value on the moss track
+**Location:** Districts or foreign spaces with underground rats up and no emergency zones up to the special value on the moss track
 **Procedure:** May move one arms cache to an adjacent district. Then, place an arms cache in each selected space.
 
 ## Raid
