@@ -14,16 +14,20 @@ After the third propaganda round occurs, the game ends.
 
 # Events
 
-Each turn (except for a turn that automatically triggers propaganda), events are checked before players choose actions. A dice is rolled to determine what event occurs. If this even triggers a propaganda round, events do not occur. Otherwise, consult the table:
+Each turn (except for a turn that automatically triggers propaganda), events are checked before players choose actions. A dice is rolled to determine what event occurs. If this even triggers a propaganda round, events do not occur. Otherwise:
 
-| Roll | Result                                                                                                                                                       |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1    | No effect                                                                                                                                                    |
-| 2    | Government player moves an additional armored car                                                                                                            |
-| 3    | Government player moves two additional armored cars.                                                                                                         |
-| 4    | Place a civilian (or gangster if terror) in a space with the lowest population.                                                                              |
-| 5    | Initiative player selects a valid space and rolls a shootout check.                                                                                          |
-| 6    | Initiative player selects a valid space with terror and triggers a shootout there (no roll). If no terror is on the map, may place a terror in any district. |
+## 1
+No effect
+## 2
+Government player moves an additional armored car
+## 3
+Government player moves two additional armored cars.
+## 4
+Place a civilian (or gangster if terror) in a space with the lowest population.
+## 5
+Initiative player selects a valid space and rolls a shootout check.
+## 6
+Initiative player selects a valid space with terror and triggers a shootout there (no roll). If no terror is on the map, may place a terror in any district.
 
 # Armored car movement
 
