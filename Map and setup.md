@@ -7,7 +7,7 @@ The map has these types of spaces:
 * Foreign spaces (Aztlán territory)
 
 Strategic centers come in these types:
-* Factories, where armored cars start
+* Factories, where armored cars start.
 * Police stations, where armored cars reach their destination, and where police are trained.
 * Ray artillery cannons, which are required for the Government artillery special activity.
 
@@ -20,7 +20,6 @@ Only Rat pieces may be placed in foreign spaces.
 # Population and political will
 
 Political will starts at 14/20. The rats win if political will is under 10 at the end of the game, police win if over 10. At 10 it is a tie.
-
 
 # Setup
 
