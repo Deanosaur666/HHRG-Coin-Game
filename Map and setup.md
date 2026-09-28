@@ -35,7 +35,7 @@ The moss track values:
 
 ## U Party
 
-Place police in strategic centers, 3 in each station
+Place 3 police in each station.
 
 The U Party player chooses two non-southern districts. Place an active politician, police, and support.
 
@@ -43,9 +43,9 @@ The U Party player chooses two non-southern districts. Place an active politicia
 
 ## Rats
 
-The Rats player places two rats in each foreign space, and an arms cache in one of them. Then, they choose one southern space and place the moss grower, 2 rats, and opposition in them.
+The Rats player places two rats in each foreign space, and an arms cache in one of them. Then, they choose one southern space and place the moss grower, and place 2 rats in each southern space. Set both southern spaces to opposition.
 
-Then, the Rats player places one rat in every other space without a politician.
+Then, the Rats player places one rat in each of gold basin, alkali, and quartz coast without an opposition.
 
 ## Neutral cubes
 
@@ -58,6 +58,6 @@ Fort David, Logan: 2 gangsters.
 
 ## Available and out of play
 
-4 police will be in available, and 8 will be in out of play.
+2 police will be in available, and 8 will be in out of play.
 
-2 politicians will be on the map, 3 will be available, and the rest will be out of play.
+2 politicians will be on the map, 3 will be available, and 1 will be out of play. (6 politician pieces used in game, 4 pieces will not be used.)
