@@ -23,6 +23,16 @@ Political will starts at 14/20. The rats win if political will is under 10 at th
 
 # Setup
 
+## Tracks
+The moss track values:
+
+8 at top
+4 - 2 - 7
+3 - 2 - 6
+3 - 2 - 5
+3 - 1 - 4
+2 - 1 - 0
+
 ## U Party
 
 Place police in strategic centers, 3 in each station
