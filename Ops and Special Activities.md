@@ -27,6 +27,8 @@ Whenever an armored car is removed by a Rats attack, reduce political will by on
 
 Whenever an arms cache or moss grower is removed by U Party assault or artillery, increase political will by one.
 
+There can be at most 2 arms caches in a space. Two armored cars cannot occupy the same LOC checkpoint.
+
 # Assassination
 ---
 When a politician is removed by a Rat attack, reduce political will by 2, an emergency zone is placed in the space (if none available, government chooses which space to pull from). Politicians are removed to out of play.
@@ -75,9 +77,9 @@ If any civilians were removed, add a terror to the space.
 **Purpose:** Add Rat cells to the map.
 **Location:** Foreign spaces and non-support districts, without emergency zones.
 **Procedure:** In each selected space:
-* *If foreign spaces or moss grower*, may place two cells 
-* *Otherwise*, may place one cell
-* *If terror* may replace terror marker with one cell.
+* Place one cell,
+* *PLUS* one cell per disc there (arms caches and the moss grower)
+* *PLUS* one cell if it is a foreign space.
 *Note: Rally may take Rat cells from spaces without active emergency zones if no Rat cells are in available.*
 
 ## Travel
