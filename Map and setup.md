@@ -19,7 +19,7 @@ Only Rat pieces may be placed in foreign spaces.
 
 # Population and political will
 
-Political will starts at 14/20. The rats win if political will is under 10 at the end of the game, police win if over 10. At 10 it is a tie.
+Political will starts at 12/20. The rats win if political will is under 10 at the end of the game, police win if over 10. At 10 it is a tie.
 
 # Setup
 

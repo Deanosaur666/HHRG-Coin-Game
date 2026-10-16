@@ -84,8 +84,8 @@ If any civilians were removed, add a terror to the space.
 
 ## Travel
 **Purpose:** Move Rat cells and flip them underground.
-**Location:** Any origin spaces without emergency zones.
-**Procedure:** Move Rat cells to adjacent spaces. Then:
+**Location:** Any origin spaces.
+**Procedure:** Move Rat cells to adjacent spaces. *If the origin space is an emergency zone, only move one rat,* Then:
 * If destination is an emergency zone, strategic center, or LOC, and moving cells plus police and active politicians there exceed 3, flip moving cells to active.
 * Otherwise, if the destination is at oppose, may flip moving cells underground.
 *Note: Rat cells may move multiple times in one turn.*
@@ -127,6 +127,7 @@ Then:
 **Purpose:** Place emergency zones.
 **Location:** Any districts with police and Rat pieces (max 3).
 **Procedure:** Place an emergency zone in each selected district.
+*Note: Emergency zones with rat cells cannot be moved.*
 
 ## Transport
 **Purpose:** Move police 
