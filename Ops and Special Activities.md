@@ -53,7 +53,7 @@ Place an active politician or move any number of active politicians to the space
 ## Sweep
 **Purpose:** Move police and reveal Rat cells.
 **Location:** Any destination spaces (not foreign spaces).
-**Procedure:** Move police from adjacent spaces, then:
+**Procedure:** May move police onto adjacent un-sabotaged LOCs, then move police into adjacent destination spaces, then:
 * When sweeping into an emergency zone, may reveal all rat cells, OR assault.
 * Otherwise, reveal one cell for every police there.
 
@@ -64,7 +64,7 @@ Place an active politician or move any number of active politicians to the space
 **Location:** Any 3 spaces with police.
 **Procedure:** In each space, roll for hits and add the number of police in the space.
 * First, remove active rats
-	* If the space is an emergency zone, may spend one hit to flip an underground rat to active.
+	* If the space is an emergency zone, and no active rats, may spend one hit to flip an underground rat to active.
 * Remove arms caches or the moss grower only once no rats remain. (Add PW, reduce moss track/profits)
 * If more than 2 hits remain: remove a pop cube to collateral (gangsters first).
 If any civilians were removed, add a terror to the space.
