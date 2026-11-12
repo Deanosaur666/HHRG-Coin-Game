@@ -48,7 +48,7 @@ In each space, pick 1:
 **Purpose:** Place politicians, remove terror/sabotage, and shift to support.
 **Location:** Districts with police.
 **Procedure:** In each space:
-Place an active politician or move any number of active politicians to the space. Then, for each active politician in that space, may remove a terror or sabotage from the space, *or, if more politicians than rat cells,* shift the district towards support. Then, flip all underground politicians there to active.
+Place an active politician or move any number of active politicians to the space. Then, for each active politician in that space, may remove a terror or sabotage from the space, *then, once no terror/sabotage, if more politicians than rat cells,* shift the district towards support. Then, flip all underground politicians there to active.
 *Note: Each politician may only move once, and a politician cannot move on the turn it is placed.*
 ## Sweep
 **Purpose:** Move police and reveal Rat cells.
