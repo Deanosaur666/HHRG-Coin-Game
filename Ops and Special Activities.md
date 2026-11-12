@@ -106,7 +106,7 @@ If any civilians were removed, add a terror to the space.
 * Then, may remove politicians. (See **Assassination**).
 * If more than 2 hits remain, remove a pop cube (civilians first). (See **Collateral**).
 Then:
-* If space is an LOC, place a sabotage *if none*.
+* If space is an SC or LOC, place a sabotage *if none*.
 * Otherwise, place a terror *if none.*
 * If there are any surviving active politicians in the space, flip them underground.
 *Note: Bombing may not use arms caches placed this turn.*
