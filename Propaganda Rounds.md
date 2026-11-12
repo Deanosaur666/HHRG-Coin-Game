@@ -6,7 +6,7 @@ All armored cars move. Do not perform the drug trade phase. If the artillery mar
 # Shootouts
 ---
 
-In every space with gangsters or terror, roll for a shootout.
+In every district with gangsters or terror, roll for a shootout.
 
 # Political Will
 ---
@@ -37,16 +37,16 @@ If this is the last propaganda round, the game ends here.
 # Propagandize
 ---
 
-Remove support from any spaces without politicians.
+Remove support from any districts without politicians.
 
-In each space with at least one rat cell, and no police or politicians, shift one step towards resist.
+In each district with at least one rat cell, and no police or politicians, shift one step towards resist.
 
 # Repopulate
 ---
 
 (Start with the NW district, and go left-to right top to bottom, in the case that population is not available.)
 
-In every district, repopulate by one if under the refill population.  Add gangsters if there is a terror, or no civilians available. Otherwise, add civilians, or gangsters if no civilians available.
+In every district, repopulate by one if under the refill population (2).  Add gangsters if there is a terror, or no civilians available. Otherwise, add civilians, or gangsters if no civilians available.
 
 # Redeploy
 ---

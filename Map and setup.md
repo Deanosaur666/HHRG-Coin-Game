@@ -64,6 +64,8 @@ Fort David, Logan: 2 gangsters.
 
 2 politicians will be on the map, 3 will be available, and 1 will be out of play. (6 politician pieces used in game, 4 pieces will not be used.)
 
+2 emergency zones are used. The third is not used.
+
 # Map after setup
 
 ![[Map Rules Setup 2.png|500]]

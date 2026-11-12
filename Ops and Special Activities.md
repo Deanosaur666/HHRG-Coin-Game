@@ -61,7 +61,7 @@ Place an active politician or move any number of active politicians to the space
 
 ## Assault
 **Purpose:** Remove Rat cells, arm caches, moss growers, and gangs.
-**Location:** Any 3 spaces with police.
+**Location:** Any spaces with police.
 **Procedure:** In each space, roll for hits and add the number of police in the space.
 * First, remove active rats
 	* If the space is an emergency zone, and no active rats, may spend one hit to flip an underground rat to active.
@@ -125,9 +125,9 @@ Then:
 
 ## Lockdown
 **Purpose:** Place emergency zones.
-**Location:** Any districts with police and Rat pieces (max 3).
-**Procedure:** Place an emergency zone in each selected district.
-*Note: Emergency zones with rat cells cannot be moved.*
+**Location:** Any single district with police and Rat pieces.
+**Procedure:** Place an emergency zone in the selected district.
+*Note: Emergency zones with rat cells cannot be moved by Lockdown.*
 
 ## Transport
 **Purpose:** Move police 
